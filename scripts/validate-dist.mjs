@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
+import crypto from 'node:crypto';
 import { root, dist, hashes } from './dist-utils.mjs';
 const read = name => fs.readFileSync(path.join(dist, name), 'utf8');
 const cfg = JSON.parse(fs.readFileSync(path.join(root, 'edition.json')));
@@ -11,6 +12,27 @@ assert.equal(manifest.editionId, cfg.editionId);
 assert.equal(manifest.localDate, cfg.localDate);
 const actual = hashes();
 assert.deepEqual(actual, manifest.files, 'Committed dist differs from the approved public artifact hashes');
+// Live cover is part of this exact journal snapshot, not an independently updated feed.
+const cover = JSON.parse(read('edition-cover.json'));
+assert.deepEqual(Object.keys(cover).sort(), ['schemaVersion','editionId','date','image','label','credits'].sort());
+assert.equal(cover.schemaVersion, 1);
+assert.equal(cover.editionId, cfg.editionId);
+assert.equal(cover.date, cfg.localDate);
+assert.match(cover.editionId, /^\d{3,}$/);
+assert.match(cover.image.path, /^assets\/edition-covers\/edition-\d{3,}-[a-f0-9]{64}\.svg$/);
+assert.equal(cover.image.path, `assets/edition-covers/edition-${cfg.editionId}-${cover.image.sha256}.svg`);
+assert.equal(cover.image.width, 1000); assert.equal(cover.image.height, 1480);
+assert.equal(typeof cover.label, 'string'); assert.ok(cover.label.length > 0 && cover.label.length <= 160);
+assert.ok(Array.isArray(cover.credits) && cover.credits.length >= 1 && cover.credits.length <= 10);
+assert.ok(cover.credits.every(v => typeof v === 'string' && v.length > 0 && v.length <= 1000));
+const coverBytes = fs.readFileSync(path.join(dist, cover.image.path));
+assert.ok(coverBytes.length <= 3 * 1024 * 1024);
+assert.equal(crypto.createHash('sha256').update(coverBytes).digest('hex'), cover.image.sha256);
+const coverRecord = JSON.parse(fs.readFileSync(path.join(root, 'src/edition-covers', `edition-${cfg.editionId}.json`)));
+const { source: coverSource, ...coverPublic } = coverRecord;
+assert.deepEqual(coverPublic, cover);
+assert.deepEqual(coverSource.articleIds, cfg.homeArticleIds);
+
 const current = read('index.html');
 const rows = JSON.parse(current.match(/id="edition-data" type="application\/json">(.*?)<\/script>/s)[1]);
 const sourceRows = JSON.parse(fs.readFileSync(path.join(root, 'src/editions', cfg.editionId, 'articles.json')));

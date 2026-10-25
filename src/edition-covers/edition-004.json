@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "editionId": "004",
+  "date": "2026-10-25",
+  "image": {
+    "path": "assets/edition-covers/edition-004-1b51d66ece0df3b69ddd78a84dfa7ef20bf77d6e8bfd4a770b0d9781093b3657.svg",
+    "sha256": "1b51d66ece0df3b69ddd78a84dfa7ef20bf77d6e8bfd4a770b0d9781093b3657",
+    "width": 1000,
+    "height": 1480
+  },
+  "label": "Prévia editorial · composição vetorial da edição publicada",
+  "credits": [
+    "Liberation 2.1.5 · SIL Open Font License 1.1 · tipografia em curvas · https://github.com/liberationfonts/liberation-fonts/blob/main/LICENSE",
+    "Fotografia ilustrativa: fêmea adulta de Aedes aegypti em repouso, fotografada em 2022. Fonte gratuita: CDC/PHIL. O uso desta imagem não implica endosso do CDC, HHS ou governo dos Estados Unidos ao THE MED TIMES. CDC / Amy E. Lockwood, MS · PHIL 26041 · domínio público · Domínio público. Origem: https://wwwn.cdc.gov/phil/Details.aspx?pid=26041. Licença: https://www.cdc.gov/other/agencymaterials.html",
+    "Fotografia de contexto: quadrângulo da Harvard Medical School, em Boston, em 2008. SA (Drsamir) / Wikimedia Commons · domínio público · Domínio público. Origem: https://commons.wikimedia.org/wiki/File:Hms.jpg. Licença: https://commons.wikimedia.org/wiki/File:Hms.jpg#Licensing"
+  ],
+  "source": {
+    "inputSha256": "b182a129f9e085be08b1300a5463d6b3fd6221c0b5b92d7cbc1ce4a9e7d6754b",
+    "articleIds": [
+      "cateterismo-araguaia-2026",
+      "pesquisa-invika-start001",
+      "mais-medicos-especialistas-224",
+      "pesquisa-transplante-aplasia",
+      "instituicoes-ucl-reciprocidade",
+      "sus-utis-conectadas-2026",
+      "inovacao-rm-fetal-simetria",
+      "clinica-dengue-alarme",
+      "instituicoes-harvard-clerkships"
+    ],
+    "renderMethod": "approved-dense-cover-import"
+  }
+}

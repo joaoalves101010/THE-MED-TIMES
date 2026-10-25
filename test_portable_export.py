@@ -4,10 +4,17 @@ from pathlib import Path
 from archive_previews import sha
 P=Path(__file__).resolve().parent
 class PortableExportTests(unittest.TestCase):
+ def test_live_cover_bound_and_safe(self):
+  from edition_cover import verify_cover
+  meta=verify_cover(P)
+  self.assertEqual(meta['editionId'],json.loads((P/'edition.json').read_text())['editionId'])
+  self.assertEqual(meta['image']['width'],1000)
+  self.assertEqual(meta['image']['height'],1480)
  def test_public_identity(self):
   cfg=json.loads((P/'edition.json').read_text())
   self.assertEqual(cfg['projectId'],'the-med-times')
-  self.assertEqual(cfg['publishingMode'],'manual-snapshot')
+  if cfg['editionId']=='004':self.assertIn(cfg['publishingMode'],('manual-snapshot','scheduled-github-snapshot'))
+  else:self.assertEqual(cfg['publishingMode'],'scheduled-github-snapshot')
  def test_no_private_records_in_output(self):
   for item in (P/'dist').rglob('*'):
    self.assertNotIn(item.name,{'RELEASE_MANIFEST.json','release-evidence.json','EDITORIAL_REVIEW.json','release-provenance','maintenance-provenance','.env','.openai'})

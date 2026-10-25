@@ -228,4 +228,6 @@ archivebody=f'<main id="conteudo"><div class="section-label"><h1>Arquivo de edi�
 (OUT/'edicao/index.html').write_text(shell('Arquivo de edições',archivebody,'../'))
 (OUT/'404.html').write_text(shell('Página não encontrada','<main id="conteudo" class="about"><p class="kicker">Página não encontrada</p><h1>Esta página não está na edição.</h1><p><a href="/">Voltar à primeira página →</a></p></main>','/'))
 (CURRENT/'articles.json').write_text(json.dumps(ALL,ensure_ascii=False,indent=2))
+from edition_cover import build_edition_cover
+build_edition_cover(ROOT,CONFIG,ALL,allow_render=False)
 print(f'Edition{EDITION_ID} complete: {len(ALL)} unique articles; 6 section papers with 16 articles each; {len(chosen)} home teasers; editions001/002 preserved.')
