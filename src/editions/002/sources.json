@@ -1,0 +1,27 @@
+{
+  "title": "Mapa de fontes",
+  "subtitle": "Uma seleção editorial para acompanhar medicina, ciência e SUS.",
+  "mode": "Curadoria manual: este diretório não coleta notícias nem se atualiza sozinho.",
+  "updatedAt": "2026-10-24",
+  "sources": [
+    {"name":"Ministério da Saúde","url":"https://www.gov.br/saude/pt-br/assuntos/noticias-ms","category":"SUS e políticas públicas","description":"Anúncios, programas e comunicados oficiais. Metas institucionais não equivalem a resultados avaliados."},
+    {"name":"Anvisa","url":"https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa","category":"Regulação e segurança","description":"Decisões regulatórias e alertas. Conferir o ato original e os produtos, lotes e datas abrangidos."},
+    {"name":"Agência Fiocruz","url":"https://agencia.fiocruz.br/","category":"Pesquisa e saúde coletiva","description":"Pesquisa, formação e saúde pública. Localizar o estudo ou documento citado antes de resumir achados."},
+    {"name":"Agência FAPESP","url":"https://agencia.fapesp.br/","category":"Ciência brasileira","description":"Divulgação de pesquisas e acesso às referências. Distinguir associação, experimento e aplicação clínica."},
+    {"name":"OMS","url":"https://www.who.int/news","category":"Saúde global","description":"Comunicados e iniciativas globais. Conferir abrangência geográfica, data e documento de referência."},
+    {"name":"OPAS","url":"https://www.paho.org/pt/noticias","category":"Saúde nas Américas","description":"Vigilância, cooperação e sistemas de saúde na região. Consultar boletins e dados originais quando disponíveis."},
+    {"name":"NIH","url":"https://www.nih.gov/press-room","category":"Pesquisa biomédica","description":"Comunicados de pesquisa e links para artigos. Identificar método, população, limitações e financiamento."},
+    {"name":"MIT News — Health care","url":"https://news.mit.edu/topic/health-care","category":"Tecnologia médica","description":"Pesquisa em engenharia e saúde. Não confundir protótipo ou desempenho técnico com benefício clínico comprovado."},
+    {"name":"MD Anderson — Research Newsroom","url":"https://www.mdanderson.org/newsroom/research-newsroom.html","category":"Oncologia","description":"Pesquisa oncológica, incluindo congressos. Verificar fase do estudo, desfechos, seguimento e conflitos declarados."},
+    {"name":"NEJM","url":"https://www.nejm.org/","category":"Literatura clínica","description":"Artigos e análises clínicas. Ler desenho, resultados absolutos e limitações; alguns conteúdos exigem acesso."}
+  ],
+  "workflow": [
+    "Buscar primeiro publicações do dia; quando necessário, selecionar a semana e mostrar a data original.",
+    "Abrir a fonte, verificar autoria e separar data da notícia, do estudo e do acontecimento.",
+    "Identificar o tipo de evidência; conferir números e distinguir resultados observados de metas ou hipóteses.",
+    "Escrever síntese original, preservar limitações e apontar implicações para a formação médica sem prescrição individual.",
+    "Usar apenas imagens reais com permissão de reprodução verificada; manter crédito, origem e condições. Sem permissão, publicar apenas texto.",
+    "Revisar texto, links, imagens e datas antes de publicar. Correções devem ficar identificáveis no histórico."
+  ],
+  "verificationNote":"Diretório proposto, não assinatura nem automação. URLs oficiais consultadas em24/10; Fiocruz, OPAS e NEJM tiveram bloqueio/erro de leitura na ferramenta, sem inferência sobre indisponibilidade pública."
+}

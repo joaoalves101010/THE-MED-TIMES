@@ -1,0 +1,14 @@
+{
+  "name": "the-med-times",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jornal estático em português — snapshot editorial portátil",
+  "scripts": {
+    "build": "node scripts/validate-dist.mjs",
+    "test": "node scripts/validate-dist.mjs && node test_reading_ui.js",
+    "build:source": "python3 build.py",
+    "test:python": "python3 verify.py && python3 -m unittest test_reading_structure test_renewal_policy test_portable_export",
+    "snapshot:hashes": "node scripts/update-dist-hashes.mjs"
+  },
+  "engines": { "node": "24.x" }
+}

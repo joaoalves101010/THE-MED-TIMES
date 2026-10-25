@@ -1,0 +1,30 @@
+[
+  {
+    "id": "clinica-dengue-alarme",
+    "filename": "aedes-aegypti.webp",
+    "width": 1600,
+    "height": 1067,
+    "alt": "Macro de uma fêmea de Aedes aegypti sobre uma superfície verde.",
+    "caption": "Fotografia ilustrativa: fêmea adulta de Aedes aegypti em repouso, fotografada em 2022. Fonte gratuita: CDC/PHIL. O uso desta imagem não implica endosso do CDC, HHS ou governo dos Estados Unidos ao THE MED TIMES.",
+    "credit": "CDC / Amy E. Lockwood, MS · PHIL 26041 · domínio público",
+    "sourceUrl": "https://wwwn.cdc.gov/phil/Details.aspx?pid=26041",
+    "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+    "license": "Domínio público",
+    "kind": "context-photograph",
+    "cleared": true
+  },
+  {
+    "id": "instituicoes-harvard-clerkships",
+    "filename": "harvard-medical-school.webp",
+    "width": 1600,
+    "height": 1066,
+    "alt": "Quadrângulo da Harvard Medical School, com Gordon Hall ao centro e gramado à frente.",
+    "caption": "Fotografia de contexto: quadrângulo da Harvard Medical School, em Boston, em 2008. ",
+    "credit": "SA (Drsamir) / Wikimedia Commons · domínio público",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hms.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hms.jpg#Licensing",
+    "license": "Domínio público",
+    "kind": "context-photograph",
+    "cleared": true
+  }
+]

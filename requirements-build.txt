@@ -1,0 +1,4 @@
+# Optional: only for rendering NEW or changed cover thumbnails.
+# The committed snapshot rebuild reuses verified, content-addressed thumbnails.
+Pillow==12.3.0
+PyMuPDF==1.26.6

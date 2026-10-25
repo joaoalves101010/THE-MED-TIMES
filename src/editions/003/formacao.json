@@ -1,0 +1,338 @@
+[
+  {
+    "id": "mais-medicos-especialistas-224",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Mais Médicos oferece aperfeiçoamento para especialistas",
+    "deck": "Chamada não é ingresso em graduação nem em residência médica.",
+    "date": "2026-10-21",
+    "contentType": "Notícia",
+    "sourceName": "Ministério da Saúde",
+    "sourceUrl": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-abre-inscricoes-para-nova-chamada-do-projeto-mais-medicos-especialistas/",
+    "evidenceType": "Anúncio oficial · aperfeiçoamento e provimento",
+    "paragraphs": [
+      "O Ministério da Saúde anunciou em 21 de outubro uma nova chamada do Mais Médicos Especialistas, com 224 vagas imediatas e 4.350 posições em cadastro reserva. A publicação informa inscrições até 29 de outubro, pelo portal UNA-SUS, para atividades que combinam atuação na rede pública e aperfeiçoamento.",
+      "A seleção contempla 24 cursos e prioriza necessidades de distribuição territorial de especialistas. Segundo o ministério, 46% das vagas imediatas estão no Nordeste e 55% são destinadas a municípios do interior. São características da oferta, não demonstrações de que os postos já foram preenchidos ou de que filas diminuíram.",
+      "O público é de médicos com CRM e Registro de Qualificação de Especialista ativos, conforme os requisitos divulgados. Estudantes de graduação não devem interpretar o anúncio como oportunidade de ingresso direto. Para a formação, a notícia ajuda a distinguir etapas diferentes: graduação, residência, reconhecimento de especialidade e educação continuada em serviço. A confirmação de documentação e cronograma deve ocorrer na chamada oficial."
+    ],
+    "implication": "Aperfeiçoamento para especialistas não substitui o percurso de formação inicial.",
+    "discussionPrompt": "Quem é elegível para esta chamada?",
+    "sourceDateEvidence": "Cabeçalho da fonte: 2026-10-21",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "humanidades-poesia-cuidado",
+    "category": "Formação",
+    "title": "Poesia à beira do leito: uma pauta para as humanidades médicas",
+    "deck": "Anúncio do Prêmio Sandblom, em Lund, coloca dignidade e experiência do adoecimento no centro da conversa.",
+    "date": "2026-10-19",
+    "sourceName": "Universidade de Lund",
+    "sourceUrl": "https://www.medicine.lu.se/article/sandblom-prize-soothing-soul-bedside-poetry",
+    "evidenceType": "Notícia institucional e entrevista; não é estudo de eficácia",
+    "paragraphs": [
+      "Em notícia publicada em 19 de outubro, a Universidade de Lund apresentou o trabalho de Fiona Sampson, poeta ligada às artes no cuidado em saúde, e anunciou sua participação no Prêmio Philip Sandblom, com programação prevista para 22 de outubro.",
+      "A proposta discutida é preservar espaço para identidade, medo e significado durante o adoecimento. A reportagem descreve atividades com poemas e escrita em ambientes de cuidado, realizadas junto a profissionais e com salvaguardas clínicas.",
+      "Não se trata de um ensaio demonstrando eficácia terapêutica. A notícia apresenta uma perspectiva sobre humanização, sem defender que arte substitua tratamento ou que toda pessoa deva participar dessas atividades. Também não confirma, por si só, a realização posterior do evento anunciado. Na graduação, o tema pode abrir uma conversa sobre escuta e autonomia: reconhecer a experiência de adoecer exige atenção ao que o paciente deseja compartilhar — e ao que prefere preservar."
+    ],
+    "implication": "Humanidades provocam reflexão; relatos de experiência não demonstram eficácia.",
+    "discussionPrompt": "Como respeitar quem prefere não participar?",
+    "section": "formacao",
+    "contentType": "Notícia",
+    "verifiedAt": "2026-10-24",
+    "sourceDateEvidence": "Universidade de Lund: published 19 October 2026; programação anunciada para 22/10, sem presumir realização."
+  },
+  {
+    "id": "guia-consort-ensaio",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "CONSORT: transparência antes do entusiasmo com o resultado",
+    "deck": "Checklist ajuda a localizar informações essenciais de um ensaio randomizado.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "EQUATOR / CONSORT",
+    "sourceUrl": "https://www.equator-network.org/reporting-guidelines/consort/",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "A declaração CONSORT orienta o relato de ensaios randomizados. A versão de 2025, apresentada pela rede EQUATOR, oferece um referencial para que autores descrevam o estudo com informações que permitam ao leitor compreender o que foi feito, em quem e com quais resultados.",
+      "Na leitura de um artigo, a utilidade não é procurar uma sigla como selo automático de qualidade. É verificar se o texto permite reconstruir as escolhas metodológicas e o caminho dos participantes. Ausência de informação e falha de método não são exatamente a mesma coisa, embora ambas limitem a interpretação.",
+      "Um exercício para grupos de estudo é separar afirmações sobre eficácia dos elementos necessários para julgá-las. A existência de randomização, por si só, não elimina problemas de perdas, análise ou aplicabilidade. O checklist organiza perguntas, mas não substitui avaliação crítica nem transforma todo resultado estatisticamente favorável em benefício clinicamente importante. Também é preciso reconhecer quando o desenho exige uma extensão específica da orientação principal."
+    ],
+    "implication": "Relato completo facilita avaliação; não garante que o estudo seja isento de viés.",
+    "discussionPrompt": "Que informação falta para julgar o ensaio?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-strobe-observacionais",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "STROBE ajuda a ler estudos observacionais sem atalhos",
+    "deck": "Coortes, casos-controles e estudos transversais pedem perguntas próprias.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "EQUATOR / STROBE",
+    "sourceUrl": "https://www.equator-network.org/reporting-guidelines/strobe/",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "A declaração STROBE reúne orientações para relatar estudos observacionais, especialmente coortes, estudos de casos e controles e levantamentos transversais. A rede EQUATOR disponibiliza versões do checklist para esses desenhos, evitando tratar pesquisas com estruturas diferentes como se respondessem às mesmas perguntas.",
+      "Para estudantes, o primeiro passo é identificar como participantes, exposições e desfechos entraram na investigação. Em seguida, interessa saber se as informações disponíveis permitem avaliar seleção, mensuração e possíveis explicações alternativas. Uma associação precisa ser lida no contexto da forma como os dados foram produzidos e analisados.",
+      "O checklist não converte observação em experimento nem resolve confundimento por simples preenchimento. Seu papel é tornar o relato mais transparente. Em uma discussão de artigo, vale marcar o que os autores realmente informam, o que permanece ausente e o que o leitor está apenas presumindo. Esse hábito ajuda a evitar títulos causais exagerados e conclusões mais amplas que a população estudada permite."
+    ],
+    "implication": "Identifique o desenho antes de decidir o alcance da conclusão.",
+    "discussionPrompt": "O estudo descreve associação ou testa uma intervenção?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-prisma-revisoes",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Uma revisão precisa mostrar como encontrou suas evidências",
+    "deck": "PRISMA organiza o relato; o fluxograma sozinho não garante qualidade.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "PRISMA",
+    "sourceUrl": "https://www.prisma-statement.org/",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O PRISMA foi desenvolvido para melhorar a apresentação de revisões sistemáticas. A orientação principal, PRISMA 2020, aborda sobretudo revisões dos efeitos de intervenções e é complementada por extensões para outros tipos ou aspectos de síntese de evidências, incluindo revisões de escopo.",
+      "O site oficial organiza checklist, versão expandida e fluxograma. Esses materiais ajudam a tornar visíveis a razão da revisão, os métodos utilizados e os resultados encontrados. Para o leitor, a vantagem é poder acompanhar decisões que muitas vezes desaparecem atrás de uma conclusão resumida ou de um gráfico de metanálise.",
+      "Na iniciação científica, convém definir a pergunta e o tipo de revisão antes de escolher um modelo de escrita. Seguir uma lista de relato não corrige uma busca insuficiente nem torna estudos incompatíveis automaticamente combináveis. Uma atividade útil é pedir a outro estudante que reconstrua a seleção das evidências a partir do texto. Se isso não for possível, a transparência precisa ser melhorada antes da submissão."
+    ],
+    "implication": "Uma síntese confiável precisa tornar seu percurso verificável.",
+    "discussionPrompt": "Outro leitor conseguiria reconstruir a seleção dos estudos?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-care-relato-caso",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Relato de caso exige mais que uma história interessante",
+    "deck": "CARE inclui cronologia, limitações e perspectiva do paciente.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "CARE Guidelines",
+    "sourceUrl": "https://www.care-statement.org/checklist",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O checklist CARE orienta a apresentação de relatos de caso, incluindo informações clínicas desidentificadas, linha do tempo, avaliação diagnóstica, intervenções e acompanhamento. A estrutura ajuda a transformar uma narrativa de atendimento em um registro compreensível, sem depender apenas da memória ou do caráter incomum da situação.",
+      "A proposta também solicita discussão de limitações, eventos inesperados, perspectiva do paciente e consentimento informado. Esses elementos lembram que uma publicação não é somente uma oportunidade curricular: envolve uma pessoa, sua experiência e informações que precisam ser tratadas com responsabilidade.",
+      "Para estudantes, organizar a cronologia permite distinguir o que foi observado do que foi interpretado posteriormente. Um desfecho favorável após uma intervenção não demonstra sozinho que ela o causou. O relato pode gerar hipóteses e compartilhar observações relevantes, mas não substitui estudos comparativos para estimar eficácia. Antes de escrever, vale discutir com a supervisão a finalidade científica, os cuidados de privacidade e as exigências do periódico escolhido."
+    ],
+    "implication": "A qualidade do relato depende de clareza clínica e responsabilidade com o paciente.",
+    "discussionPrompt": "O que é observação e o que é inferência neste caso?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-arrive-animais",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Pesquisa com animais precisa permitir escrutínio",
+    "deck": "ARRIVE conecta desenho, registro de métodos e transparência na publicação.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "NC3Rs / ARRIVE",
+    "sourceUrl": "https://arriveguidelines.org/about",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "As diretrizes ARRIVE orientam o relato de pesquisas com animais vivos em diferentes áreas das biociências. Seu objetivo é disponibilizar detalhes suficientes para que leitores e revisores examinem o rigor do estudo e compreendam os métodos, em vez de depender apenas de uma conclusão apresentada pelos autores.",
+      "O material oficial destaca utilidade desde o planejamento: desenho experimental, redução de vieses, tamanho amostral e análise estatística precisam ser pensados antes da redação final. Durante a execução, registrar decisões e procedimentos evita que informações importantes desapareçam quando chega o momento de escrever.",
+      "Para quem inicia em laboratório, o checklist funciona melhor como apoio contínuo do que como tarefa burocrática após a coleta. Transparência não equivale a autorização ética nem assegura que um efeito em animais se reproduzirá em pessoas. A leitura crítica deve manter essa separação, reconhecendo o valor mecanístico da pesquisa e os limites de sua tradução clínica. Uma descrição rigorosa é condição para avaliação, não promessa de aplicação imediata."
+    ],
+    "implication": "Métodos bem documentados sustentam crítica e reprodutibilidade, não extrapolação automática.",
+    "discussionPrompt": "Que detalhe permitiria a outro grupo repetir o procedimento?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-grade-evidencia",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Certeza da evidência não é força da recomendação",
+    "deck": "GRADE ajuda a separar dois julgamentos frequentemente confundidos.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "GRADE Working Group",
+    "sourceUrl": "https://www.gradeworkinggroup.org/",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O GRADE propõe uma abordagem explícita para classificar a certeza das evidências e a força das recomendações. O grupo responsável destaca que decisões em saúde exigem mais do que saber se uma intervenção apresentou um resultado favorável em uma revisão ou em um estudo isolado.",
+      "A avaliação envolve quais desfechos importam, quão confiáveis são as estimativas e como benefícios e danos se equilibram. Recursos e contexto também podem influenciar uma recomendação. Assim, a síntese dos efeitos é fundamental, mas não encerra todas as escolhas necessárias para orientar uma conduta ou política.",
+      "Na graduação, um exercício útil é ler separadamente a afirmação sobre evidência e a orientação proposta. Uma recomendação não deve ser interpretada como comando descontextualizado, e um rótulo de certeza não informa sozinho a magnitude do benefício. Perguntar quais resultados foram valorizados e quais incertezas permanecem torna a discussão mais transparente, especialmente quando diferentes pessoas atribuem pesos distintos aos mesmos benefícios, riscos e limitações práticas."
+    ],
+    "implication": "Não reduza a decisão a um único grau ou letra na tabela.",
+    "discussionPrompt": "Qual julgamento pertence à evidência e qual pertence à decisão?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-autoria-icmje",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Autoria científica combina crédito e responsabilidade",
+    "deck": "ICMJE recomenda discutir contribuições antes que o manuscrito esteja pronto.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "ICMJE",
+    "sourceUrl": "https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "As recomendações do ICMJE definem autoria por quatro dimensões combinadas: contribuição substancial ao trabalho, participação intelectual na redação ou revisão, aprovação da versão final e responsabilidade pela integridade do conteúdo. Estar próximo do projeto ou ocupar posição hierárquica não substitui esses critérios.",
+      "O documento também diferencia autores de outros colaboradores e recomenda discutir a composição do grupo durante o planejamento, ajustando-a conforme o trabalho evolui. Quem contribuiu substancialmente deve ter oportunidade de participar da revisão, redação e aprovação, evitando exclusão artificial pela distribuição das tarefas.",
+      "Para estudantes em iniciação científica, a lição é conversar cedo sobre expectativas, funções e registros de contribuição. Autoria não é apenas uma linha no currículo: envolve compreender o artigo e responder por sua confiabilidade. A ordem dos nomes deve ser discutida pelo grupo, não presumida por tradição informal. Em conflitos, o texto aponta responsabilidades institucionais; este guia não substitui as políticas específicas do projeto ou do periódico."
+    ],
+    "implication": "Defina contribuições e responsabilidades antes da disputa por posições na lista.",
+    "discussionPrompt": "Todos os autores conseguem explicar sua contribuição?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-registro-ensaios",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "O registro de ensaios permite olhar além do artigo",
+    "deck": "ICTRP reúne informações públicas, mas não é o local de registro direto.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Organização Mundial da Saúde / ICTRP",
+    "sourceUrl": "https://www.who.int/tools/clinical-trials-registry-platform",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "A plataforma internacional de registros de ensaios clínicos da OMS busca tornar acessível uma visão mais completa da pesquisa. Ela organiza o acesso a informações públicas sobre estudos e explica que o registro deve ser realizado em um registro primário, não diretamente na própria ICTRP.",
+      "Para esse propósito, ensaio clínico é uma pesquisa que atribui prospectivamente intervenções relacionadas à saúde a participantes ou grupos e avalia seus efeitos. A definição não se limita a medicamentos: pode incluir procedimentos, dispositivos, estratégias comportamentais e mudanças na organização do cuidado.",
+      "Na leitura crítica, consultar o registro oferece uma oportunidade de comparar o planejamento declarado com a publicação. Diferenças precisam ser compreendidas, não tratadas automaticamente como fraude; podem existir alterações justificadas, mas elas devem ser transparentes. O registro tampouco certifica eficácia ou substitui avaliação ética. Para um estudante, a principal habilidade é localizar identificadores e informações relevantes sem confundir a existência de um estudo com a demonstração de que sua intervenção funciona."
+    ],
+    "implication": "Registro, publicação e comprovação de benefício são etapas distintas.",
+    "discussionPrompt": "O desfecho publicado corresponde ao planejamento registrado?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-pubmed-busca",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Buscar no PubMed é construir uma pergunta rastreável",
+    "deck": "Filtros e termos ajudam, mas podem esconder artigos relevantes.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "National Library of Medicine / PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/help/",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O guia oficial do PubMed descreve recursos de busca, filtros, campos e ferramentas para organizar resultados. Para estudantes, seu valor está em transformar uma pesquisa improvisada em um processo que possa ser explicado e repetido, em vez de escolher apenas os primeiros títulos que aparecem.",
+      "Uma estratégia começa com os conceitos centrais da pergunta e seus termos alternativos. Depois, é preciso verificar como a busca foi interpretada e se os limites escolhidos fazem sentido. Restringir demais por idioma, data ou tipo de publicação pode reduzir o volume de resultados, mas também excluir material importante.",
+      "O tutorial é uma referência operacional, não um método completo de revisão sistemática. Localizar um artigo também não equivale a validar sua conclusão ou garantir acesso ao texto integral. Em uma atividade de aprendizagem, registre expressão utilizada, data da busca e mudanças feitas após examinar os resultados. Esse pequeno histórico permite discutir por que certos estudos foram encontrados e outros não, tornando a seleção menos dependente de lembranças e preferências."
+    ],
+    "implication": "A busca precisa ser explicável, não apenas volumosa.",
+    "discussionPrompt": "Algum filtro excluiu estudos relevantes?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-enamed-formacao",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Enamed: entenda a finalidade antes de acompanhar o calendário",
+    "deck": "Avaliação da formação e seleção para residência são dimensões relacionadas, mas distintas.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Inep",
+    "sourceUrl": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enamed",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O portal oficial apresenta o Enamed como iniciativa do Ministério da Educação conduzida pelo Inep, voltada à avaliação da formação médica. Entre os objetivos estão verificar competências e habilidades, apoiar a melhoria dos cursos e articular a avaliação com o acesso à residência médica.",
+      "Para o estudante, entender essa finalidade é diferente de decorar regras de uma edição. Público, procedimentos, uso de resultados e cronograma dependem dos documentos oficiais aplicáveis. A página institucional também descreve mudanças futuras, que não devem ser confundidas com exigências já cumpridas ou automaticamente válidas para todos os participantes.",
+      "Este guia não anuncia inscrições abertas nem certifica elegibilidade individual. Ao acompanhar o exame, separe a função educacional do indicador e o percurso administrativo necessário para participar de uma seleção. Uma nota pode orientar discussão curricular, mas não resume toda a competência profissional. Antes de organizar documentos ou assumir um prazo, identifique a edição, consulte o edital correspondente e verifique se houve retificações posteriores."
+    ],
+    "implication": "Leia objetivo, edição e regra operacional como informações diferentes.",
+    "discussionPrompt": "A informação consultada vale para qual edição?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-revalida-etapas",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Revalida não é seleção para residência",
+    "deck": "O exame subsidia a revalidação de diplomas médicos obtidos no exterior.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Inep",
+    "sourceUrl": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O Inep descreve o Revalida como instrumento que subsidia a revalidação de diplomas médicos expedidos por instituições estrangeiras. O público inclui brasileiros e estrangeiros formados fora do país que pretendem atuar no Brasil. Sua finalidade é diferente da seleção para uma especialidade.",
+      "A apresentação oficial informa avaliação de conhecimentos e de habilidades clínicas em etapas distintas. Essa combinação torna visível que preparação profissional não se resume a recordar conteúdos: também envolve demonstrar competências em situações de avaliação prática. Requisitos documentais e procedimentos devem ser verificados nos instrumentos da edição correspondente.",
+      "Para estudantes, o tema ajuda a organizar trajetórias sem confundir diploma, avaliação, revalidação e acesso à residência. Este texto não afirma que inscrições estejam abertas nem substitui a análise de documentos de um candidato. Uma leitura responsável identifica a finalidade de cada processo e consulta o canal oficial antes de transferir informações de uma edição para outra. Mudanças anunciadas para o futuro exigem atenção ao período de aplicação."
+    ],
+    "implication": "Distinguir processos evita planejar a carreira com base em equivalências inexistentes.",
+    "discussionPrompt": "Qual etapa corresponde à especialização?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-enare-edital",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Enare: a seleção começa pela leitura do edital correto",
+    "deck": "Portal oficial reúne programas participantes, edições e orientações de acesso.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "HU Brasil / Enare",
+    "sourceUrl": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/enare/",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O Enare é apresentado pela HU Brasil como seleção nacional unificada para programas de residência médica e de residência em área profissional da saúde. A participação das instituições e a oferta de vagas obedecem às regras próprias do processo, não equivalendo a reunir automaticamente toda residência existente no país.",
+      "O portal diferencia modalidades e descreve etapas de classificação e escolha institucional. Para quem planeja candidatar-se, o ponto inicial é identificar o tipo de programa e a edição correta. Informações gerais ajudam a navegar, mas requisitos, documentos, prazos e eventuais alterações precisam ser conferidos no edital pertinente.",
+      "Este guia não anuncia uma nova oportunidade nem confirma inscrição aberta. Sua proposta é reduzir erros de percurso: confundir acesso direto com programas que exigem formação anterior, interpretar classificação como matrícula concluída ou ignorar publicações complementares. A preparação acadêmica deve caminhar com acompanhamento administrativo organizado. Guardar a versão consultada e verificar retificações torna o planejamento mais seguro sem depender de resumos compartilhados em grupos."
+    ],
+    "implication": "Classificação, convocação e matrícula não são sinônimos.",
+    "discussionPrompt": "Qual documento confirma a etapa atual?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-residencia-supervisao",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Residência é formação supervisionada em serviço",
+    "deck": "A definição oficial combina assistência, ensino e responsabilidade institucional.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Ministério da Educação",
+    "sourceUrl": "https://www.gov.br/mec/pt-br/assuntos/residencia-medica",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "O Ministério da Educação define residência médica como modalidade de pós-graduação destinada a médicos, caracterizada por treinamento em serviço sob orientação profissional qualificada. Essa descrição é importante porque a presença no ambiente assistencial, sozinha, não caracteriza um programa de residência.",
+      "A página oficial atribui à Comissão Nacional de Residência Médica funções de credenciamento, supervisão, avaliação e regulação dos programas. Para quem compara trajetórias, isso ajuda a separar residência de outras ofertas de aperfeiçoamento ou especialização, sem presumir equivalência apenas pelo nome de um curso ou pela instituição que o anuncia.",
+      "Na graduação, conhecer o modelo permite fazer perguntas melhores sobre o futuro cenário de aprendizagem: como se organiza a supervisão, quais experiências compõem o percurso e como o residente recebe retorno sobre sua evolução. Este guia não avalia a qualidade de um programa específico. A escolha exige consultar informações oficiais e compreender o projeto formativo, sem reduzir a análise à reputação, à carga assistencial ou ao desempenho em uma seleção."
+    ],
+    "implication": "Um cenário de trabalho precisa de estrutura educacional para sustentar formação.",
+    "discussionPrompt": "Como a supervisão aparece no projeto do programa?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "guia-spirit-protocolo",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "O protocolo deve explicar decisões antes dos resultados",
+    "deck": "SPIRIT organiza o que precisa estar descrito no planejamento de um ensaio.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "EQUATOR / SPIRIT",
+    "sourceUrl": "https://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/",
+    "evidenceType": "Referência metodológica · guia educacional",
+    "paragraphs": [
+      "A declaração SPIRIT orienta o conteúdo de protocolos de ensaios clínicos. A página da rede EQUATOR apresenta a atualização de 2025 e seus materiais de apoio. O foco é diferente do relato final: tornar compreensível o estudo planejado antes de interpretar os resultados que ele produzirá.",
+      "Para estudantes envolvidos em pesquisa, essa distinção evita tratar o protocolo como uma introdução expandida ou como formulário meramente administrativo. Ele deve permitir discutir coerência entre pergunta, participantes, intervenção, comparação e avaliação. Decisões pouco claras nessa fase podem comprometer a interpretação mesmo quando a execução parece organizada.",
+      "Uma atividade de aprendizado é pedir a um colega que descreva, com base no protocolo, o que aconteceria com cada participante e como a pergunta seria respondida. Dúvidas revelam pontos que precisam de esclarecimento, não necessariamente falhas irrecuperáveis. Seguir uma orientação de relato não substitui revisão metodológica, aprovação ética ou registro adequado. O valor está em explicitar escolhas e facilitar crítica antes que os dados incentivem interpretações convenientes."
+    ],
+    "implication": "Planejamento transparente permite discutir problemas antes dos resultados.",
+    "discussionPrompt": "O protocolo permite entender o desenho?",
+    "sourceDateEvidence": "Referência oficial consultada em 24/10/2026; guia atemporal, sem anúncio de inscrições abertas.",
+    "verifiedAt": "2026-10-24"
+  }
+]

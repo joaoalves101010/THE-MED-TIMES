@@ -1,0 +1,338 @@
+[
+  {
+    "id": "inovacao-rm-fetal-simetria",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "IA usa simetria para acompanhar o cérebro fetal na ressonância",
+    "deck": "E(3)-Pose tenta reduzir falhas provocadas pelo movimento; treinamento ainda se concentra no terceiro trimestre.",
+    "date": "2026-10-19",
+    "contentType": "Notícia",
+    "sourceName": "MIT Schwarzman College of Computing",
+    "sourceUrl": "https://computing.mit.edu/news/why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable/",
+    "evidenceType": "Desenvolvimento tecnológico apresentado em congresso",
+    "paragraphs": [
+      "O movimento fetal pode desalinhavar as imagens que compõem uma ressonância tridimensional. Pesquisadores do MIT, Boston Children’s Hospital e Inria desenvolveram o E(3)-Pose para acompanhar a orientação da cabeça e ajudar a ajustar a aquisição durante o exame. O trabalho foi apresentado na conferência ECCV de 2026.",
+      "A arquitetura incorpora a simetria entre os lados do cérebro, em vez de depender apenas de aprender essa característica a partir dos dados. A proposta é diminuir lacunas entre os cortes bidimensionais que prejudicam a avaliação de estruturas pequenas, sem transferir ao algoritmo a decisão diagnóstica do radiologista.",
+      "A etapa de desenvolvimento importa: o modelo foi treinado principalmente com fetos do terceiro trimestre. A equipe pretende ampliar seu desempenho para fases anteriores, quando há mais espaço para movimento. A divulgação descreve uma solução técnica promissora, mas não estabelece redução de diagnósticos errados ou de retornos ao hospital na prática cotidiana."
+    ],
+    "implication": "Melhor aquisição pode ajudar a interpretação; benefício clínico precisa ser medido separadamente.",
+    "discussionPrompt": "Como avaliar o sistema em diferentes idades gestacionais?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-10-19",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-adesivo-sanaheal",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Bioadesivo busca unir tecidos sem depender apenas de pontos",
+    "deck": "Tecnologia da SanaHeal adere a superfícies úmidas; novas aplicações cirúrgicas ainda aguardam estudos em humanos.",
+    "date": "2026-10-20",
+    "contentType": "Notícia",
+    "sourceName": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020",
+    "evidenceType": "Relato institucional de desenvolvimento e comercialização",
+    "paragraphs": [
+      "A SanaHeal, empresa originada no MIT, desenvolveu um material adesivo para superfícies biológicas úmidas e irregulares. A intenção é formar uma vedação contra líquidos e ar, oferecendo aos cirurgiões outra maneira de aproximar tecidos em situações nas quais suturas e grampos exigem trabalho delicado.",
+      "Segundo a reportagem institucional, a tecnologia já obteve autorização regulatória para conter sangramento traumático. Isso não equivale à liberação de todas as aplicações imaginadas pela empresa. Ensaios em humanos para controle de sangramento durante cirurgias e reparo de tecidos estão previstos para o ano seguinte ao anúncio.",
+      "O desenvolvimento comercial ocorre com empresas parceiras, que podem incorporar o material a diferentes dispositivos. Essa estratégia distribui os desafios de fabricação e validação, mas cada indicação continua precisando de evidências próprias. Redução de tempo operatório, custos ou complicações deve ser tratada como expectativa a verificar, e não como resultado demonstrado pela notícia."
+    ],
+    "implication": "A autorização para uma finalidade não valida automaticamente outras utilizações cirúrgicas.",
+    "discussionPrompt": "Que comparação com suturas seria decisiva para adoção?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-10-20",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-glicina-sensores",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Glicina ganha estabilidade para futuros sensores biodegradáveis",
+    "deck": "Material piezoelétrico flexível preservou desempenho em laboratório, mas ainda precisa enfrentar condições do corpo.",
+    "date": "2026-10-06",
+    "contentType": "Notícia",
+    "sourceName": "Stanford Report",
+    "sourceUrl": "https://news.stanford.edu/stories/2026/10/engineering-amino-acid-future-sensors",
+    "evidenceType": "Estudo de materiais; estágio laboratorial",
+    "paragraphs": [
+      "Pesquisadores de Stanford desenvolveram uma estratégia para tornar a glicina mais útil na fabricação de sensores. Esse aminoácido pode produzir resposta elétrica quando submetido a esforço mecânico, mas sua rápida dissolução em água e a instabilidade da estrutura cristalina dificultam aplicações biomédicas.",
+      "A equipe combinou cristalização sob campo elétrico, confinamento em espaços muito pequenos e estabilizadores moleculares. Uma matriz polimérica retardou a degradação: o composto manteve desempenho piezoelétrico após 60 dias nas condições testadas. A proposta é preservar flexibilidade e controlar a duração do material, em vez de impedir sua decomposição indefinidamente.",
+      "O resultado não representa um sensor implantável pronto. Os próximos testes incluem temperatura corporal e diferentes condições de acidez, que podem alterar a estabilidade. Para uso médico, também será necessário avaliar o dispositivo completo, sua segurança e sua capacidade de gerar medidas úteis. A familiaridade biológica de um ingrediente não resolve sozinha essas questões."
+    ],
+    "implication": "A inovação está no controle do material, ainda não em um produto clínico disponível.",
+    "discussionPrompt": "Qual duração seria suficiente para monitoramento temporário após cirurgia?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-10-06",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-opm-meg",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Capacete com sensores magnéticos amplia possibilidades de estudar o cérebro",
+    "deck": "Sistema OPM-MEG de Stanford permite investigar atividade cerebral com maior liberdade de movimento.",
+    "date": "2026-09-08",
+    "contentType": "Notícia",
+    "sourceName": "Stanford Report",
+    "sourceUrl": "https://news.stanford.edu/stories/2026/09/advanced-brain-scanner-imaging-opm-meg",
+    "evidenceType": "Infraestrutura experimental de neuroimagem",
+    "paragraphs": [
+      "Stanford apresentou um sistema de magnetoencefalografia com magnetômetros opticamente bombeados, conhecido como OPM-MEG. Instalado em um laboratório compartilhado, o equipamento detecta campos magnéticos associados à atividade cerebral e foi disponibilizado à comunidade universitária para experimentos de neurociência humana.",
+      "Os sensores podem ficar próximos ao couro cabeludo e ser ajustados a diferentes formatos de cabeça. A configuração descrita reúne 144 sensores. Em comparação com sistemas tradicionais volumosos, a tecnologia oferece mais liberdade para movimentos e interações, característica relevante para estudos de linguagem, memória e desenvolvimento infantil.",
+      "O anúncio trata de capacidade de pesquisa, não de um novo exame de rastreamento disponível para a população. Investigar padrões relacionados a doenças neurológicas é uma possibilidade futura; identificar um sinal experimental não demonstra, por si só, valor diagnóstico. Protocolos, comparações e validação clínica serão necessários para traduzir resultados desse ambiente em decisões assistenciais confiáveis."
+    ],
+    "implication": "Equipamentos mais adaptáveis podem permitir perguntas antes difíceis de testar em voluntários.",
+    "discussionPrompt": "Que tarefas naturais poderiam melhorar estudos de linguagem?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-09-08",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-contraste-colageno",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Contraste experimental destaca pequenos tumores pulmonares em camundongos",
+    "deck": "Agente para ressonância mira colágeno associado ao tumor; segurança em pessoas ainda não foi estabelecida.",
+    "date": "2026-10-07",
+    "contentType": "Notícia",
+    "sourceName": "National Institutes of Health",
+    "sourceUrl": "https://www.nih.gov/news-events/nih-research-matters/improving-lung-cancer-detection",
+    "evidenceType": "Estudo pré-clínico em modelos animais e análise de tecidos",
+    "paragraphs": [
+      "Um contraste baseado em proteína melhorou a visualização de tumores pulmonares em modelos animais, segundo divulgação do NIH. Chamado hProCA32.Collagen, o agente foi projetado para se ligar ao colágeno tipo I, que pode se acumular ao redor de tumores e em suas bordas invasivas.",
+      "Os pesquisadores encontraram esse marcador em amostras humanas de câncer de pulmão e testaram a estratégia de imagem em camundongos. A ressonância com o contraste experimental identificou pequenas lesões e metástases em órgãos como rins e adrenais. Os achados sugerem uma maneira de explorar características do tecido ao redor do câncer.",
+      "A comparação favorável com outros métodos ocorreu nas condições desses experimentos e não autoriza substituir exames em pacientes. Ainda faltam estudos para determinar segurança e efetividade em seres humanos. Mesmo uma imagem mais sensível precisará demonstrar que ajuda no estadiamento ou nas decisões de cuidado sem gerar investigações desnecessárias."
+    ],
+    "implication": "Trata-se de uma plataforma de imagem pré-clínica, não de recomendação de rastreamento.",
+    "discussionPrompt": "Como distinguir maior detecção de benefício real ao paciente?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-10-07",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-perturb-seq",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Atlas de células T transforma edição genética em ferramenta de descoberta",
+    "deck": "Base pública relaciona alterações em milhares de genes a mudanças na atividade celular.",
+    "date": "2026-10-13",
+    "contentType": "Notícia",
+    "sourceName": "Stanford Report",
+    "sourceUrl": "https://news.stanford.edu/stories/2026/10/dataset-immune-cells-autoimmune-disease",
+    "evidenceType": "Plataforma experimental de genômica em células humanas",
+    "paragraphs": [
+      "Pesquisadores de Stanford e dos Gladstone Institutes construíram uma base para investigar como genes regulam células T humanas. A equipe reduziu, um por vez, a atividade de 12.748 genes e acompanhou as consequências sobre a expressão de outros genes em aproximadamente 22 milhões de células.",
+      "O método combina intervenções baseadas em CRISPR com leitura de atividade genética, abordagem chamada perturb-seq. As células vieram de quatro doadores. Em vez de apenas observar associações, a plataforma permite estudar o que muda depois de uma perturbação definida, fornecendo pistas sobre relações dentro das redes regulatórias.",
+      "A base pública pode orientar pesquisas sobre doenças autoimunes e ajudar a selecionar alvos para experimentos adicionais. Entretanto, o grande número de células não elimina a diversidade limitada de doadores nem reproduz todo o organismo. O recurso é uma infraestrutura de investigação: não identifica automaticamente um tratamento eficaz, e hipóteses geradas precisam de confirmação em contextos relevantes."
+    ],
+    "implication": "Escala experimental amplia o mapa, mas não substitui diversidade biológica e validação.",
+    "discussionPrompt": "Como ampliar a representatividade desse tipo de atlas?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-10-13",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-fda-genai",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "FDA debate avaliação de dispositivos com IA generativa",
+    "deck": "Documento explora testes de competência e acompanhamento após comercialização; não estabelece uma regra final.",
+    "date": "2026-08-18",
+    "contentType": "Notícia",
+    "sourceName": "FDA",
+    "sourceUrl": "https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
+    "evidenceType": "Documento regulatório de discussão",
+    "paragraphs": [
+      "A FDA publicou em agosto um documento de discussão sobre dispositivos médicos com inteligência artificial generativa. A consulta abordou avaliação de risco, testes antes da entrada no mercado e acompanhamento posterior. O comunicado fixou 19 de outubro de 2026 como prazo para contribuições, já transcorrido na data desta edição.",
+      "Entre as possibilidades discutidas está uma avaliação de competência que combina testes não clínicos com confirmação clínica. O texto também considera modelos de base e sistemas capazes de executar ações, além de propor que a intensidade do monitoramento acompanhe o risco do dispositivo.",
+      "O estágio do documento é essencial para interpretar a notícia: são alternativas submetidas a debate, não uma autorização de produtos nem um conjunto definitivo de exigências. Para equipes que desenvolvem ferramentas, a discussão indica perguntas importantes sobre desempenho e falhas. Para profissionais e pacientes, não muda o fato de que cada utilização precisa ter finalidade e limites claramente definidos."
+    ],
+    "implication": "A proposta organiza perguntas de avaliação; sua publicação não comprova segurança de qualquer sistema.",
+    "discussionPrompt": "Que falhas deveriam ser monitoradas depois da implantação?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-08-18",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-lista-fda-ia",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Como interpretar a lista de dispositivos com IA da FDA",
+    "deck": "Base oficial localiza documentos; não classifica qualidade.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "FDA",
+    "sourceUrl": "https://www.fda.gov/medical-devices/artificial-intelligence-enabled-medical-devices/list-artificial-intelligence-enabled-medical-devices",
+    "evidenceType": "Base regulatória oficial; guia de leitura",
+    "paragraphs": [
+      "A lista de dispositivos médicos com IA da FDA reúne produtos autorizados para comercialização nos Estados Unidos. Sua utilidade é permitir que profissionais e pesquisadores localizem o registro de um equipamento e consultem as informações públicas disponíveis sobre a decisão regulatória.",
+      "O primeiro passo é abrir o número de submissão, em vez de se limitar ao nome comercial. A base informa empresa, data da decisão e classificação. Os documentos vinculados podem esclarecer a finalidade avaliada e características do dispositivo. A própria agência avisa que os resumos públicos não contêm tudo o que foi apresentado pelo fabricante.",
+      "Também é importante conhecer as lacunas: a lista não é exaustiva e identifica produtos principalmente por termos associados à IA nos documentos. A ausência de um nome, portanto, não encerra uma verificação. Estar incluído tampouco demonstra superioridade sobre alternativas ou adequação a qualquer hospital. A decisão de uso exige análise específica da indicação e do contexto."
+    ],
+    "implication": "Use a lista como porta de entrada para evidências, não como selo comparativo.",
+    "discussionPrompt": "Quais documentos sua equipe exige antes de avaliar uma ferramenta?",
+    "sourceDateEvidence": "Guia sem data de notícia; página oficial consultada em 2026-10-24.",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-iris-celulas",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "IRIS reconstrói sinais celulares em modelos experimentais",
+    "deck": "Ferramenta computacional pode apoiar organoides e engenharia de tecidos, sem representar uma terapia regenerativa pronta.",
+    "date": "2026-10-15",
+    "contentType": "Notícia",
+    "sourceName": "MIT News / Whitehead Institute",
+    "sourceUrl": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+    "evidenceType": "Método computacional com validação experimental",
+    "paragraphs": [
+      "Entender o destino de uma célula exige investigar os sinais que ela recebeu de suas vizinhas. Pesquisadores ligados ao MIT e ao Whitehead Institute apresentaram o IRIS, modelo de aprendizado de máquina que estima a atividade de vias de sinalização a partir de padrões de expressão genética.",
+      "O sistema foi treinado com respostas de células-tronco embrionárias humanas a combinações de seis vias principais. Depois, foi testado em células de embriões de camundongos. A equipe identificou assinaturas que puderam ser reconhecidas entre diferentes tipos celulares e verificou experimentalmente uma previsão relacionada ao desenvolvimento pulmonar.",
+      "O potencial imediato está em melhorar modelos de laboratório e orientar experimentos de diferenciação celular. Isso pode ser relevante para produzir organoides mais informativos, mas não significa fabricar órgãos transplantáveis ou reparar tecidos em pacientes. As inferências dependem dos dados e das condições estudadas; expandir sua validade exigirá novas comparações e confirmação biológica independente."
+    ],
+    "implication": "O avanço é uma ferramenta para formular e testar hipóteses sobre formação de tecidos.",
+    "discussionPrompt": "Em quais tipos celulares a transferência do modelo deve ser testada primeiro?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-10-15",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-ai-guide",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "AI-GUIDE combina ultrassom portátil e IA para apoiar acesso vascular",
+    "deck": "Protótipo em transferência para a indústria recebeu reconhecimento tecnológico; designação especial não equivale a autorização comercial.",
+    "date": "2026-09-11",
+    "contentType": "Notícia",
+    "sourceName": "MIT News / Lincoln Laboratory",
+    "sourceUrl": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+    "evidenceType": "Transferência tecnológica de protótipo médico",
+    "paragraphs": [
+      "O AI-GUIDE recebeu um prêmio de transferência tecnológica do Federal Laboratory Consortium. Desenvolvido pelo MIT Lincoln Laboratory e pelo Massachusetts General Hospital, o sistema combina software próprio de inteligência artificial com ultrassom portátil para apoiar a inserção de fio-guia e cateter em vasos sanguíneos.",
+      "A proposta responde à dificuldade de obter acesso vascular em situações fora do hospital. O projeto está sendo transferido para a AutonomUS Medical Technologies, empresa criada para avançar seu desenvolvimento comercial. A divulgação também relata testes clínicos de viabilidade, sem apresentar uma comparação abrangente de resultados assistenciais.",
+      "A companhia obteve a designação Breakthrough Device da FDA, informação que precisa ser distinguida da autorização de venda. Reconhecimento e facilitação regulatória não dispensam demonstração de segurança e efetividade. Antes de adoção ampla, serão relevantes o desempenho em pacientes difíceis, a formação necessária aos operadores e os procedimentos de segurança quando a identificação automática não for confiável."
+    ],
+    "implication": "A portabilidade pode ampliar possibilidades, mas não elimina exigências de treinamento e validação.",
+    "discussionPrompt": "Como avaliar o desempenho em condições pré-hospitalares reais?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-09-11",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-robo-reabilitacao",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Robô aprende a ajustar força para apoiar exercícios de reabilitação",
+    "deck": "Sistema experimental usa IA generativa e retorno de força; primeiros testes envolveram participantes saudáveis.",
+    "date": "2026-08-05",
+    "contentType": "Notícia",
+    "sourceName": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
+    "evidenceType": "Protótipo robótico; viabilidade técnica",
+    "paragraphs": [
+      "Engenheiros do MIT desenvolveram um sistema robótico de dois braços que aprende a oferecer assistência física variável durante movimentos. A combinação de modelos generativos com retorno de força busca ajustar o apoio conforme a participação da pessoa, em vez de repetir sempre uma trajetória rígida.",
+      "O protótipo inicial foi testado com participantes saudáveis, que variaram deliberadamente seu esforço em movimentos semelhantes aos usados na reabilitação. Em trabalho posterior com parceiros na Alemanha, terapeutas passaram a ter suas interações registradas por câmeras e luvas com sensores, para treinar modelos com características da prática profissional.",
+      "A proposta é ampliar o alcance dos terapeutas, não demonstrar que um robô pode substituí-los. O relato descreve viabilidade e coleta de dados; avaliações prolongadas de modelos específicos para terapeutas ainda aparecem como próximo passo. Recuperação funcional após AVC, segurança e adesão exigem estudos próprios, distintos de mostrar que a máquina responde adequadamente a uma força aplicada."
+    ],
+    "implication": "Aprender uma interação física é diferente de comprovar melhora sustentada na recuperação.",
+    "discussionPrompt": "Quais resultados funcionais deveriam orientar uma avaliação clínica?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-08-05",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-physionet",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "PhysioNet: infraestrutura de dados também é inovação médica",
+    "deck": "Registros reutilizáveis apoiam pesquisa e IA.",
+    "date": "2026-07-29",
+    "contentType": "Análise",
+    "sourceName": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+    "evidenceType": "Análise de infraestrutura a partir de relato institucional",
+    "paragraphs": [
+      "Uma retrospectiva do MIT sobre o PhysioNet destaca uma inovação menos visível que novos algoritmos: transformar dados clínicos dispersos em recursos utilizáveis por outras equipes. A plataforma nasceu de uma tradição de compartilhamento de sinais fisiológicos e passou a hospedar bases, software e modelos para investigação biomédica.",
+      "O relato mostra como a preparação dos dados exige trabalho que vai além de armazenar arquivos. Informações originalmente produzidas para assistência precisam ser organizadas para permitir novas análises. A experiência do MIMIC, conjunto de registros desidentificados hospedado na plataforma, ilustra a importância dessa infraestrutura para tornar perguntas científicas viáveis.",
+      "A leitura para a atual expansão da IA é direta: acesso a dados ajuda, mas não transforma automaticamente um algoritmo em ferramenta clínica. Reutilizar uma base exige compreender sua origem, limites e regras de acesso. Comparações transparentes e avaliação em outros contextos continuam necessárias para evitar que desempenho em um conjunto conhecido seja confundido com utilidade geral."
+    ],
+    "implication": "Curadoria e documentação merecem espaço no orçamento de inovação, não apenas o treinamento de modelos.",
+    "discussionPrompt": "Como reconhecer o trabalho de preparar dados para reuso responsável?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-07-29",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-encora-tremor",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Pulseira para tremor essencial: do protótipo ao produto",
+    "deck": "FDA autorizou tecnologia de vibração em fevereiro de 2026.",
+    "date": "2026-10-02",
+    "contentType": "Notícia",
+    "sourceName": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+    "evidenceType": "Relato de desenvolvimento e autorização de dispositivo",
+    "paragraphs": [
+      "Um projeto estudantil iniciado em 2017 deu origem à Encora Therapeutics e a um dispositivo de pulso para adultos com tremor essencial. Segundo reportagem do MIT publicada em outubro, a autorização pela via 510(k) da FDA ocorreu em fevereiro de 2026, após sucessivas versões de hardware e estudos clínicos.",
+      "A pulseira aplica vibrações mecânicas para estimular receptores no punho e influenciar sinais ligados ao controle do movimento. O interesse inicial da equipe estava em Parkinson, mas a indicação autorizada descrita na matéria é tremor essencial. Essa distinção impede extrapolar o uso do produto para qualquer causa de tremor.",
+      "O caso também mostra que autorização e acesso não avançam necessariamente juntos: a empresa ainda trabalhava na expansão comercial e na cobertura por seguradoras. A notícia não estabelece disponibilidade no Brasil. Para o leitor, a lição não é substituir avaliação especializada por um wearable, mas observar como indicação, evidência, produção e acesso são etapas diferentes da inovação."
+    ],
+    "implication": "Uma demonstração convincente é o início do desenvolvimento, não seu ponto final.",
+    "discussionPrompt": "Como comunicar a diferença entre indicação autorizada e usos futuros?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-10-02",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-coleta-celulas",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Microfluídica preserva tecido ao coletar células",
+    "deck": "Dispositivo experimental foi testado em amostras removidas; aplicação dentro do corpo permanece uma possibilidade futura.",
+    "date": "2026-09-24",
+    "contentType": "Notícia",
+    "sourceName": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924",
+    "evidenceType": "Dispositivo experimental em tecido humano excisado",
+    "paragraphs": [
+      "Pesquisadores do MIT e da Johns Hopkins desenvolveram um dispositivo que usa fluxo de líquido para desprender células de regiões pequenas de tecido. A proposta é recuperar células vivas e, ao mesmo tempo, preservar o material ao redor para investigação patológica convencional.",
+      "O sistema microfluídico impresso em 3D utiliza uma seringa para formar uma vedação por vácuo e outra para movimentar o líquido. O esforço aplicado à superfície pode ser ajustado. Em amostras frescas de tubas uterinas removidas cirurgicamente, os pesquisadores recuperaram células que puderam ser cultivadas e utilizadas para produzir organoides.",
+      "Esse resultado abre oportunidades para estudar alterações iniciais e respostas celulares em laboratório, mas não demonstra detecção precoce de câncer em uma população. O uso inicial planejado envolve tecido já retirado do corpo. Uma eventual adaptação para coleta dentro de pacientes exigirá desenvolvimento e avaliação específicos, além de comprovar que as amostras obtidas geram informação clinicamente útil."
+    ],
+    "implication": "Preservar células viáveis pode enriquecer pesquisa sem transformar o dispositivo em teste diagnóstico pronto.",
+    "discussionPrompt": "Como combinar coleta viva e patologia sem comprometer nenhuma das análises?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-09-24",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-xvr-navegacao",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "IA combina imagens para apoiar navegação cirúrgica",
+    "deck": "Método xvr adapta o modelo ao paciente; estudos adicionais ainda são necessários antes da implantação ampla.",
+    "date": "2026-09-16",
+    "contentType": "Notícia",
+    "sourceName": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+    "evidenceType": "Validação computacional multicêntrica de método de imagem",
+    "paragraphs": [
+      "O método xvr busca resolver um problema de navegação cirúrgica: relacionar imagens bidimensionais de raios X à anatomia tridimensional registrada antes do procedimento. Desenvolvido por pesquisadores do MIT e colaboradores, o sistema adapta um modelo de IA às imagens de cada paciente.",
+      "A técnica gera projeções sintéticas a partir de tomografia ou ressonância e utiliza simulação física para preparar o modelo. A versão pré-treinada descrita consegue se ajustar a um novo paciente em cerca de cinco minutos. A avaliação utilizou registros de cinco hospitais, incluindo diferentes regiões anatômicas e pacientes adultos e pediátricos.",
+      "Os resultados técnicos favorecem a precisão do alinhamento, mas não equivalem a demonstrar menos complicações cirúrgicas. A equipe pretende estudar outras situações, acelerar a operação e enfrentar cenários com estruturas em movimento. A integração a dispositivos e fluxos de trabalho também permanece uma etapa importante entre um algoritmo validado e uma ferramenta usada com segurança no procedimento."
+    ],
+    "implication": "Precisão geométrica é necessária, mas benefício assistencial exige avaliação adicional.",
+    "discussionPrompt": "Quais movimentos anatômicos mais desafiam a navegação em tempo real?",
+    "sourceDateEvidence": "Data explícita no cabeçalho da fonte: 2026-09-16",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "id": "inovacao-pccp-atualizacoes",
+    "section": "inovacao",
+    "category": "Inovação",
+    "title": "Como organizar atualizações de dispositivos médicos",
+    "deck": "PCCP define mudanças, testes e avaliação de impacto; não é permissão irrestrita para alterar uma IA. ",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "FDA",
+    "sourceUrl": "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/predetermined-change-control-plans",
+    "evidenceType": "Orientação regulatória oficial; guia de leitura",
+    "paragraphs": [
+      "Um plano predeterminado de controle de mudanças, ou PCCP, permite descrever antecipadamente determinadas modificações de um dispositivo médico. Segundo a FDA, o fabricante pode apresentar o plano junto à submissão de comercialização, para que mudanças especificadas sejam avaliadas dentro desse processo.",
+      "O documento reúne três componentes: descrição das alterações, protocolo para desenvolvê-las e testá-las e avaliação de seus impactos. Isso inclui critérios prévios de aceitação, procedimentos de implementação e, quando aplicável, comunicação aos usuários. A análise também considera efeitos individuais e acumulados das modificações, em vez de examinar cada atualização isoladamente.",
+      "Se autorizado, o plano pode dispensar nova submissão para mudanças que estejam incluídas nele e sejam executadas conforme aprovado. Isso não permite qualquer alteração nem elimina a necessidade de segurança. Para quem avalia uma tecnologia, perguntar quais versões e mudanças estão cobertas ajuda a entender o produto ao longo do tempo, especialmente quando o software continua evoluindo depois da aquisição."
+    ],
+    "implication": "Atualização responsável exige limites verificáveis, testes e conhecimento da versão utilizada.",
+    "discussionPrompt": "Sua equipe consegue rastrear mudanças de desempenho após uma atualização?",
+    "sourceDateEvidence": "Guia sem data de notícia; página oficial consultada em 2026-10-24.",
+    "verifiedAt": "2026-10-24"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cateterismo-araguaia-2026",
+    "filename": "araguaia-fluxo.svg",
+    "width": 1200,
+    "height": 420,
+    "caption": "O fluxo informado pela Sespa conecta encaminhamento, regulação e atendimento regional. Esquema editorial; não é um mapa nem uma avaliação do serviço.",
+    "alt": "Fluxo esquemático: encaminhamento, Regulação Estadual e atendimento no Hospital Santa Mônica, em Redenção. A fonte relata um paciente de São Félix do Xingu atendido na região. Não é um mapa.",
+    "sourceUrl": "https://www.agenciapara.com.br/noticia/80246/governo-do-para-realiza-primeiro-cateterismo-cardiaco-pelo-sus-na-regiao-do-araguaia",
+    "credit": "Ilustração vetorial original • THE MED TIMES • assistência de IA",
+    "kind": "editorial-diagram",
+    "mobileWidth": 420,
+    "mobileHeight": 760,
+    "mobileFilename": "araguaia-fluxo-mobile.svg",
+    "compactFilename": "araguaia-compact.svg",
+    "compactWidth": 360,
+    "compactHeight": 360
+  },
+  {
+    "id": "pesquisa-invika-start001",
+    "filename": "start001-evidencia.svg",
+    "width": 1200,
+    "height": 420,
+    "caption": "Contagens descritas pelo NIH para a dose selecionada. Os círculos representam participantes, não trajetórias individuais. Estabilização e redução tumoral são desfechos distintos.",
+    "alt": "Entre 27 participantes na dose selecionada, 16 não tiveram progressão. Em outro desfecho, quatro tiveram redução superior a 30% nas lesões-alvo. A amostra é pequena e não houve comparação randomizada; os resultados não comprovam cura nem ganho de sobrevida.",
+    "sourceUrl": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+    "credit": "Ilustração vetorial original • THE MED TIMES • assistência de IA",
+    "kind": "editorial-diagram",
+    "mobileWidth": 420,
+    "mobileHeight": 760,
+    "mobileFilename": "start001-evidencia-mobile.svg",
+    "compactFilename": "start001-compact.svg",
+    "compactWidth": 360,
+    "compactHeight": 320
+  },
+  {
+    "id": "inovacao-rm-fetal-simetria",
+    "filename": "rm-fetal-orientacao.svg",
+    "width": 1200,
+    "height": 420,
+    "caption": "Representação conceitual do problema de orientação descrito pelo MIT. O treinamento se concentra no terceiro trimestre; benefício clínico não está estabelecido.",
+    "alt": "Esquema geométrico não anatômico: o movimento altera a orientação, a arquitetura E(3)-Pose incorpora simetria e busca ajudar a ajustar a aquisição dos cortes. Não são imagens de ressonância nem comparação de desempenho.",
+    "sourceUrl": "https://computing.mit.edu/news/why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable/",
+    "credit": "Ilustração vetorial original • THE MED TIMES • assistência de IA",
+    "kind": "editorial-diagram",
+    "mobileWidth": 420,
+    "mobileHeight": 810,
+    "mobileFilename": "rm-fetal-orientacao-mobile.svg",
+    "compactFilename": "rm-fetal-compact.svg",
+    "compactWidth": 360,
+    "compactHeight": 320
+  }
+]

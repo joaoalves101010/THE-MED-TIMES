@@ -1,0 +1,431 @@
+[
+  {
+    "id": "instituicoes-harvard-clerkships",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Harvard: quem realmente pode candidatar-se a um clerkship",
+    "deck": "A lista de faculdades elegíveis importa mais que uma candidatura individual.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Harvard Medical School",
+    "sourceUrl": "https://hms.harvard.edu/departments/office-registrar/visiting-students-program/eligibility-requirements",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O Visiting Students Program da Harvard Medical School oferece rotações clínicas em hospitais afiliados, não uma matrícula no curso médico de Harvard. O candidato precisa estar no último ano, a até 12 meses da graduação, ter bom desempenho acadêmico, inglês fluente e estágios clínicos básicos compatíveis com os exigidos pela instituição. Quem já possui diploma médico não é elegível.",
+      "Para estudantes internacionais, há uma restrição decisiva: somente escolas expressamente relacionadas pela HMS podem participar. Na lista consultada, as brasileiras são a Faculdade de Medicina da USP, em São Paulo, e a Faculdade de Ciências Médicas da Santa Casa de São Paulo. Não se trata de acesso geral para estudantes brasileiros.",
+      "As candidaturas são processadas pelo VSLO, com documentação institucional e prazos próprios de cada bloco. Para internacionais, as rotações ocorrem entre outubro e março. Antes de pagar ou organizar viagem, confirme a seleção interna da sua faculdade e o calendário aplicável. Este programa não oferece observerships nem oportunidades de pesquisa."
+    ],
+    "implication": "Comece pela coordenação de mobilidade da sua própria faculdade.",
+    "discussionPrompt": "Sua instituição está na lista oficial?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Último ano; escola internacional expressamente aprovada.",
+    "deadline": null,
+    "supplementarySources": [
+      {
+        "name": "HMS — candidatura",
+        "url": "https://hms.harvard.edu/departments/office-registrar/visiting-students-program/apply"
+      },
+      {
+        "name": "HMS — escopo",
+        "url": "https://hms.harvard.edu/departments/office-registrar/visiting-students-program"
+      }
+    ]
+  },
+  {
+    "id": "instituicoes-yale-vslo",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Yale: o fim do Free Mover muda o acesso internacional",
+    "deck": "Desde agosto de 2026, a participação institucional no VSLO é indispensável.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Yale School of Medicine",
+    "sourceUrl": "https://medicine.yale.edu/md-program/visiting-students/international/",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "Yale mantém um programa de eletivas clínicas para estudantes internacionais, com blocos de quatro semanas e possibilidade de até três rotações em especialidades diferentes. Não é observership nem substitui estágios básicos obrigatórios. É necessário estar em situação acadêmica regular, ter inglês suficiente e concluir os estágios clínicos centrais antes da experiência.",
+      "A mudança relevante para o planejamento é o encerramento do caminho Free Mover em agosto de 2026. Agora, a faculdade de origem precisa participar do VSLO. Yale informa que não aceita candidatura direta ou independente e orienta o estudante a não procurar professores ou departamentos para negociar vagas por fora do processo.",
+      "Para 2026–2027, a tuition publicada é de US$ 4.775 por quatro semanas, sem presumir inclusão de moradia. A instituição recomenda candidatura seis meses antes; o limite informado é quatro meses antes do início pretendido. Consulte os blocos efetivamente disponíveis no portal: a existência do programa não confirma vaga para qualquer data ou especialidade."
+    ],
+    "implication": "Verifique acesso institucional antes de montar o orçamento.",
+    "discussionPrompt": "Sua faculdade participa do VSLO?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Estudantes internacionais com estágios centrais concluídos e acesso institucional ao VSLO.",
+    "deadline": null,
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-mayo-clerkship",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Mayo Clinic: campus e pré-requisitos mudam a elegibilidade",
+    "deck": "Último ano, Step 1 e experiência clínica precisam ser comprovados.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Mayo Clinic College of Medicine and Science",
+    "sourceUrl": "https://college.mayo.edu/academics/visiting-medical-student-clerkships/application-process/",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O Visiting Medical Student Clerkship da Mayo Clinic é uma experiência clínica para alunos ainda matriculados, não um programa genérico para médicos já formados. Estudantes internacionais devem estar no último ano durante a rotação, ter aprovação no USMLE Step 1 e apresentar aproximadamente 48 semanas de experiência clínica com pacientes, conforme a distribuição exigida pela instituição.",
+      "A candidatura passa pelo VSLO. Há taxa não reembolsável de US$ 350 para internacionais, além de exigências de seguro e documentação. Quando o ensino na faculdade de origem não ocorre em inglês, a página exige TOEFL recente com pontuação mínima de 104. A seleção considera histórico, disponibilidade e avaliação do departamento.",
+      "O destino dentro da própria Mayo faz diferença: Jacksonville só recebe alunos de escolas internacionais autorizadas pela regra estadual da Flórida. Rochester e Phoenix/Scottsdale não têm essa mesma lista restritiva de escolas, mas continuam sujeitos aos demais requisitos. Antes de escolher datas, confira o campus, a elegibilidade institucional e as rotações no portal."
+    ],
+    "implication": "Não transfira automaticamente a elegibilidade de um campus para outro.",
+    "discussionPrompt": "Seu campus pretendido aceita sua faculdade?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Último ano, Step 1 e requisitos clínicos; candidatura via VSLO.",
+    "deadline": null,
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-cleveland-observer",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Cleveland Clinic: observership não equivale a prática clínica",
+    "deck": "A próxima janela publicada começa em dezembro de 2026.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Cleveland Clinic",
+    "sourceUrl": "https://my.clevelandclinic.org/departments/international-medical-education/international-programs/physician-observer",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O International Physician Observership permite acompanhar procedimentos, visitas e reuniões educacionais durante um mês. O participante observa: não assume cuidado de pacientes nem realiza pesquisa voluntária. Essa distinção é essencial para não apresentar a experiência como estágio assistencial ou vínculo de pesquisa no currículo.",
+      "O público inclui médicos em atividade fora dos Estados Unidos, residentes e fellows em instituições estrangeiras e determinados estudantes ainda matriculados. Alunos no último ano no momento da candidatura não são elegíveis para este programa. Também não é uma via destinada a graduados internacionais que buscam candidatura à residência ou fellowship nos Estados Unidos.",
+      "A página consultada informa inscrições fechadas. Para visitas de julho a dezembro de 2027, a janela publicada vai de 1º de dezembro de 2026 a 31 de janeiro de 2027. A taxa total é US$ 500, incluindo US$ 200 de processamento não reembolsáveis. A candidatura exige currículo, motivação, recomendação e comprovação institucional, em inglês; aprovação e especialidade continuam sujeitas à análise."
+    ],
+    "implication": "Escolha o programa pelo objetivo educacional, não apenas pelo nome.",
+    "discussionPrompt": "Você busca observação ou atividade assistencial?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Fechado em 24/10/2026; próxima janela: 01/12/2026–31/01/2027.",
+    "eligibility": "Médicos, residentes, fellows e estudantes conforme restrições oficiais.",
+    "deadline": "2027-01-31",
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-hopkins-research",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Johns Hopkins: uma rota de pesquisa antes do último ano",
+    "deck": "Pesquisa e clínica têm regras distintas.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Johns Hopkins Medicine",
+    "sourceUrl": "https://www.hopkinsmedicine.org/som/offices/registrars/visiting-md",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "Na Johns Hopkins, a modalidade de research elective permite participar de investigação estruturada com equipes e orientadores.  Diferentemente das eletivas clínicas, a exigência acadêmica publicada é ter concluído pelo menos o primeiro ano de Medicina. Graduados não são elegíveis ao programa de estudantes visitantes.",
+      "A duração vai de quatro a nove semanas e a taxa divulgada é US$ 750 por eletiva de pesquisa. Não há contato com pacientes nem acesso ao prontuário EPIC nessa modalidade. O candidato deve escolher um preceptor no catálogo oficial e usar o portal Slate; conversar com um professor não substitui a aprovação formal.",
+      "O processo exige anuência da instituição de origem e respeito às datas de cada bloco. A página publica recebimento de candidaturas para janeiro de 2027 até 23 de novembro de 2026, sem garantir disponibilidade. Como o programa limita o total de eletivas por estudante, planeje o projeto e confirme com a secretaria como as regras se aplicam ao seu vínculo internacional."
+    ],
+    "implication": "Defina uma pergunta científica e um objetivo de aprendizagem antes de aplicar.",
+    "discussionPrompt": "Qual habilidade de pesquisa você pretende desenvolver?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Calendário publicado para 2026–2027; disponibilidade depende do departamento.",
+    "eligibility": "Aluno matriculado, com primeiro ano concluído; não graduado.",
+    "deadline": "2026-11-23",
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-stanford-ivs",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Stanford: prepare a candidatura de novembro sem presumir vaga",
+    "deck": "Janela futura: 1º a 30 de novembro.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Stanford Medicine",
+    "sourceUrl": "https://med.stanford.edu/visiting-clerkships/international/ivs-how-to-apply.html",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O International Visiting Student Program de Stanford recebe candidaturas de estudantes internacionais no último ano de Medicina, ainda matriculados em escola vinculada a uma universidade. Médicos já graduados não são elegíveis. As eletivas geralmente duram quatro semanas; existem opções limitadas de duas semanas, com máximo de oito semanas de participação.",
+      "Em 24 de outubro, a próxima janela publicada ainda é futura: de 1º a 30 de novembro de 2026, para rotações da primavera de 2027. A candidatura ocorre pelo SlideRoom e inclui declaração da direção, histórico, currículo, motivação e recomendações. Há taxa de candidatura não reembolsável de US$ 300.",
+      "A página geral informa tuition de US$ 6.200 por quatro semanas, além de taxa documental de US$ 250 e despesas não incluídas. Aprovação acadêmica não garante encaixe numa rotação: estudantes de Stanford têm prioridade. Outro limite relevante é que o programa não concede cartas de recomendação ao final e pede que visitantes não as solicitem aos supervisores."
+    ],
+    "implication": "Inclua todos os custos e o resultado educacional real na decisão.",
+    "discussionPrompt": "A experiência atende seu objetivo sem carta de recomendação?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Próxima janela: 01/11/2026–30/11/2026; ainda não aberta na verificação.",
+    "eligibility": "Último ano, matrícula ativa; graduados excluídos.",
+    "deadline": "2026-11-30",
+    "supplementarySources": [
+      {
+        "name": "Stanford — elegibilidade e custos",
+        "url": "https://med.stanford.edu/visiting-clerkships/international.html"
+      }
+    ]
+  },
+  {
+    "id": "instituicoes-oxford-electives",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Oxford: próxima rodada de eletivas está prevista para novembro",
+    "deck": "Ciclo 2026–2027 encerrado; próxima oferta mira 2027–2028.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Oxford — Medical Sciences Division",
+    "sourceUrl": "https://www.medsci.ox.ac.uk/study/medicine/electives/electives",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O programa de electives da Oxford University Medical School recebe estudantes de Medicina de outras universidades. As estadias podem durar de quatro a dez semanas. É uma modalidade específica, diferente da admissão ao curso completo. Médicos já graduados não podem utilizar essa via.",
+      "A janela para atividades entre 1º de setembro de 2026 e 31 de agosto de 2027 está encerrada. A página oficial de placements prevê a próxima rodada em novembro de 2026, para experiências entre 1º de setembro de 2027 e 31 de agosto de 2028. Os dias exatos de abertura e encerramento não foram confirmados nesta consulta. Portanto, a previsão não deve ser apresentada como inscrição aberta em 25 de outubro.",
+      "Antes de organizar viagem, acompanhe o processo de candidatura e as oportunidades que serão disponibilizadas. A existência de um hospital ou especialidade na lista não confirma vaga individual. Consulte custos e documentos da nova rodada e discuta com sua coordenação o reconhecimento curricular pretendido."
+    ],
+    "implication": "Aguarde a próxima rodada antes de assumir despesas.",
+    "discussionPrompt": "Qual competência justificaria uma eletiva em Oxford?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 25/10/2026. Guia, não notícia recente.",
+    "verifiedAt": "2026-10-25",
+    "programStatus": "Ciclo 2026–2027 encerrado; rodada prevista para novembro/2026, visando setembro/2027–agosto/2028; dias exatos não confirmados.",
+    "eligibility": "Estudante de Medicina; médicos graduados excluídos.",
+    "deadline": null,
+    "supplementarySources": [
+      {
+        "name": "Oxford — placements e próxima rodada",
+        "url": "https://www.medsci.ox.ac.uk/study/medicine/electives/placements"
+      }
+    ]
+  },
+  {
+    "id": "instituicoes-imperial-pausa",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Imperial Healthcare: novas solicitações seguem sob aviso de pausa",
+    "deck": "Reabertura não confirmada.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Imperial College Healthcare NHS Trust",
+    "sourceUrl": "https://www.imperial.nhs.uk/education/medicine/clinical-electives",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "Os clinical electives do Imperial College Healthcare são oferecidos em parceria com Imperial College London para estudantes britânicos e internacionais no penúltimo ou último ano. Duram de duas a seis semanas, numa especialidade, e têm caráter observacional: a página exclui participação em investigação ou tratamento de pacientes.",
+      "Na consulta de 24 de outubro de 2026, permanecia publicado o aviso de suspensão da análise de novas candidaturas recebidas desde 15 de junho. A atualização prevista para setembro não confirmou retomada. Por isso, o programa não deve ser anunciado como aberto, mesmo que instruções gerais de candidatura continuem visíveis.",
+      "Quando o fluxo estiver disponível, a orientação regular é iniciar contato com a equipe de electives pelo menos seis meses antes. São exigidos inglês adequado, documentação e supervisão; a taxa publicada é £600, não reembolsável. A capacidade clínica condiciona a aceitação. A informação se refere a este NHS Trust, não autoriza concluir que todos os hospitais associados ao Imperial adotam exatamente o mesmo status."
+    ],
+    "implication": "Confirme a reabertura diretamente na página antes de enviar documentos.",
+    "discussionPrompt": "Seu planejamento comporta uma alternativa de instituição?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Aviso de pausa desde 15/06/2026 ainda publicado; reabertura não confirmada.",
+    "eligibility": "Penúltimo ou último ano; estudantes britânicos e internacionais.",
+    "deadline": null,
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-ucl-reciprocidade",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "UCL: candidatura para 2027 tem prazo em 30 de outubro",
+    "deck": "Reciprocidade e experiência clínica seguem obrigatórias.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "UCL Medical School",
+    "sourceUrl": "https://www.ucl.ac.uk/medical-sciences/divisions/medical-school/study/undergraduate/visiting-student-electives",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "A UCL recebe estudantes britânicos e internacionais em eletivas de quatro a oito semanas. Exige pelo menos três anos de Medicina, 12 meses de treinamento clínico, inglês comprovado e evidência de que a faculdade de origem também oferece eletivas a alunos da UCL. Há contato supervisionado com pacientes, mas não garantia de cumprir o currículo da instituição de origem.",
+      "Na consulta de 25 de outubro, o calendário oficial mantém a janela de 28 de setembro a 30 de outubro de 2026, com encerramento ao meio-dia, para atividades entre 13 de setembro e 17 de dezembro de 2027. Meio-dia é o horário publicado pela UCL, não pelo fuso brasileiro. A janela não garante vaga na especialidade desejada.",
+      "A candidatura inicial custa £100, não reembolsáveis. Para quatro semanas, a oferta provisória prevê mais £525 de administração e £400 de tuition. Não pague essas parcelas antes da oferta. Confirme reciprocidade, reconhecimento curricular e documentação antes de candidatar-se: pagamento não equivale a reserva."
+    ],
+    "implication": "Verifique reciprocidade e reconhecimento curricular antes de pagar.",
+    "discussionPrompt": "Sua faculdade oferece contrapartida a visitantes da UCL?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 25/10/2026. Guia, não notícia recente.",
+    "verifiedAt": "2026-10-25",
+    "programStatus": "Janela publicada: 28/09–30/10/2026, encerramento ao meio-dia, para setembro–dezembro/2027; vagas sujeitas à seleção.",
+    "eligibility": "Três anos de Medicina, 12 meses clínicos, inglês e reciprocidade.",
+    "deadline": "2026-10-30",
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-karolinska-traineeship",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Karolinska: pesquisa sem convênio não é intercâmbio clínico",
+    "deck": "Freemover depende de aceite departamental.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Karolinska Institutet",
+    "sourceUrl": "https://education.ki.se/incoming-student-exchange-and-traineeships/traineeships-at-karolinska-institutet",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "Quem estuda em instituição sem acordo de intercâmbio com o Karolinska Institutet pode consultar grupos de pesquisa sobre um traineeship ou internship orientado à investigação. A possibilidade não equivale a uma vaga garantida: cada departamento decide se receberá o candidato. O contato deve ser direcionado à equipe cuja linha científica corresponde ao interesse do estudante.",
+      "Um freemover aceito não será registrado como aluno do KI, não poderá incluir disciplinas nessa modalidade e não receberá histórico de créditos ECTS. Também não terá os serviços reservados aos intercambistas, como acomodação estudantil, curso de sueco e atividades de acolhimento.",
+      "A instituição diferencia ainda traineeship de pesquisa e estágio hospitalar. O escritório internacional não encontra colocações clínicas para interessados, e experiências clínicas por Erasmus fora dos acordos estabelecidos não são organizadas pelo KI. A cobertura de seguro mencionada para departamentos não se estende automaticamente ao Karolinska University Hospital. Financiamento, duração e tarefas devem ser esclarecidos com o anfitrião; não há chamada central aberta confirmada neste guia."
+    ],
+    "implication": "Negocie um plano científico e condições administrativas explícitas.",
+    "discussionPrompt": "Você precisa de créditos ou de experiência de pesquisa?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Interessados em pesquisa; aceite departamental e enquadramento individual necessários.",
+    "deadline": null,
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-mcgill-internacionais",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "McGill: a elegibilidade internacional precisa vir primeiro",
+    "deck": "Último ano e vínculo institucional restringem as eletivas de graduação.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "McGill University — Faculty of Medicine and Health Sciences",
+    "sourceUrl": "https://www.mcgill.ca/medhealthsci/about/international-partnerships/partnering-faculty/undergraduategraduate-and-postgraduate-programs/international-students",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "McGill informa que suas eletivas médicas de graduação para internacionais se destinam a estudantes do último ano vinculados a instituições com acordo de formação em residência com a universidade. A página também contempla canadenses que estudam no exterior. Portanto, ter matrícula em uma faculdade estrangeira, isoladamente, não comprova elegibilidade.",
+      "A candidatura dos alunos elegíveis deve passar pelo AFMC Student Portal. A orientação de Undergraduate Medical Education proíbe contatar departamentos diretamente para perguntar sobre vagas: todas as eletivas precisam seguir o portal, e o descumprimento pode levar à recusa. Documentos incorretos ou incompletos também inviabilizam a análise.",
+      "O primeiro passo é confirmar com sua coordenação e com o escritório de electives se existe o enquadramento institucional necessário. Depois, examine a oferta e os requisitos linguísticos da experiência: McGill atende uma população que inclui pacientes francófonos. Este guia não confirma inscrições abertas, custos ou vagas de uma especialidade. Programas de residentes e fellows são outra categoria e não devem ser confundidos com eletivas de graduação."
+    ],
+    "implication": "Não confunda candidatura internacional com acesso irrestrito.",
+    "discussionPrompt": "Seu vínculo atende à política publicada por McGill?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Último ano e acordo institucional indicado; exceção publicada para canadenses no exterior.",
+    "deadline": null,
+    "supplementarySources": [
+      {
+        "name": "McGill — Visiting Students",
+        "url": "https://www.mcgill.ca/ugme/electives/visiting-students"
+      }
+    ]
+  },
+  {
+    "id": "instituicoes-toronto-acordos",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Toronto: convênio ativo e seleção aleatória antecedem a eletiva",
+    "deck": "Aceite informal não substitui seleção.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Toronto — Temerty Faculty of Medicine",
+    "sourceUrl": "https://md.utoronto.ca/visiting-elective-student-agreements",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O programa de visiting electives da Universidade de Toronto exige um acordo ativo com a faculdade de origem. A página institucional determina que esse instrumento seja assinado até 1º de maio do ano anterior à eletiva. Para estudantes internacionais, existe ainda uma etapa de seleção aleatória, detalhada no portal AFMC.",
+      "A lista de acordos consultada é identificada como atualizada em 12 de maio de 2026. Se a instituição não aparece ou o período pretendido supera a validade indicada, há um procedimento próprio para solicitar análise, que pode levar até quatro meses. Isso não assegura a conclusão do acordo.",
+      "A inscrição precisa seguir o portal e os critérios de elegibilidade; candidaturas incompatíveis são recusadas. Toronto esclarece que essa via oferece colocações clínicas, não observerships, shadowing ou eletivas de pesquisa. Arranjos informais diretamente com supervisores não são reconhecidos. A janela específica e os custos devem ser conferidos antes da candidatura; este guia não presume que sua faculdade tenha parceria nem que exista vaga disponível."
+    ],
+    "implication": "Planejamento institucional pode precisar começar no ano anterior.",
+    "discussionPrompt": "O acordo estará válido durante sua rotação?",
+    "sourceDateEvidence": "Lista intitulada Active Agreements as of May 12, 2026; guia sem data de publicação atribuída.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Estudantes com acordo válido; internacionais passam por seleção aleatória.",
+    "deadline": null,
+    "supplementarySources": [
+      {
+        "name": "Toronto — modalidades e processo",
+        "url": "https://md.utoronto.ca/electives"
+      }
+    ]
+  },
+  {
+    "id": "instituicoes-nus-electives",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "NUS: eletiva em Singapura pede planejamento de seis a 12 meses",
+    "deck": "Pesquisa requer aceite prévio.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "NUS Yong Loo Lin School of Medicine",
+    "sourceUrl": "https://medicine.nus.edu.sg/current-students/clinical-electives-programme-for-overseas-visiting-student/frequently-asked-questions/",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O International Student Clinical Elective Programme da NUS é destinado a estudantes de graduação em Medicina já nos anos clínicos. Não é uma oportunidade para graduados ou para alunos de outras profissões da saúde. A duração publicada varia de duas a 12 semanas por candidatura, e a solicitação deve ocorrer entre seis e 12 meses antes do período pretendido.",
+      "Para um projeto científico, o aluno precisa obter primeiro o aceite de um pesquisador responsável ou departamento local e depois procurar a equipe de electives. A documentação e as taxas continuam aplicáveis. Essa via não garante vagas.",
+      "Desde janeiro de 2026, a taxa internacional é S$625 por semana; indicação formal por instituição com acordo bilateral pode permitir isenção. Alunos sem acordo podem candidatar-se, mas não têm essa dispensa. A NUS avisa que a maioria das colocações clínicas funciona como observação sem intervenção e que não assina acordos individuais improvisados. Confirme previamente se o formato atende às exigências da sua faculdade."
+    ],
+    "implication": "Compatibilidade curricular e orçamento devem ser verificados antes da inscrição.",
+    "discussionPrompt": "Sua escola aceita uma experiência predominantemente observacional?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Graduação em Medicina, anos clínicos; não graduados.",
+    "deadline": null,
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-melbourne-observacao",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Melbourne: eletiva observacional não é matrícula na universidade",
+    "deck": "Requisitos variam por hospital.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Melbourne — Melbourne Medical School",
+    "sourceUrl": "https://medicine.unimelb.edu.au/study/clinical-electives",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "A Melbourne Medical School administra experiências para estudantes de outras universidades em hospitais parceiros. São eletivas observacionais para o penúltimo ou último ano de um curso médico aprovado. O visitante permanece matriculado na instituição de origem e não se torna aluno da Universidade de Melbourne durante a experiência.",
+      "O programa não oferece currículo estruturado, acesso regular a aulas ou uma colocação formal de ensino. A página também esclarece que essas atividades não podem ser contadas como créditos de um diploma. Discuta esse limite com sua faculdade antes de assumir despesas.",
+      "A orientação é consultar as condições de cada hospital e contatar seu coordenador de electives. Em geral, as solicitações precisam chegar pelo menos 12 meses antes e a capacidade é muito limitada. Há taxas próprias de cada local, podendo existir cobranças adicionais de candidatura ou acomodação. Comprovação vacinal e verificação policial integram os requisitos comuns. Não foi confirmada uma janela única aberta para todos os hospitais nesta consulta."
+    ],
+    "implication": "Escolha o hospital pelo formato e pela disponibilidade, não só pela afiliação.",
+    "discussionPrompt": "A observação atende às exigências da sua formação?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Penúltimo ou último ano; matrícula na instituição de origem.",
+    "deadline": null,
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-ubc-calendario",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "UBC: a janela de candidatura acompanha a data da rotação",
+    "deck": "Disponibilidade não garante vaga.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of British Columbia — Faculty of Medicine",
+    "sourceUrl": "https://mdprogram.med.ubc.ca/visiting-student-elective-program/",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "A University of British Columbia centraliza as candidaturas de visiting electives no AFMC Student Portal. Para internacionais, a página orienta usar o perfil institucional da UBC, que reúne processos e requisitos específicos. As regras não são idênticas em todas as universidades canadenses.",
+      "O mecanismo publicado relaciona a inscrição ao início pretendido: a janela abre 24 semanas antes e fecha 12 semanas antes. A página descreve processamento semanal de segunda a quarta e períodos sem eletivas. Como algumas indicações de atualização não trazem ano explícito, confirme o calendário do ciclo desejado no portal, em vez de presumir abertura apenas por esta regra geral.",
+      "A UBC publica relatórios de disponibilidade, normalmente renovados às segundas-feiras, mas alerta que a capacidade muda diariamente. Uma opção listada não garante colocação e pode não refletir candidaturas ainda em análise. Procurar docentes para negociar uma eletiva independente é considerado inadequado pela instituição. Não há valor de taxa ou elegibilidade individual internacional confirmado neste guia; ambos precisam ser verificados antes do envio."
+    ],
+    "implication": "Planeje alternativas; disponibilidade não é promessa.",
+    "discussionPrompt": "Você tem datas alternativas para a mesma especialidade?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 24/10/2026. Não apresentada como notícia recente.",
+    "verifiedAt": "2026-10-24",
+    "programStatus": "Programa regular; calendário e disponibilidade precisam de confirmação.",
+    "eligibility": "Estudantes visitantes; requisitos internacionais completos no perfil AFMC.",
+    "deadline": null,
+    "supplementarySources": []
+  },
+  {
+    "id": "instituicoes-mount-sinai-janela",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Mount Sinai: próxima rodada começa em 26 de outubro",
+    "deck": "Janela para março–junho de 2027.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Icahn School of Medicine at Mount Sinai",
+    "sourceUrl": "https://icahn.mssm.edu/education/students/registrar/electives/visiting-abroad",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O International Visiting Student Program de Mount Sinai admite até duas eletivas de quatro semanas. Exige matrícula ativa e último ano de Medicina; graduados não são elegíveis. Nem todas as disciplinas recebem internacionais, e estudantes locais têm prioridade.",
+      "Para rotações entre março e junho de 2027, a janela vai de 26 de outubro a 23 de novembro de 2026. Em 25 de outubro, ainda não está aberta. O formulário institucional exige documentos em inglês; a análise não segue ordem de chegada. Contatar docentes para negociar disponibilidade provoca desclassificação.",
+      "Confirme com sua coordenação: Mount Sinai não preenche formulários da faculdade de origem nem firma acordos de afiliação para visitantes internacionais. A confirmação por e-mail e a avaliação final são os comprovantes previstos. Isso pode impedir o aproveitamento curricular se sua escola exigir documentos próprios. A candidatura custa US$ 500, não reembolsáveis; uma eletiva em 2026–2027 soma US$ 4.150 na composição publicada, com saúde incluída. A aceitação requer depósito não reembolsável de US$ 1.000, abatido da tuition."
+    ],
+    "implication": "Organize o dossiê sem tentar contornar o canal institucional.",
+    "discussionPrompt": "Seus documentos estarão prontos para a janela oficial?",
+    "sourceDateEvidence": "Página institucional sem data editorial inequívoca; consulta em 25/10/2026. Guia, não notícia recente.",
+    "verifiedAt": "2026-10-25",
+    "programStatus": "Próxima janela: 26/10/2026–23/11/2026; ainda futura em 25/10.",
+    "eligibility": "Último ano e matrícula ativa; graduados excluídos.",
+    "deadline": "2026-11-23",
+    "supplementarySources": []
+  }
+]

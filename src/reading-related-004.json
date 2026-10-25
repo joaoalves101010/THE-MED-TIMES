@@ -1,0 +1,966 @@
+{
+  "schemaVersion": 1,
+  "editionId": "004",
+  "articles": {
+    "pesquisa-invika-start001": [
+      {
+        "id": "pesquisa-relativity047",
+        "reason": "Imunoterapia e a diferença entre resposta inicial e sobrevida"
+      },
+      {
+        "id": "pesquisa-horizon-breast06",
+        "reason": "Tratamento oncológico: benefício e toxicidade na mesma leitura"
+      }
+    ],
+    "pesquisa-transplante-aplasia": [
+      {
+        "id": "pesquisa-mieloma-mrd",
+        "reason": "Doenças hematológicas e limites dos indicadores de resposta"
+      },
+      {
+        "id": "guia-strobe-observacionais",
+        "reason": "Como interpretar uma série clínica sem comparação randomizada"
+      }
+    ],
+    "pesquisa-sglt2-hemoglobina": [
+      {
+        "id": "guia-prisma-revisoes",
+        "reason": "Como uma meta-análise reúne e apresenta suas evidências"
+      },
+      {
+        "id": "clinica-b12-sem-anemia",
+        "reason": "Hemoglobina não resume toda a avaliação de uma deficiência"
+      }
+    ],
+    "pesquisa-horizon-breast06": [
+      {
+        "id": "pesquisa-relativity047",
+        "reason": "Ensaios oncológicos e interpretação dos desfechos de sobrevida"
+      },
+      {
+        "id": "pesquisa-invika-start001",
+        "reason": "Atividade antitumoral e avaliação de segurança"
+      }
+    ],
+    "pesquisa-gravidez-doacao-renal": [
+      {
+        "id": "pesquisa-proteina-drc",
+        "reason": "Doença renal, contexto clínico e limites de estudos observacionais"
+      },
+      {
+        "id": "clinica-hipertensao-confirmacao",
+        "reason": "Pressão arterial: medir e interpretar com método"
+      }
+    ],
+    "pesquisa-egpa-manutencao": [
+      {
+        "id": "pesquisa-pelican",
+        "reason": "Ensaios que não demonstraram superioridade da estratégia testada"
+      },
+      {
+        "id": "guia-consort-ensaio",
+        "reason": "O desenho do ensaio importa para interpretar um resultado negativo"
+      }
+    ],
+    "pesquisa-relativity047": [
+      {
+        "id": "pesquisa-invika-start001",
+        "reason": "Imunoterapia: do sinal inicial ao acompanhamento prolongado"
+      },
+      {
+        "id": "pesquisa-horizon-breast06",
+        "reason": "Progressão, sobrevida e segurança em ensaios de câncer"
+      }
+    ],
+    "pesquisa-mieloma-mrd": [
+      {
+        "id": "pesquisa-cd36-cardiomiopatia",
+        "reason": "Achados genômicos ainda exigem validação para orientar decisões"
+      },
+      {
+        "id": "inovacao-perturb-seq",
+        "reason": "Investigação molecular de células do sistema imune"
+      }
+    ],
+    "pesquisa-marcha-mortalidade": [
+      {
+        "id": "pesquisa-panturrilha-quedas",
+        "reason": "Mobilidade e medidas físicas no estudo do envelhecimento"
+      },
+      {
+        "id": "clinica-quedas-avaliacao",
+        "reason": "Da associação populacional à avaliação individual de quedas"
+      }
+    ],
+    "pesquisa-ultraprocessados-estriado": [
+      {
+        "id": "pesquisa-emocao-obesidade-adolescente",
+        "reason": "Alimentação, comportamento e peso na infância e adolescência"
+      },
+      {
+        "id": "guia-strobe-observacionais",
+        "reason": "Associação observacional não estabelece causalidade"
+      }
+    ],
+    "pesquisa-panturrilha-quedas": [
+      {
+        "id": "pesquisa-marcha-mortalidade",
+        "reason": "Medidas de função física e seus limites prognósticos"
+      },
+      {
+        "id": "clinica-quedas-avaliacao",
+        "reason": "Quedas exigem avaliação além de uma medida muscular"
+      }
+    ],
+    "pesquisa-pelican": [
+      {
+        "id": "pesquisa-egpa-manutencao",
+        "reason": "Não demonstrar superioridade não prova equivalência"
+      },
+      {
+        "id": "guia-consort-ensaio",
+        "reason": "Leitura crítica de ensaios e de seus desfechos"
+      }
+    ],
+    "pesquisa-cd36-cardiomiopatia": [
+      {
+        "id": "pesquisa-mieloma-mrd",
+        "reason": "Genômica: associação molecular não é decisão clínica validada"
+      },
+      {
+        "id": "clinica-insuficiencia-cardiaca-biomarcador",
+        "reason": "Investigação cardíaca integra diferentes tipos de informação"
+      }
+    ],
+    "pesquisa-bcg-tau": [
+      {
+        "id": "guia-arrive-animais",
+        "reason": "Como avaliar o relato de um experimento com animais"
+      },
+      {
+        "id": "inovacao-contraste-colageno",
+        "reason": "Resultados em camundongos não autorizam uso clínico em pessoas"
+      }
+    ],
+    "pesquisa-proteina-drc": [
+      {
+        "id": "clinica-renal-tendencia",
+        "reason": "Função renal precisa ser acompanhada em contexto"
+      },
+      {
+        "id": "pesquisa-gravidez-doacao-renal",
+        "reason": "Coortes renais e a diferença entre associação e previsão individual"
+      }
+    ],
+    "pesquisa-emocao-obesidade-adolescente": [
+      {
+        "id": "pesquisa-ultraprocessados-estriado",
+        "reason": "Peso na juventude: perguntas complementares sobre comportamento e alimentação"
+      },
+      {
+        "id": "guia-consort-ensaio",
+        "reason": "Como interpretar o acompanhamento de um ensaio randomizado"
+      }
+    ],
+    "clinica-dengue-alarme": [
+      {
+        "id": "clinica-sepse-apresentacao",
+        "reason": "Reconhecimento de deterioração clínica nas infecções"
+      },
+      {
+        "id": "clinica-pneumonia-criancas",
+        "reason": "Gravidade e possibilidade de acompanhamento orientam o cuidado"
+      }
+    ],
+    "clinica-pneumonia-criancas": [
+      {
+        "id": "clinica-eczema-topicos",
+        "reason": "Cuidado infantil exige orientação aos responsáveis e revisão da evolução"
+      },
+      {
+        "id": "clinica-sepse-apresentacao",
+        "reason": "Infecção: reconhecer piora além da febre"
+      }
+    ],
+    "clinica-sepse-apresentacao": [
+      {
+        "id": "clinica-delirium-hipoativo",
+        "reason": "Mudanças recentes de comportamento ajudam a reconhecer quadros agudos"
+      },
+      {
+        "id": "clinica-dengue-alarme",
+        "reason": "A ausência de febre não garante estabilidade"
+      }
+    ],
+    "clinica-menopausa-decisao": [
+      {
+        "id": "clinica-fibrilacao-anticoagulacao",
+        "reason": "Benefícios, riscos e preferências na decisão compartilhada"
+      },
+      {
+        "id": "clinica-gota-alvo",
+        "reason": "Sintomas imediatos e planejamento do cuidado de longo prazo"
+      }
+    ],
+    "clinica-insuficiencia-cardiaca-biomarcador": [
+      {
+        "id": "clinica-renal-tendencia",
+        "reason": "Função renal interfere na interpretação de exames"
+      },
+      {
+        "id": "clinica-tromboembolismo-probabilidade",
+        "reason": "Biomarcadores precisam responder a uma pergunta clínica"
+      }
+    ],
+    "clinica-quedas-avaliacao": [
+      {
+        "id": "clinica-delirium-hipoativo",
+        "reason": "Mobilidade, cognição e mudança em relação ao estado habitual"
+      },
+      {
+        "id": "clinica-fibrilacao-anticoagulacao",
+        "reason": "Risco de quedas não decide sozinho o uso de anticoagulação"
+      }
+    ],
+    "clinica-cefaleia-alerta": [
+      {
+        "id": "clinica-delirium-hipoativo",
+        "reason": "Alterações neurológicas recentes exigem atenção ao contexto"
+      },
+      {
+        "id": "clinica-sepse-apresentacao",
+        "reason": "História e sinais de alerta orientam a prioridade da avaliação"
+      }
+    ],
+    "clinica-eczema-topicos": [
+      {
+        "id": "clinica-pneumonia-criancas",
+        "reason": "Orientação e acompanhamento no cuidado pediátrico"
+      },
+      {
+        "id": "clinica-alergia-registro",
+        "reason": "Segurança medicamentosa depende de informação compreensível e documentada"
+      }
+    ],
+    "clinica-delirium-hipoativo": [
+      {
+        "id": "clinica-sepse-apresentacao",
+        "reason": "Familiares podem reconhecer mudanças que não aparecem na consulta"
+      },
+      {
+        "id": "clinica-quedas-avaliacao",
+        "reason": "Cognição, mobilidade e revisão das condições de cuidado"
+      }
+    ],
+    "clinica-fibrilacao-anticoagulacao": [
+      {
+        "id": "clinica-quedas-avaliacao",
+        "reason": "Quedas precisam ser avaliadas, não usadas como veto automático"
+      },
+      {
+        "id": "clinica-renal-tendencia",
+        "reason": "Função renal e acompanhamento entram na decisão terapêutica"
+      }
+    ],
+    "clinica-renal-tendencia": [
+      {
+        "id": "clinica-insuficiencia-cardiaca-biomarcador",
+        "reason": "Exames laboratoriais exigem interpretação conjunta"
+      },
+      {
+        "id": "clinica-hipertensao-confirmacao",
+        "reason": "Avaliação de lesão de órgãos-alvo e acompanhamento cardiovascular"
+      }
+    ],
+    "clinica-hipertensao-confirmacao": [
+      {
+        "id": "clinica-renal-tendencia",
+        "reason": "Medidas repetidas ajudam a caracterizar risco persistente"
+      },
+      {
+        "id": "clinica-insuficiencia-cardiaca-biomarcador",
+        "reason": "Confirmação diagnóstica não depende de um número isolado"
+      }
+    ],
+    "clinica-alergia-registro": [
+      {
+        "id": "clinica-tromboembolismo-probabilidade",
+        "reason": "História de alergia a contraste interfere na escolha do exame"
+      },
+      {
+        "id": "clinica-eczema-topicos",
+        "reason": "Explicar medicamentos e possíveis danos faz parte do cuidado seguro"
+      }
+    ],
+    "clinica-b12-sem-anemia": [
+      {
+        "id": "clinica-renal-tendencia",
+        "reason": "Um exame isolado não encerra a investigação clínica"
+      },
+      {
+        "id": "pesquisa-sglt2-hemoglobina",
+        "reason": "Alteração hematológica e benefício clínico são perguntas diferentes"
+      }
+    ],
+    "clinica-gota-alvo": [
+      {
+        "id": "clinica-fibrilacao-anticoagulacao",
+        "reason": "Controle de sintomas não encerra decisões de longo prazo"
+      },
+      {
+        "id": "clinica-renal-tendencia",
+        "reason": "Comorbidades e função renal precisam entrar no plano de cuidado"
+      }
+    ],
+    "clinica-tromboembolismo-probabilidade": [
+      {
+        "id": "clinica-insuficiencia-cardiaca-biomarcador",
+        "reason": "Biomarcador positivo não confirma sozinho a causa dos sintomas"
+      },
+      {
+        "id": "clinica-fibrilacao-anticoagulacao",
+        "reason": "Risco trombótico, contexto e limites de escores clínicos"
+      }
+    ],
+    "cateterismo-araguaia-2026": [
+      {
+        "id": "sus-utis-conectadas-2026",
+        "reason": "Expansão de serviços do SUS e avaliação das entregas anunciadas"
+      },
+      {
+        "id": "acesso-diagnostico-oms",
+        "reason": "Acesso ao diagnóstico precisa se conectar ao tratamento"
+      }
+    ],
+    "sus-utis-conectadas-2026": [
+      {
+        "id": "cateterismo-araguaia-2026",
+        "reason": "Regionalização e regulação do acesso ao cuidado especializado"
+      },
+      {
+        "id": "guia-cobertura-universal",
+        "reason": "Oferta de serviços e acesso efetivo são dimensões diferentes"
+      }
+    ],
+    "educacao-demencia-pnas-2026": [
+      {
+        "id": "guia-determinantes-sociais",
+        "reason": "Escolaridade como determinante social da saúde"
+      },
+      {
+        "id": "guia-aps-sistema",
+        "reason": "Ação intersetorial integra a abordagem da atenção primária"
+      }
+    ],
+    "porto-velho-base-fn-sus": [
+      {
+        "id": "ebola-fronteira-aba-yei",
+        "reason": "Preparação territorial e capacidade de resposta a emergências"
+      },
+      {
+        "id": "ebola-isiro-continuidade",
+        "reason": "Emergências exigem coordenação e continuidade assistencial"
+      }
+    ],
+    "acesso-diagnostico-oms": [
+      {
+        "id": "uganda-malaria-comunidade",
+        "reason": "Aproximar testes das comunidades exige insumos e encaminhamento"
+      },
+      {
+        "id": "guia-cobertura-universal",
+        "reason": "Acesso e proteção financeira precisam ser avaliados juntos"
+      }
+    ],
+    "angola-campanha-vacinacao": [
+      {
+        "id": "etiopia-polio-dia-mundial",
+        "reason": "Vacinação, vigilância e a diferença entre meta e cobertura alcançada"
+      },
+      {
+        "id": "uganda-malaria-comunidade",
+        "reason": "Logística e equipes comunitárias no acesso à prevenção e ao cuidado"
+      }
+    ],
+    "ebola-isiro-continuidade": [
+      {
+        "id": "ebola-fronteira-aba-yei",
+        "reason": "Duas dimensões da resposta ao ebola: hospitais e fronteiras"
+      },
+      {
+        "id": "porto-velho-base-fn-sus",
+        "reason": "Estrutura de resposta a emergências precisa preservar o cuidado"
+      }
+    ],
+    "uganda-malaria-comunidade": [
+      {
+        "id": "acesso-diagnostico-oms",
+        "reason": "Diagnóstico oportuno depende do percurso completo do paciente"
+      },
+      {
+        "id": "guia-aps-sistema",
+        "reason": "Equipes próximas da comunidade e integração do cuidado"
+      }
+    ],
+    "ebola-fronteira-aba-yei": [
+      {
+        "id": "ebola-isiro-continuidade",
+        "reason": "Vigilância do ebola precisa estar ligada à assistência"
+      },
+      {
+        "id": "etiopia-polio-dia-mundial",
+        "reason": "Fronteiras, detecção de alertas e resposta a doenças transmissíveis"
+      }
+    ],
+    "etiopia-polio-dia-mundial": [
+      {
+        "id": "angola-campanha-vacinacao",
+        "reason": "Campanhas de vacinação não substituem vigilância e rotina"
+      },
+      {
+        "id": "ebola-fronteira-aba-yei",
+        "reason": "Detecção de alertas e cooperação nas fronteiras"
+      }
+    ],
+    "guia-aps-sistema": [
+      {
+        "id": "guia-cobertura-universal",
+        "reason": "Atenção primária e cobertura universal se complementam"
+      },
+      {
+        "id": "guia-determinantes-sociais",
+        "reason": "Condições de vida e participação comunitária na organização do cuidado"
+      }
+    ],
+    "guia-cobertura-universal": [
+      {
+        "id": "guia-aps-sistema",
+        "reason": "Atenção primária como fundamento da organização do sistema"
+      },
+      {
+        "id": "acesso-diagnostico-oms",
+        "reason": "Disponibilidade de exames não garante acesso ao diagnóstico"
+      }
+    ],
+    "guia-determinantes-sociais": [
+      {
+        "id": "educacao-demencia-pnas-2026",
+        "reason": "Política educacional e saúde ao longo da vida"
+      },
+      {
+        "id": "guia-saneamento-saude",
+        "reason": "Infraestrutura e condições materiais influenciam a exposição a riscos"
+      }
+    ],
+    "guia-saneamento-saude": [
+      {
+        "id": "guia-ar-poluicao",
+        "reason": "Infraestrutura ambiental e prevenção para além do comportamento individual"
+      },
+      {
+        "id": "guia-determinantes-sociais",
+        "reason": "Condições de vida ajudam a explicar desigualdades de exposição"
+      }
+    ],
+    "guia-tabaco-politica": [
+      {
+        "id": "guia-ar-poluicao",
+        "reason": "Políticas populacionais para reduzir exposições nocivas"
+      },
+      {
+        "id": "guia-determinantes-sociais",
+        "reason": "Determinantes sociais e distribuição dos benefícios da prevenção"
+      }
+    ],
+    "guia-ar-poluicao": [
+      {
+        "id": "guia-saneamento-saude",
+        "reason": "Ambiente, infraestrutura e decisões fora do consultório"
+      },
+      {
+        "id": "guia-tabaco-politica",
+        "reason": "Prevenção combina políticas públicas e cuidado individual"
+      }
+    ],
+    "mais-medicos-especialistas-224": [
+      {
+        "id": "guia-residencia-supervisao",
+        "reason": "Aperfeiçoamento e residência são percursos formativos diferentes"
+      },
+      {
+        "id": "guia-enare-edital",
+        "reason": "Público, modalidade e edital precisam ser identificados antes da candidatura"
+      }
+    ],
+    "humanidades-poesia-cuidado": [
+      {
+        "id": "guia-care-relato-caso",
+        "reason": "Perspectiva do paciente e responsabilidade ao narrar o adoecimento"
+      },
+      {
+        "id": "clinica-menopausa-decisao",
+        "reason": "Escuta, autonomia e prioridades da pessoa no cuidado"
+      }
+    ],
+    "guia-consort-ensaio": [
+      {
+        "id": "guia-spirit-protocolo",
+        "reason": "Do protocolo planejado ao relato dos resultados do ensaio"
+      },
+      {
+        "id": "guia-registro-ensaios",
+        "reason": "Registro público permite comparar planejamento e publicação"
+      }
+    ],
+    "guia-strobe-observacionais": [
+      {
+        "id": "guia-consort-ensaio",
+        "reason": "Desenhos observacionais e randomizados exigem perguntas diferentes"
+      },
+      {
+        "id": "guia-grade-evidencia",
+        "reason": "Qualidade do relato e certeza da evidência não são a mesma coisa"
+      }
+    ],
+    "guia-prisma-revisoes": [
+      {
+        "id": "guia-pubmed-busca",
+        "reason": "A busca documentada sustenta a seleção das evidências"
+      },
+      {
+        "id": "guia-grade-evidencia",
+        "reason": "Síntese dos resultados e certeza da evidência são etapas distintas"
+      }
+    ],
+    "guia-care-relato-caso": [
+      {
+        "id": "humanidades-poesia-cuidado",
+        "reason": "A experiência do paciente não é apenas um detalhe da narrativa"
+      },
+      {
+        "id": "guia-autoria-icmje",
+        "reason": "Publicação envolve crédito, responsabilidade e integridade"
+      }
+    ],
+    "guia-arrive-animais": [
+      {
+        "id": "pesquisa-bcg-tau",
+        "reason": "Exemplo de experimento animal e limites da tradução para pessoas"
+      },
+      {
+        "id": "guia-spirit-protocolo",
+        "reason": "Planejamento e registro dos métodos antes dos resultados"
+      }
+    ],
+    "guia-grade-evidencia": [
+      {
+        "id": "guia-prisma-revisoes",
+        "reason": "Revisões sistemáticas alimentam o julgamento sobre a evidência"
+      },
+      {
+        "id": "guia-consort-ensaio",
+        "reason": "Um ensaio favorável não encerra a avaliação de benefícios e danos"
+      }
+    ],
+    "guia-autoria-icmje": [
+      {
+        "id": "guia-care-relato-caso",
+        "reason": "Responsabilidade científica e cuidados ao publicar uma experiência clínica"
+      },
+      {
+        "id": "guia-registro-ensaios",
+        "reason": "Transparência também envolve o registro do estudo"
+      }
+    ],
+    "guia-registro-ensaios": [
+      {
+        "id": "guia-spirit-protocolo",
+        "reason": "Registro e protocolo tornam o planejamento consultável"
+      },
+      {
+        "id": "guia-consort-ensaio",
+        "reason": "Comparar o estudo planejado com o relato final"
+      }
+    ],
+    "guia-pubmed-busca": [
+      {
+        "id": "guia-prisma-revisoes",
+        "reason": "Estratégia de busca e transparência na revisão de evidências"
+      },
+      {
+        "id": "guia-registro-ensaios",
+        "reason": "Além dos artigos, registros públicos ajudam a localizar pesquisas"
+      }
+    ],
+    "guia-enamed-formacao": [
+      {
+        "id": "guia-enare-edital",
+        "reason": "Avaliação da formação e seleção para residência têm funções distintas"
+      },
+      {
+        "id": "guia-revalida-etapas",
+        "reason": "Exames diferentes exigem clareza sobre finalidade e público"
+      }
+    ],
+    "guia-revalida-etapas": [
+      {
+        "id": "guia-enamed-formacao",
+        "reason": "Entender o propósito do exame antes de acompanhar o calendário"
+      },
+      {
+        "id": "guia-enare-edital",
+        "reason": "Revalidação e ingresso em residência não são o mesmo processo"
+      }
+    ],
+    "guia-enare-edital": [
+      {
+        "id": "guia-enamed-formacao",
+        "reason": "Como avaliação e seleção se relacionam sem se confundir"
+      },
+      {
+        "id": "guia-residencia-supervisao",
+        "reason": "O processo seletivo leva a uma modalidade específica de formação"
+      }
+    ],
+    "guia-residencia-supervisao": [
+      {
+        "id": "mais-medicos-especialistas-224",
+        "reason": "Residência não equivale a qualquer oferta de aperfeiçoamento"
+      },
+      {
+        "id": "guia-enare-edital",
+        "reason": "Entender o programa antes de escolher uma via de ingresso"
+      }
+    ],
+    "guia-spirit-protocolo": [
+      {
+        "id": "guia-consort-ensaio",
+        "reason": "Protocolo e relato final têm funções complementares"
+      },
+      {
+        "id": "guia-registro-ensaios",
+        "reason": "Registro torna o planejamento publicamente rastreável"
+      }
+    ],
+    "inovacao-rm-fetal-simetria": [
+      {
+        "id": "inovacao-xvr-navegacao",
+        "reason": "IA para alinhar imagens e lidar com diferenças anatômicas"
+      },
+      {
+        "id": "inovacao-opm-meg",
+        "reason": "Novas formas de estudar o cérebro ainda precisam de validação clínica"
+      }
+    ],
+    "inovacao-adesivo-sanaheal": [
+      {
+        "id": "inovacao-glicina-sensores",
+        "reason": "Materiais biomédicos: desempenho em laboratório e segurança no corpo"
+      },
+      {
+        "id": "inovacao-ai-guide",
+        "reason": "Desenvolvimento de dispositivos e limites do estágio regulatório"
+      }
+    ],
+    "inovacao-glicina-sensores": [
+      {
+        "id": "inovacao-adesivo-sanaheal",
+        "reason": "Estabilidade de materiais e tradução para aplicações biomédicas"
+      },
+      {
+        "id": "inovacao-encora-tremor",
+        "reason": "Sensores e dispositivos vestíveis precisam de indicação e avaliação próprias"
+      }
+    ],
+    "inovacao-opm-meg": [
+      {
+        "id": "inovacao-rm-fetal-simetria",
+        "reason": "Movimento e aquisição de informação sobre o cérebro"
+      },
+      {
+        "id": "inovacao-physionet",
+        "reason": "Infraestrutura de pesquisa antes da aplicação clínica"
+      }
+    ],
+    "inovacao-contraste-colageno": [
+      {
+        "id": "inovacao-rm-fetal-simetria",
+        "reason": "Melhorar uma imagem não demonstra por si só benefício clínico"
+      },
+      {
+        "id": "inovacao-coleta-celulas",
+        "reason": "Investigação de tecidos e limites da detecção experimental"
+      }
+    ],
+    "inovacao-perturb-seq": [
+      {
+        "id": "inovacao-iris-celulas",
+        "reason": "Expressão genética e investigação de sinais entre células"
+      },
+      {
+        "id": "inovacao-physionet",
+        "reason": "Bases de dados como infraestrutura para novas perguntas científicas"
+      }
+    ],
+    "inovacao-fda-genai": [
+      {
+        "id": "inovacao-pccp-atualizacoes",
+        "reason": "Avaliação e acompanhamento das mudanças em dispositivos"
+      },
+      {
+        "id": "inovacao-lista-fda-ia",
+        "reason": "Debate regulatório e autorização de um produto são etapas diferentes"
+      }
+    ],
+    "inovacao-lista-fda-ia": [
+      {
+        "id": "inovacao-fda-genai",
+        "reason": "IA médica: distinguir discussão regulatória de autorização"
+      },
+      {
+        "id": "inovacao-pccp-atualizacoes",
+        "reason": "O escopo autorizado importa também nas atualizações"
+      }
+    ],
+    "inovacao-iris-celulas": [
+      {
+        "id": "inovacao-perturb-seq",
+        "reason": "Ferramentas para investigar mecanismos e atividade celular"
+      },
+      {
+        "id": "inovacao-coleta-celulas",
+        "reason": "Organoides e modelos de laboratório para estudar tecidos"
+      }
+    ],
+    "inovacao-ai-guide": [
+      {
+        "id": "inovacao-xvr-navegacao",
+        "reason": "IA como apoio a procedimentos e exigências de validação"
+      },
+      {
+        "id": "inovacao-lista-fda-ia",
+        "reason": "Designação especial não equivale a autorização de comercialização"
+      }
+    ],
+    "inovacao-robo-reabilitacao": [
+      {
+        "id": "inovacao-encora-tremor",
+        "reason": "Dispositivos de apoio ao movimento exigem desfechos funcionais"
+      },
+      {
+        "id": "inovacao-fda-genai",
+        "reason": "Sistemas com IA generativa precisam de avaliação de risco"
+      }
+    ],
+    "inovacao-physionet": [
+      {
+        "id": "inovacao-perturb-seq",
+        "reason": "Dados reutilizáveis como base para investigação biomédica"
+      },
+      {
+        "id": "inovacao-iris-celulas",
+        "reason": "Modelos dependem da origem e dos limites dos dados"
+      }
+    ],
+    "inovacao-encora-tremor": [
+      {
+        "id": "inovacao-robo-reabilitacao",
+        "reason": "Movimento, assistência mecânica e avaliação em populações específicas"
+      },
+      {
+        "id": "inovacao-adesivo-sanaheal",
+        "reason": "Do desenvolvimento de um dispositivo às indicações autorizadas"
+      }
+    ],
+    "inovacao-coleta-celulas": [
+      {
+        "id": "inovacao-iris-celulas",
+        "reason": "Obtenção de células e modelos experimentais de tecidos"
+      },
+      {
+        "id": "inovacao-contraste-colageno",
+        "reason": "Tecnologias para investigar alterações tumorais ainda exigem validação clínica"
+      }
+    ],
+    "inovacao-xvr-navegacao": [
+      {
+        "id": "inovacao-rm-fetal-simetria",
+        "reason": "Alinhamento de imagens médicas apoiado por IA"
+      },
+      {
+        "id": "inovacao-ai-guide",
+        "reason": "Apoio tecnológico a procedimentos não dispensa segurança assistencial"
+      }
+    ],
+    "inovacao-pccp-atualizacoes": [
+      {
+        "id": "inovacao-fda-genai",
+        "reason": "Avaliação de risco antes e depois da comercialização"
+      },
+      {
+        "id": "inovacao-lista-fda-ia",
+        "reason": "A decisão regulatória tem indicação e limites específicos"
+      }
+    ],
+    "instituicoes-harvard-clerkships": [
+      {
+        "id": "instituicoes-yale-vslo",
+        "reason": "Vínculo institucional e VSLO condicionam as eletivas clínicas"
+      },
+      {
+        "id": "instituicoes-mayo-clerkship",
+        "reason": "Último ano e requisitos clínicos precisam ser comprovados"
+      }
+    ],
+    "instituicoes-yale-vslo": [
+      {
+        "id": "instituicoes-harvard-clerkships",
+        "reason": "Participação institucional define o acesso pelo VSLO"
+      },
+      {
+        "id": "instituicoes-mayo-clerkship",
+        "reason": "Candidatura formal e pré-requisitos para estudantes internacionais"
+      }
+    ],
+    "instituicoes-mayo-clerkship": [
+      {
+        "id": "instituicoes-harvard-clerkships",
+        "reason": "Elegibilidade institucional e estágio da formação vêm antes da viagem"
+      },
+      {
+        "id": "instituicoes-stanford-ivs",
+        "reason": "Eletivas para o último ano exigem documentação e planejamento financeiro"
+      }
+    ],
+    "instituicoes-cleveland-observer": [
+      {
+        "id": "instituicoes-melbourne-observacao",
+        "reason": "Observação não equivale a prática clínica nem a crédito curricular"
+      },
+      {
+        "id": "instituicoes-imperial-pausa",
+        "reason": "Formato observacional e status das candidaturas precisam ser conferidos"
+      }
+    ],
+    "instituicoes-hopkins-research": [
+      {
+        "id": "instituicoes-karolinska-traineeship",
+        "reason": "Pesquisa tem vínculo e regras diferentes de uma eletiva clínica"
+      },
+      {
+        "id": "instituicoes-nus-electives",
+        "reason": "Aceite de um orientador não substitui o processo institucional"
+      }
+    ],
+    "instituicoes-stanford-ivs": [
+      {
+        "id": "instituicoes-mount-sinai-janela",
+        "reason": "Janelas futuras e custos para estudantes no último ano"
+      },
+      {
+        "id": "instituicoes-mayo-clerkship",
+        "reason": "Elegibilidade, documentação e disponibilidade da rotação"
+      }
+    ],
+    "instituicoes-oxford-electives": [
+      {
+        "id": "instituicoes-imperial-pausa",
+        "reason": "Ciclos britânicos: previsão de abertura não significa inscrição disponível"
+      },
+      {
+        "id": "instituicoes-ucl-reciprocidade",
+        "reason": "Calendário e requisitos de eletivas no Reino Unido"
+      }
+    ],
+    "instituicoes-imperial-pausa": [
+      {
+        "id": "instituicoes-oxford-electives",
+        "reason": "Situação da rodada e calendário precisam ser confirmados"
+      },
+      {
+        "id": "instituicoes-melbourne-observacao",
+        "reason": "Modalidade observacional tem limites de participação e aproveitamento"
+      }
+    ],
+    "instituicoes-ucl-reciprocidade": [
+      {
+        "id": "instituicoes-toronto-acordos",
+        "reason": "Acordos entre instituições condicionam o acesso às eletivas"
+      },
+      {
+        "id": "instituicoes-oxford-electives",
+        "reason": "Planejamento de calendário para experiências no Reino Unido"
+      }
+    ],
+    "instituicoes-karolinska-traineeship": [
+      {
+        "id": "instituicoes-hopkins-research",
+        "reason": "Pesquisa sem assistência clínica exige orientação e aprovação formal"
+      },
+      {
+        "id": "instituicoes-nus-electives",
+        "reason": "Pesquisa e experiência clínica seguem caminhos distintos"
+      }
+    ],
+    "instituicoes-mcgill-internacionais": [
+      {
+        "id": "instituicoes-toronto-acordos",
+        "reason": "Convênio institucional antecede a candidatura no Canadá"
+      },
+      {
+        "id": "instituicoes-ubc-calendario",
+        "reason": "Portal AFMC e regras próprias de cada universidade"
+      }
+    ],
+    "instituicoes-toronto-acordos": [
+      {
+        "id": "instituicoes-mcgill-internacionais",
+        "reason": "A elegibilidade internacional depende do vínculo entre instituições"
+      },
+      {
+        "id": "instituicoes-ubc-calendario",
+        "reason": "Candidatura formal pelo AFMC não é negociação direta com docentes"
+      }
+    ],
+    "instituicoes-nus-electives": [
+      {
+        "id": "instituicoes-hopkins-research",
+        "reason": "Eletivas de pesquisa exigem aceite e trâmite institucional"
+      },
+      {
+        "id": "instituicoes-melbourne-observacao",
+        "reason": "Formato observacional precisa ser compatível com o objetivo curricular"
+      }
+    ],
+    "instituicoes-melbourne-observacao": [
+      {
+        "id": "instituicoes-cleveland-observer",
+        "reason": "Observership não deve ser apresentado como atividade assistencial"
+      },
+      {
+        "id": "instituicoes-nus-electives",
+        "reason": "Duração e formato não garantem reconhecimento pela faculdade de origem"
+      }
+    ],
+    "instituicoes-ubc-calendario": [
+      {
+        "id": "instituicoes-mcgill-internacionais",
+        "reason": "Regras de elegibilidade precisam ser verificadas no portal canadense"
+      },
+      {
+        "id": "instituicoes-toronto-acordos",
+        "reason": "Disponibilidade e acordo institucional não garantem colocação"
+      }
+    ],
+    "instituicoes-mount-sinai-janela": [
+      {
+        "id": "instituicoes-stanford-ivs",
+        "reason": "Rodadas futuras para estudantes internacionais do último ano"
+      },
+      {
+        "id": "instituicoes-harvard-clerkships",
+        "reason": "Documentação e compatibilidade curricular antes de assumir despesas"
+      }
+    ]
+  }
+}
