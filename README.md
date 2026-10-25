@@ -2,7 +2,7 @@
 
 Jornal digital estático, em português, sobre medicina, ciência e descobertas.
 
-**Este repositório é um snapshot completo e portátil da edição 004, de 25 de outubro de 2026.** Contém o código-fonte, o site pronto em `dist/`, os recursos locais e as edições anteriores. Nenhum deploy na Vercel é realizado por este repositório sozinho.
+**Este repositório é um snapshot completo e portátil da edição 004, de 25 de outubro de 2026.** Contém o código-fonte, o site pronto em `dist/`, os recursos locais e as edições anteriores. O site público está em [themedtimes.vercel.app](https://themedtimes.vercel.app/); a edição e o conteúdo deste snapshot permanecem inalterados.
 
 ## O que está preservado
 
@@ -16,7 +16,9 @@ Jornal digital estático, em português, sobre medicina, ciência e descobertas.
 
 Importe este repositório na sua conta e use as configurações de [`DEPLOY_VERCEL.md`](DEPLOY_VERCEL.md): **Framework Other, raiz do repositório, saída `dist`**. O `vercel.json` valida o artefato já pronto com Node e não executa Python, não instala pacotes npm e não depende de serviços privados.
 
-**Não há renovação automática de conteúdo no GitHub/Vercel configurada.** A publicação programada do ambiente privado original não está sincronizada com este snapshot. Importar o repositório na Vercel não cria essa integração. O texto editorial existente sobre publicação programada foi preservado; ele não comprova a configuração de uma agenda nesta hospedagem.
+**O proprietário autorizou o envio recorrente das próximas edições para este repositório público.** O fluxo editorial prepara e valida a edição às 06:30, sem alterar a branch pública; a publicação no GitHub fica condicionada às verificações e ao horário de 08:00 em `America/Sao_Paulo`. A integração está sendo consolidada com testes de segurança: não se afirma que um ciclo diário futuro já foi executado.
+
+O deploy inicial da Vercel foi concluído e a página pública conferida. Para cada próximo envio, ainda é necessário verificar o resultado do deploy e a edição realmente servida: **commit no GitHub e atualização pública na Vercel são resultados distintos**. Não há chaves ou credenciais neste repositório, e importar o projeto não cria, por si só, pesquisa ou curadoria de notícias.
 
 ## Executar e verificar localmente
 

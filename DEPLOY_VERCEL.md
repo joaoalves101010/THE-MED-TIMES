@@ -2,14 +2,14 @@
 
 ## Estado deste repositório
 
-O site está pronto em `dist/`; o domínio público e o projeto da Vercel ainda devem ser definidos pelo proprietário. Esta exportação não cria projeto, domínio, cron, webhook, segredo ou deploy na Vercel e não altera o acesso do ambiente privado original.
+O site está público em [themedtimes.vercel.app](https://themedtimes.vercel.app/). O deploy inicial foi concluído e sua primeira página conferida contra o artefato versionado. A conta e a conexão Git da Vercel são do proprietário. Este repositório não cria contas, serviços pagos, chaves, cron jobs nem altera o acesso do ambiente privado original.
 
 ## Importar
 
 1. Na Vercel, crie um projeto importando `joaoalves101010/THE-MED-TIMES`.
 2. Use a raiz do repositório como **Root Directory** (`.` / campo vazio).
 3. Confirme as configurações abaixo. Elas já constam no `vercel.json`.
-4. Publique pela sua conta; depois confira as rotas e compartilhe o endereço público para a validação de produção.
+4. Para reproduzir a instalação em sua conta, publique e confira as rotas abaixo. O endereço atual já foi informado e verificado.
 
 | Configuração | Valor |
 | --- | --- |
@@ -39,7 +39,9 @@ Não escolha Next.js, não configure a raiz como `dist`, não publique a raiz do
 
 Após edição autorizada: reconstruir localmente, executar as verificações completas, revisar em navegador e só então atualizar `public-dist-sha256.json` com `npm run snapshot:hashes`. Rode novamente `npm test` e `npm run test:python`; versione juntos fonte, `dist/` e hashes.
 
-A conexão Git da Vercel poderá publicar futuros commits se essa opção estiver habilitada na conta. **Isso não pesquisa notícias, não produz edições e não sincroniza automaticamente o ambiente privado.** A renovação diária depende de uma integração editorial futura, ainda não configurada aqui.
+O envio recorrente de próximas edições ao GitHub foi autorizado. O fluxo editorial em consolidação separa a preparação às 06:30 da publicação a partir de 08:00, no horário de São Paulo. A etapa de preparação não pode atualizar a branch pública; a publicação usa o artefato validado, verifica conflitos e não força a referência Git.
+
+Depois de cada commit, conferir o status do deploy e a edição no domínio público. Se ainda estiver disponível a edição anterior, não anunciar a nova como publicada. **A conexão Git da Vercel não pesquisa notícias nem faz curadoria:** ela publica os commits recebidos. O deploy inicial foi verificado; isso não prova, antecipadamente, que a recorrência diária completa já foi executada. Nenhuma credencial foi adicionada ao repositório.
 
 ## Referências oficiais
 
