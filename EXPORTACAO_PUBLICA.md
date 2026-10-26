@@ -1,27 +1,13 @@
 # Escopo da exportação pública
 
-Esta entrega preserva o site de leitura e as fontes necessárias para reconstruí-lo, sem transferir a infraestrutura privada de publicação.
+Snapshot da edição **005**, de **2026-10-26**, com código-fonte portátil e saída estática. Páginas e recursos de leitura são copiados sem alteração dos fatos, datas, créditos ou conteúdo. A reconstrução limpa deve produzir exatamente os mesmos arquivos públicos.
 
-## Preservado sem alteração editorial
+## Exceções intencionais
 
-Todos os 327 arquivos HTML do site, CSS/JavaScript de leitura e históricos, fontes tipográficas, licenças, marca, fotografias, diagramas e as quatro miniaturas atualmente utilizadas. Os dados de matérias, datas, fontes e históricos não foram reescritos. Os recursos públicos também estão em `src/assets/` para permitir um build limpo.
+Não exportar metadados de ambiente/plataforma, histórico Git privado, credenciais, caches, provas descartadas, registros brutos de revisão, manifestações de release internas, evidências privadas ou diretórios de proveniência — inclusive em snapshots de edições antigas. Esses registros não fazem parte da navegação pública.
 
-## Exclusões intencionais
+Remover campos de caminho local de metadados fotográficos, preservando direitos, créditos e origem. Miniaturas antigas não referenciadas podem ser omitidas; todas as imagens usadas pelo arquivo e os registros necessários para reconstrução permanecem intactos.
 
-- Metadados de plataforma, histórico `.git`, diretórios de ambiente e caches.
-- `dist/RELEASE_MANIFEST.json`, `dist/release-evidence.json`, `dist/release-provenance/` e `maintenance-provenance/`: registros internos de publicação/proveniência, sem função na leitura do site.
-- `src/editions/004/EDITORIAL_REVIEW.json`: registro bruto de revisão, não conteúdo do jornal.
-- `proofs/`, `masthead-horizontal-proof.png`, `DAILY_TEST_RESULTS.json`, `UI_READING_QA.md` e `ARTWORK_METADATA.json`: artefatos de trabalho/QA e metadados não necessários à hospedagem.
-- Os scripts privados de manutenção, promoção e publicação, e os geradores antigos isolados das edições 001/002. Seus resultados históricos necessários permanecem em `src/editions/` e são preservados pelo gerador atual.
-- Duas variantes antigas e não referenciadas da miniatura 004 (`edition-004-adeb4273104d0980.png` e `edition-004-c95c4271333e8b33.png`), tanto em fonte quanto em saída. A miniatura atual e as três históricas continuam intactas.
+A configuração usa a identidade portátil `the-med-times`. Recursos-fonte ficam em `src/assets/`; miniaturas são identificadas pelo conteúdo e conferidas por hashes. A validação na hospedagem é Node sem dependências; renderizar uma miniatura nova localmente requer bibliotecas gráficas opcionais.
 
-## Ajustes de portabilidade
-
-- `edition.json`: identidade pública `the-med-times` e modo `manual-snapshot`; número, datas, seleção e histórico mantidos.
-- `src/editions/002/photos.json`: removidos somente os dois campos `localPath` específicos da máquina; créditos, fonte, licença e direitos preservados.
-- `build.py`: cópia explícita dos recursos-fonte para reconstrução limpa.
-- `archive_previews.py`: dependências gráficas carregadas somente quando uma prova nova precisa ser gerada; o reuso da prova atual exige correspondência de hashes de HTML, CSS, imagens/fontes e PNG.
-- Política v2 e testes preservados com utilitários editoriais portáteis. A preparação foi reduzida ao modelo pendente e à validação das entradas; não há publicador ou acesso à infraestrutura original.
-- Documentação nova e validação pública independente em Node; nenhum segredo, usuário de infraestrutura ou chave de exemplo foi criado.
-
-Essas exceções não mudam os fatos das matérias, a aparência atual ou os links do arquivo. O acesso e a publicação do ambiente original não foram modificados.
+Manter licenças e textos editoriais. Uma ocorrência inesperada de dado privado deve interromper a exportação, nunca ser ocultada por alteração silenciosa de uma matéria.

@@ -1,48 +1,30 @@
-# Publicação manual na Vercel
+# Publicação na Vercel
 
-## Estado deste repositório
+Domínio informado: [https://themedtimes.vercel.app/](https://themedtimes.vercel.app/). A configuração da conta, projetos e proteção de acesso é do proprietário. Este repositório não cria contas, chaves, serviços pagos, domínios ou cron jobs.
 
-O site está público em [themedtimes.vercel.app](https://themedtimes.vercel.app/). O deploy inicial foi concluído e sua primeira página conferida contra o artefato versionado. A conta e a conexão Git da Vercel são do proprietário. Este repositório não cria contas, serviços pagos, chaves, cron jobs nem altera o acesso do ambiente privado original.
+## Configuração
 
-## Importar
+Importe `joaoalves101010/THE-MED-TIMES` usando a raiz do repositório. O `vercel.json` define:
 
-1. Na Vercel, crie um projeto importando `joaoalves101010/THE-MED-TIMES`.
-2. Use a raiz do repositório como **Root Directory** (`.` / campo vazio).
-3. Confirme as configurações abaixo. Elas já constam no `vercel.json`.
-4. Para reproduzir a instalação em sua conta, publique e confira as rotas abaixo. O endereço atual já foi informado e verificado.
-
-| Configuração | Valor |
+| Opção | Valor |
 | --- | --- |
-| Framework Preset | **Other** (`framework: null`) |
-| Node.js | **24.x** |
-| Install Command | `node -e "console.log('Site estatico: sem dependencias npm')"` |
-| Build Command | `npm run build` |
-| Output Directory | **dist** |
-| Variáveis de ambiente | Nenhuma |
+| Framework | Other (`null`) |
+| Node | 24.x |
+| Instalação | comando Node sem pacotes npm |
+| Build | `npm run build` |
+| Saída | `dist` |
+| Variáveis de ambiente | nenhuma |
 
-O comando chamado “build” apenas verifica os arquivos já versionados: hashes, 96 matérias, seis cadernos, fontes locais, links e ausência de registros privados no diretório público. **Ele não executa o gerador Python.** Assim, a Vercel não precisa de Pillow, PyMuPDF, pacotes pip ou ferramentas gráficas.
+O build valida o artefato pronto, sem rodar Python, Pillow ou PyMuPDF. Não usar Next.js, não publicar a raiz inteira e não aplicar rewrite universal para `index.html`: existem rotas HTML reais e `404.html`.
 
-Não escolha Next.js, não configure a raiz como `dist`, não publique a raiz do repositório inteira e não adicione um rewrite universal para `index.html`: o jornal tem páginas HTML reais e arquivos históricos independentes. O `404.html` já está em `dist/`.
+## Verificação após cada commit
 
-## Conferir depois do deploy
+Aguardar o resultado do deploy, quando houver estado/check disponível, e confirmar o domínio público. Conferir edição **005**, data **2026-10-26**, capa, seis cadernos com 16 matérias, uma matéria atual, busca de 96 resultados, arquivo completo, fontes locais e 404. Conferir também navegação móvel, foco, Busca/Cadernos e ausência de cortes.
 
-- `/`: edição 004, data original, capa branca e nove chamadas.
-- `/editorias/pesquisa/` e os demais cinco cadernos: 16 matérias cada.
-- Uma rota `/edicao-004/artigos/.../`: texto, fonte, data e leituras relacionadas.
-- `/?q=`: 96 resultados; testar busca, filtros e estado sem resultado.
-- `/edicao/`: quatro edições, miniaturas e links funcionais.
-- `/edicoes/001/`, `/edicoes/002/` e `/edicoes/003/`: datas e aparências históricas intactas.
-- Uma rota inexistente: página de erro, não um falso resultado da primeira página.
-- Em tela pequena: Cadernos, Buscar, foco, fechamento por Escape e ausência de cortes.
+Se a página ainda exibir a edição anterior, o commit no GitHub não deve ser anunciado como edição pública concluída. Investigar a conexão/deploy com as permissões existentes. Não criar outro projeto ou conta como contorno.
 
-## Quando houver mudanças
+## Mudanças locais
 
-Após edição autorizada: reconstruir localmente, executar as verificações completas, revisar em navegador e só então atualizar `public-dist-sha256.json` com `npm run snapshot:hashes`. Rode novamente `npm test` e `npm run test:python`; versione juntos fonte, `dist/` e hashes.
+Reconstruir e testar: `python3 build.py`, `npm run test:python`, inspeção editorial/visual e `npm run snapshot:hashes` somente após aprovação. Executar novamente `npm test` e versionar fonte, `dist/` e hashes juntos.
 
-O envio recorrente de próximas edições ao GitHub foi autorizado. O fluxo editorial em consolidação separa a preparação às 06:30 da publicação a partir de 08:00, no horário de São Paulo. A etapa de preparação não pode atualizar a branch pública; a publicação usa o artefato validado, verifica conflitos e não força a referência Git.
-
-Depois de cada commit, conferir o status do deploy e a edição no domínio público. Se ainda estiver disponível a edição anterior, não anunciar a nova como publicada. **A conexão Git da Vercel não pesquisa notícias nem faz curadoria:** ela publica os commits recebidos. O deploy inicial foi verificado; isso não prova, antecipadamente, que a recorrência diária completa já foi executada. Nenhuma credencial foi adicionada ao repositório.
-
-## Referências oficiais
-
-Configurações verificadas na documentação oficial: [build, saída e framework Other](https://vercel.com/docs/builds/configure-a-build), [vercel.json](https://vercel.com/docs/project-configuration/vercel-json) e [versões Node.js](https://vercel.com/docs/functions/runtimes/node-js/node-js-versions). As opções da plataforma podem mudar; o deploy real precisa ser conferido na conta do proprietário.
+Referências oficiais: [configuração de build](https://vercel.com/docs/builds/configure-a-build), [vercel.json](https://vercel.com/docs/project-configuration/vercel-json), [Node.js](https://vercel.com/docs/functions/runtimes/node-js/node-js-versions). A conexão Git pode publicar commits; ela não pesquisa notícias nem substitui a preparação editorial.

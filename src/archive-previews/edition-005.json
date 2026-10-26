@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "editionId": "005",
+  "localDate": "2026-10-26",
+  "label": "Edição diária",
+  "filename": "edition-005-f14a0e59202977b5.png",
+  "width": 680,
+  "height": 1290,
+  "mainHeadline": "Calor extremo entra na vigilância materno-infantil",
+  "description": "A edição apresenta Calor extremo entra na vigilância materno-infantil",
+  "proofLabel": "Miniatura da composição · prova estática, não captura de navegador",
+  "renderMethod": "static-dom-typesetting-pillow-v1",
+  "browserScreenshot": false,
+  "sourceHtmlSha256": "b245f8157dec9a5e9621fb729ec9abd42a56c7c24c15524a9c7cdf5fe509efa7",
+  "sourceCssSha256": "315af60fbb234ad3117da3d6212bb89e7f69487c81c7ec29c55e2ef084cb0f9e",
+  "sourceCssRoute": "styles-reading.css",
+  "sourceAssetsSha256": {
+    "NimbusSans-Regular.otf": "7c25be4d78155523080ab85b10277150657ff7dabbcad7037bdd536c9b6d0d08",
+    "NimbusRoman-Italic.otf": "b7c424e6cb79baddfcdcd9a9d87f9fc4fdd06f0e5160066e2b2e47bcd647c7b9",
+    "masthead.svg": "f6d9bec3d6aad270324e4af2cf0f5794b9aa8c02b3e72f4ffe2a86662e3a1b38",
+    "NimbusRoman-Regular.otf": "fd41669443616a7ae890c42e53a58f47fa24a940fd1e367acaff665cf5b6e9d8",
+    "NimbusSans-Bold.otf": "7f33328e6b4d4cd21b45fa625791928c9407dc702db6780e56b09ca9a3ecaa67",
+    "NimbusRoman-Bold.otf": "e0ad81923bc6d85d5426f796217c87963ca1ae3c65e22c87a25b6c6353de299e",
+    "calor-indicadores-compact-e005.svg": "2d414916b58c56bf452aa18caf6869f08bc466e7b1444b307eb023fd69a90442",
+    "lnp-circuito-compact-e005.svg": "673c80bfa298295289789644d7e46f156177511ece69d26caea4d44ef7b6b546"
+  },
+  "imageSha256": "f14a0e59202977b5df61cfcc9b73403531bf7d7a325979e7fdbe7f71d218edad",
+  "sourceRoute": "index.html"
+}

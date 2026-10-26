@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "editionId": "005",
+  "date": "2026-10-26",
+  "image": {
+    "path": "assets/edition-covers/edition-005-4947d9bcc098f63dbdd31c7f30762f14fa1d7d33821f57bcce5a42cafccbf71f.svg",
+    "sha256": "4947d9bcc098f63dbdd31c7f30762f14fa1d7d33821f57bcce5a42cafccbf71f",
+    "width": 1000,
+    "height": 1480
+  },
+  "label": "Prévia editorial · composição vetorial da edição publicada",
+  "credits": [
+    "Liberation 2.1.5 · SIL Open Font License 1.1 · tipografia em curvas · https://github.com/liberationfonts/liberation-fonts/blob/main/LICENSE"
+  ],
+  "source": {
+    "inputSha256": "04a5cc42b5d8ae9495024c367d2f75d2d1885a5b24a65f82ea42d36e07e9a7b8",
+    "articleIds": [
+      "publica-calor-materno-infantil-2026",
+      "pesquisa-vsr-comparacao-coorte",
+      "instituicoes-fmusp-ipc-2026",
+      "pesquisa-fit-tres-anos",
+      "formacao-005-qualidade-treinamento",
+      "instituicoes-brave-enfermagem-2026",
+      "inovacao-lnp-automacao",
+      "clinica-005-celiaca-investigacao",
+      "publica-sus-oncologicos-oferta-2026"
+    ],
+    "renderMethod": "dynamic-dense-cover-v1"
+  }
+}

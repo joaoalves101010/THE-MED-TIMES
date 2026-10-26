@@ -1,0 +1,1058 @@
+{
+  "home": [
+    {
+      "widths": [
+        2,
+        4,
+        2
+      ],
+      "columns": [
+        [
+          {
+            "story": 8,
+            "role": "major",
+            "words": 125,
+            "visual": "none"
+          },
+          {
+            "story": 5,
+            "role": "brief",
+            "words": 115,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 110,
+            "visual": "side"
+          },
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 2,
+                  "role": "standard",
+                  "words": 65,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 4,
+                  "role": "brief",
+                  "words": 65,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ],
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 95,
+            "visual": "none"
+          },
+          {
+            "story": 7,
+            "role": "standard",
+            "words": 75,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 3,
+            "role": "major",
+            "words": 140,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 6,
+            "role": "major",
+            "words": 100,
+            "visual": "side"
+          }
+        ]
+      ],
+      "label": "Rastreamento e fabricação • o resultado depende do processo"
+    }
+  ],
+  "pesquisa": [
+    {
+      "widths": [
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 5,
+            "role": "lead",
+            "words": 140,
+            "visual": "side"
+          }
+        ],
+        [
+          {
+            "story": 0,
+            "role": "major",
+            "words": 65,
+            "visual": "none"
+          },
+          {
+            "story": 1,
+            "role": "standard",
+            "words": 45,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        3,
+        2.5
+      ],
+      "columns": [
+        [
+          {
+            "story": 2,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 7,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 3,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 6,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 4,
+            "role": "rail",
+            "words": 65,
+            "visual": "none"
+          },
+          {
+            "story": 11,
+            "role": "rail",
+            "words": 65,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Coortes e comparações • associação não é causalidade"
+    },
+    {
+      "widths": [
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 8,
+                  "role": "brief",
+                  "words": 60,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 12,
+                  "role": "brief",
+                  "words": 65,
+                  "visual": "none"
+                }
+              ]
+            ]
+          },
+          {
+            "story": 10,
+            "role": "major",
+            "words": 95,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 13,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 14,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Do tratamento ao que os pacientes relatam"
+    },
+    {
+      "widths": [
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 9,
+            "role": "standard",
+            "words": 70,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 15,
+            "role": "standard",
+            "words": 120,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Resultados negativos também informam o cuidado"
+    }
+  ],
+  "clinica": [
+    {
+      "widths": [
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 6,
+            "role": "lead",
+            "words": 110,
+            "visual": "none"
+          },
+          {
+            "story": 14,
+            "role": "brief",
+            "words": 75,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 0,
+                  "role": "major",
+                  "words": 90,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 1,
+                  "role": "standard",
+                  "words": 90,
+                  "visual": "none"
+                }
+              ]
+            ]
+          },
+          {
+            "story": 4,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        2,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 2,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 3,
+            "role": "rail",
+            "words": 80,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 7,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          },
+          {
+            "story": 5,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 9,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          },
+          {
+            "story": 10,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          },
+          {
+            "story": 11,
+            "role": "brief",
+            "words": 70,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Diagnóstico e seguimento • decisões precisam de contexto"
+    },
+    {
+      "widths": [
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 12,
+                  "role": "standard",
+                  "words": 90,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 13,
+                  "role": "standard",
+                  "words": 90,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ],
+        [
+          {
+            "story": 15,
+            "role": "standard",
+            "words": 120,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Antibióticos, movimento e reavaliação"
+    }
+  ],
+  "saude-publica": [
+    {
+      "widths": [
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 110,
+            "visual": "side"
+          }
+        ],
+        [
+          {
+            "story": 10,
+            "role": "major",
+            "words": 55,
+            "visual": "none"
+          },
+          {
+            "story": 11,
+            "role": "brief",
+            "words": 50,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        2,
+        4,
+        2
+      ],
+      "columns": [
+        [
+          {
+            "story": 6,
+            "role": "rail",
+            "words": 65,
+            "visual": "none"
+          },
+          {
+            "story": 14,
+            "role": "rail",
+            "words": 65,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 110,
+            "visual": "none"
+          },
+          {
+            "story": 5,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 12,
+            "role": "rail",
+            "words": 60,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "compact",
+            "words": 50,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Vigilância, preparação e resposta internacional"
+    },
+    {
+      "widths": [
+        3.5,
+        4.5
+      ],
+      "columns": [
+        [
+          {
+            "story": 7,
+            "role": "major",
+            "words": 95,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 75,
+            "visual": "none"
+          },
+          {
+            "story": 13,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 2,
+                  "role": "standard",
+                  "words": 85,
+                  "visual": "none"
+                },
+                {
+                  "story": 4,
+                  "role": "brief",
+                  "words": 60,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 3,
+                  "role": "standard",
+                  "words": 85,
+                  "visual": "none"
+                },
+                {
+                  "story": 9,
+                  "role": "brief",
+                  "words": 60,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ]
+      ],
+      "label": "Cuidado contínuo • da comunidade à organização dos serviços"
+    }
+  ],
+  "formacao": [
+    {
+      "widths": [
+        4,
+        2,
+        2
+      ],
+      "columns": [
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 110,
+            "visual": "none"
+          },
+          {
+            "story": 10,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 3,
+            "role": "major",
+            "words": 140,
+            "visual": "none",
+            "italic": true
+          }
+        ],
+        [
+          {
+            "story": 4,
+            "role": "rail",
+            "words": 75,
+            "visual": "none"
+          },
+          {
+            "story": 5,
+            "role": "rail",
+            "words": 80,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 2,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 6,
+                  "role": "standard",
+                  "words": 90,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 8,
+                  "role": "standard",
+                  "words": 90,
+                  "visual": "none"
+                }
+              ]
+            ]
+          },
+          {
+            "story": 9,
+            "role": "brief",
+            "words": 75,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Projetar a aprendizagem • segurança, avaliação e equipe"
+    },
+    {
+      "widths": [
+        2.5,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 7,
+            "role": "brief",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 11,
+            "role": "brief",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 12,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 13,
+            "role": "brief",
+            "words": 80,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 14,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "brief",
+            "words": 85,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Julgar e relatar a evidência • instrumentos com funções distintas"
+    }
+  ],
+  "inovacao": [
+    {
+      "widths": [
+        2.5,
+        5.5
+      ],
+      "columns": [
+        [
+          {
+            "story": 5,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 6,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 110,
+            "visual": "none"
+          },
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 2,
+                  "role": "standard",
+                  "words": 80,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 1,
+                  "role": "standard",
+                  "words": 80,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 9,
+            "role": "feature",
+            "words": 140,
+            "visual": "side"
+          }
+        ],
+        [
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 70,
+            "visual": "none"
+          },
+          {
+            "story": 12,
+            "role": "brief",
+            "words": 55,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Instrumentos para pesquisar • medir, fabricar, reproduzir"
+    },
+    {
+      "widths": [
+        3,
+        2,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 3,
+            "role": "major",
+            "words": 95,
+            "visual": "none"
+          },
+          {
+            "story": 4,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 7,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "brief",
+            "words": 75,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 10,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 11,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Entrega de terapias • resultados pré-clínicos e seus limites"
+    },
+    {
+      "widths": [
+        4.5,
+        3.5
+      ],
+      "columns": [
+        [
+          {
+            "story": 13,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 14,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Modelos e projetos ainda precisam de validação clínica"
+    }
+  ],
+  "instituicoes": [
+    {
+      "widths": [
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 10,
+            "role": "lead",
+            "words": 110,
+            "visual": "none"
+          },
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 0,
+                  "role": "standard",
+                  "words": 80,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 13,
+                  "role": "standard",
+                  "words": 80,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ],
+        [
+          {
+            "story": 2,
+            "role": "major",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 3,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        2.2,
+        2.2,
+        3.6
+      ],
+      "columns": [
+        [
+          {
+            "story": 4,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 6,
+            "role": "rail",
+            "words": 75,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 5,
+            "role": "rail",
+            "words": 95,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "brief",
+            "words": 75,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 9,
+            "role": "major",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 1,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Serviços e colaboração • anúncio não é resultado concluído"
+    },
+    {
+      "widths": [
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 7,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 14,
+                  "role": "standard",
+                  "words": 105,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 11,
+                  "role": "standard",
+                  "words": 85,
+                  "visual": "none"
+                }
+              ]
+            ]
+          },
+          {
+            "story": 12,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Investimento e pesquisa • distinguir planos, protocolos e atendimento"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "publica-calor-materno-infantil-2026",
+    "filename": "calor-indicadores-e005.svg",
+    "width": 1200,
+    "height": 470,
+    "mobileFilename": "calor-indicadores-mobile-e005.svg",
+    "mobileWidth": 420,
+    "mobileHeight": 744,
+    "compactFilename": "calor-indicadores-compact-e005.svg",
+    "compactWidth": 360,
+    "compactHeight": 360,
+    "caption": "Quatro domínios do marco de monitoramento da OMS; sinais observados exigem investigação, não provam causalidade individual.",
+    "alt": "Saúde materno-infantil, vigilância, clima-saúde e exposição ao calor são analisados conjuntamente para orientar investigação e resposta. Não é escala de risco.",
+    "sourceUrl": "https://www.who.int/news/item/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
+    "kind": "editorial-diagram",
+    "credit": "Ilustração vetorial original • THE MED TIMES • assistência de IA"
+  },
+  {
+    "id": "inovacao-lnp-automacao",
+    "filename": "lnp-circuito-e005.svg",
+    "width": 1200,
+    "height": 450,
+    "mobileFilename": "lnp-circuito-mobile-e005.svg",
+    "mobileWidth": 420,
+    "mobileHeight": 744,
+    "compactFilename": "lnp-circuito-compact-e005.svg",
+    "compactWidth": 360,
+    "compactHeight": 360,
+    "caption": "A medição de tamanho orienta ajustes na fabricação experimental. A forma é medida fora do circuito; não é ensaio terapêutico.",
+    "alt": "Mistura de RNA e lipídios, intervalo controlado, adição de tampão e medição de tamanho com ajuste dos parâmetros. Esquema sem escala.",
+    "sourceUrl": "https://news.mit.edu/2026/new-technique-could-accelerate-development-rna-therapies-0925",
+    "kind": "editorial-diagram",
+    "credit": "Ilustração vetorial original • THE MED TIMES • assistência de IA"
+  },
+  {
+    "id": "pesquisa-fit-tres-anos",
+    "filename": "fit-diferencas-e005.svg",
+    "width": 1200,
+    "height": 460,
+    "mobileFilename": "fit-diferencas-mobile-e005.svg",
+    "mobileWidth": 420,
+    "mobileHeight": 730,
+    "compactFilename": "fit-diferencas-compact-e005.svg",
+    "compactWidth": 360,
+    "compactHeight": 360,
+    "caption": "Diferenças de rastreamento em dia com intervalos de 95%. O desfecho primário em três anos não demonstrou diferença estatisticamente significativa.",
+    "alt": "Diferença intervenção menos cuidado usual: dois anos, 10,8 pontos percentuais, IC95% de 4,9 a 16,7; três anos, 2,9 pontos, IC95% de −3,2 a 9,0. Não mede mortalidade.",
+    "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855574",
+    "kind": "editorial-diagram",
+    "credit": "Ilustração vetorial original • THE MED TIMES • assistência de IA"
+  }
+]

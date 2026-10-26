@@ -1,45 +1,21 @@
-# Política editorial diária — v2
+# Política diária — v2
 
-## Intenção, não automação instalada
+Objetivo: nova edição às **08:00 em America/Sao_Paulo**, somente após pesquisa e validação. A preparação anterior ao horário não autoriza alteração da referência pública do GitHub. O envio recorrente foi autorizado para este repositório, mas sua execução e o deploy da Vercel precisam ser confirmados por edição.
 
-O objetivo editorial é uma nova edição às **08:00 em America/Sao_Paulo**, somente depois de pesquisa e validação. Este repositório não possui scheduler, GitHub Actions de publicação, cron da Vercel ou sincronização com o ambiente privado original. Sem uma nova edição aprovada e um commit/deploy correspondente, o público continuará vendo este snapshot, com sua data original.
+## 96 pautas novas
 
-A edição 004 foi preservada como publicada. A política v2 orienta as próximas edições; não significa que este acervo histórico foi reescrito ou aprovado retrospectivamente pelas regras de novidade.
+Exigir 96 pautas globalmente novas, 16 por editoria, com nove chamadas escolhidas. Rejeitar reutilização de IDs, fontes, títulos e corpos da edição anterior, incluindo aliases e URLs de rastreamento. Exigir comparação semântica com todas as pautas anteriores/candidatas e revisão de arquivos relevantes. A mesma pauta reescrita não é novidade.
 
-## Renovação integral
+`renewal_policy.py` contém essas verificações; não entende sozinho todas as equivalências semânticas. Registrar apenas revisões e consultas realmente realizadas. A política vale prospectivamente: não reescreve nem certifica retroativamente os arquivos antigos.
 
-Cada edição futura deve trazer **96 pautas novas**, 16 por editoria, com nove chamadas de capa escolhidas explicitamente. Não bastam uma nova data, novos títulos ou a substituição de algumas notícias.
+## Modelo pendente e validação
 
-`renewal_policy.py` exige comparação com a edição imediatamente anterior e revisão dos arquivos relevantes. Rejeita IDs, URLs de fonte, títulos e corpos repetidos, inclusive normalizações e parâmetros de rastreamento. Exige também revisão semântica de cada pauta em relação a todas as pautas anteriores e candidatas, explicação da diferença e chaves temáticas únicas.
+Organizar fora de `dist/` seis JSON com 16 matérias cada e `home-selection.json` com nove IDs. O comando `python3 prepare_editorial.py template --help` explica como criar um modelo sem aprovação. Preencher com pesquisa real e executar `python3 prepare_editorial.py validate --help` para conferir entradas. O programa usa os dados-fonte da edição atual como comparação e não publica, não pesquisa fontes e não faz revisão médica independente.
 
-Essas verificações determinísticas **não entendem sozinhas todas as equivalências semânticas**. Mudar URL, nome de instituição ou redação não transforma o mesmo evento em pauta nova. O registro editorial deve documentar a comparação de verdade, nunca preencher campos de aprovação automaticamente.
+Não incluir identidades/observações privadas de revisão no Git público. Datas, corte, fonte HTTPS, hashes, direitos, rotulagem, composições e checagens precisam ser consistentes. Não inventar prazos ou datas para cumprir o horário.
 
-## Preparar um registro de revisão
+## Publicação segura
 
-Organize uma pasta externa ao diretório público com os seis arquivos `pesquisa.json`, `clinica.json`, `saude-publica.json`, `formacao.json`, `inovacao.json`, `instituicoes.json`, cada um com 16 matérias completas, e `home-selection.json` com nove IDs. Preserve o formato das fontes em `src/editions/004/`.
+Usar exatamente o artefato validado, preservar todas as edições e recursos históricos, verificar conflitos com o HEAD público atual e nunca forçar atualização da branch. Um candidato de teste ou sintético jamais deve ser publicado. Se qualquer etapa falhar, manter a edição anterior com sua data original.
 
-O comando abaixo mostra a interface; substitua as variáveis por dados reais. Não contém aprovação pronta:
-
-```sh
-python3 prepare_editorial.py template \
-  --input "$PASTA_CANDIDATA" --date "$DATA_LOCAL" \
-  --cutoff "$CORTE_ISO_COM_FUSO" --output "$REVISAO_PRIVADA"
-```
-
-O modelo começa com campos pendentes, sem revisor, sem horários e sem aprovações. **Mantenha o registro preenchido fora de `dist/` e fora do Git público** quando contiver identidade ou notas privadas. `prepare_editorial.py` não publica e não faz pesquisas de fontes por conta própria.
-
-Depois da pesquisa real e revisão:
-
-```sh
-python3 prepare_editorial.py validate \
-  --edition "$NOVA_EDICAO" --date "$DATA_LOCAL" \
-  --input "$PASTA_CANDIDATA" --review "$REVISAO_PRIVADA"
-```
-
-A validação usa os dados-fonte da edição atual como anterior. Exige data local real, corte e revisão no dia adequado, hashes de conteúdo, fonte HTTPS, 96 registros completos, checagem das fontes, revisão de direitos, rotulagem editorial, composições e fonte móvel. Rejeita datas de publicação futuras, textos provisórios, checagens vencidas e linguagem relativa de data usada como novidade em notícia antiga. A saída aprovada significa somente **entrada editorial válida**, não publicação, verdade garantida ou revisão médica independente.
-
-## Antes de publicar
-
-Arquivar a edição anterior, montar a nova configuração e namespace, revisar direitos de novos recursos e executar build, testes, inspeção visual e revisão de fontes. Atualizar os hashes públicos somente após aprovação. Não contornar falhas de novidade ou fatos para cumprir horário. Se qualquer etapa falhar, preservar a edição anterior e não alterar sua data.
-
-A integração entre esse processo, commits e o futuro projeto da Vercel precisa ser implementada e autorizada separadamente. Nenhuma chave ou identidade de serviço é necessária para executar os testes deste repositório.
+Depois do commit, verificar o deploy no domínio público. GitHub atualizado e Vercel atualizada são resultados distintos. O código público não contém os registros privados de revisão nem as credenciais do processo editorial.
