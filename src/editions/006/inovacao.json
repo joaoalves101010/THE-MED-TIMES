@@ -1,0 +1,382 @@
+[
+  {
+    "id": "inovacao-006-lucid",
+    "section": "inovacao",
+    "category": "Engenharia de implantes",
+    "title": "LUCID usa ultrassom para ampliar distribuição de moléculas no cérebro",
+    "deck": "Testes com contraste em camundongos avaliam entrega local; não demonstram controle de glioblastoma.",
+    "date": "2026-10-26",
+    "contentType": "Notícia",
+    "sourceName": "MIT News",
+    "sourceUrl": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026",
+    "evidenceType": "Protótipo em modelos de tecido e camundongos",
+    "paragraphs": [
+      "O implante experimental LUCID reúne uma cânula de infusão e 24 pequenos transdutores de ultrassom. Desenvolvido no MIT, o sistema procura resolver um problema da entrega cerebral: colocar uma substância no local desejado não garante que ela alcance o tecido ao redor.",
+      "Uma bomba osmótica fornece líquido a partir de um reservatório de cerca de 100 microlitros; a emissão de ultrassom pode ser comandada sem fio. Em modelos de tecido e em camundongos, a ativação ampliou a distribuição das moléculas. Nos animais, foi utilizado contraste para ressonância.",
+      "A proposta é apoiar futuras terapias locais, inclusive após cirurgia de glioblastoma. O estudo, porém, não demonstrou redução tumoral, aumento de sobrevida ou benefício em pacientes. Distribuir contraste e tratar células resistentes são etapas diferentes da avaliação."
+    ],
+    "implication": "Maior alcance de uma molécula não equivale a eficácia antitumoral.",
+    "discussionPrompt": "Como medir distribuição, dano local e efeito terapêutico separadamente?",
+    "sourceDateEvidence": "MIT News: 26 October 2026; artigo em Device divulgado na mesma data.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Implantable device uses ultrasound to improve drug delivery to the brain",
+    "studyUrl": "https://www.cell.com/device/abstract/S2666-9986(26)00285-1"
+  },
+  {
+    "id": "inovacao-006-glicose-eletrocatalise",
+    "section": "inovacao",
+    "category": "Bioeletrônica",
+    "title": "Implante experimental converte glicose em vez de liberar insulina",
+    "deck": "Sistema eletrocatalítico regulou glicemia em camundongos durante seis semanas; ainda não foi testado em pessoas.",
+    "date": "2026-10-22",
+    "contentType": "Notícia",
+    "sourceName": "ETH Zurich",
+    "sourceUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/tackling-diabetes-with-an-electronic-implant.html",
+    "evidenceType": "Prova de conceito laboratorial e animal",
+    "paragraphs": [
+      "Pesquisadores da ETH Zurich desenvolveram um implante que usa eletricidade para converter glicose em gluconato. O catalisador combina grafite, ouro e platina, sem células ou enzimas. A proposta difere de liberar insulina: busca transformar diretamente parte da glicose disponível.",
+      "O circuito associa medição de glicose, comunicação sem fio e ativação do catalisador. Houve testes em cinco litros de solução nutritiva e, separadamente, em camundongos diabéticos. Nos animais, os pesquisadores observaram controle glicêmico e funcionamento durante seis semanas.",
+      "O reservatório de laboratório não reproduz toda a fisiologia humana. A equipe informa que não realizou testes em pessoas e pretende desenvolver um dispositivo médico. Tolerância no período estudado não estabelece segurança prolongada, desempenho renal ou proteção contra hipoglicemia em pacientes."
+    ],
+    "implication": "A engenharia oferece uma hipótese terapêutica, não uma alternativa clínica já disponível.",
+    "discussionPrompt": "Que consequências da conversão contínua de glicose precisam ser acompanhadas?",
+    "sourceDateEvidence": "ETH News: 22.10.2026; Science, DOI 10.1126/science.ady8560.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Tackling diabetes with an electronic implant: how a tiny catalyst lowers blood sugar",
+    "studyUrl": "https://doi.org/10.1126/science.ady8560"
+  },
+  {
+    "id": "inovacao-006-recordanelles",
+    "section": "inovacao",
+    "category": "Ferramentas de biotecnologia",
+    "title": "Arquivo de RNA permite investigar o passado de células",
+    "deck": "Método conserva transcritos em células humanas cultivadas; aplicações em animais e câncer ainda estão em desenvolvimento.",
+    "date": "2026-10-26",
+    "contentType": "Notícia",
+    "sourceName": "ETH Zurich",
+    "sourceUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2026/10/new-method-reveals-what-a-cell-did-days-ago.html",
+    "evidenceType": "Método experimental em cultura celular humana",
+    "paragraphs": [
+      "Medir RNA normalmente oferece um retrato momentâneo da atividade genética. Uma equipe da ETH Zurich criou um sistema chamado Recordanelles para preservar parte desse material dentro das células e permitir uma leitura retrospectiva de respostas que já desapareceram.",
+      "Três proteínas modificadas concentram e protegem RNA em uma camada ao redor das mitocôndrias. Em células humanas cultivadas, o método armazenou milhares de moléculas por vários dias e permitiu recuperar sinais de uma resposta imune transitória.",
+      "O interesse é selecionar depois as células relevantes e investigar sua história, por exemplo na pesquisa de resistência tumoral. Essa aplicação permanece uma perspectiva: a divulgação descreve culturas celulares, não acompanhamento de tumores em pacientes. A técnica exige introduzir o sistema nas células estudadas."
+    ],
+    "implication": "Registrar uma trajetória celular é diferente de inferi-la a partir de uma fotografia molecular.",
+    "discussionPrompt": "Como o próprio sistema de registro pode interferir no comportamento celular?",
+    "sourceDateEvidence": "Divulgação ETH em 26.10.2026; artigo Nature Biotechnology em 21.10.2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "New method reveals what a cell did days ago",
+    "studyUrl": "https://doi.org/10.1038/s41587-026-03327-6"
+  },
+  {
+    "id": "inovacao-006-simco",
+    "section": "inovacao",
+    "category": "Modelagem biológica",
+    "title": "SIMCO simula respostas imunes da gestação para selecionar hipóteses",
+    "deck": "Gêmeos digitais usam dados de 63 gestações; combinação medicamentosa apontada pelo modelo ainda precisa de avaliação clínica.",
+    "date": "2026-10-21",
+    "contentType": "Notícia",
+    "sourceName": "Stanford Medicine / Stanford Report",
+    "sourceUrl": "https://news.stanford.edu/stories/2026/10/ai-digital-twins-preterm-labor",
+    "evidenceType": "Modelagem computacional, células humanas e experimento animal",
+    "paragraphs": [
+      "A plataforma SIMCO combina medidas de células imunes expostas a medicamentos com dados longitudinais de 63 gestações. A equipe de Stanford usou essa base para criar representações computacionais da resposta imunológica materna e explorar intervenções antes de testá-las em pessoas.",
+      "O sistema comparou nove regimes e apontou a associação de aspirina com lansoprazol como hipótese para retardar a progressão imune ligada ao parto. O efeito destacado na divulgação é uma previsão do modelo, não uma redução observada de prematuridade em mulheres tratadas.",
+      "A combinação também foi examinada em um modelo animal inflamatório. A universidade informa autorização para conduzir um ensaio humano, o que não equivale a aprovação da indicação. O trabalho não justifica iniciar medicamentos na gravidez por conta própria nem substituir acompanhamento obstétrico."
+    ],
+    "implication": "Gêmeos digitais podem priorizar testes, mas não fornecer antecipadamente o resultado do ensaio.",
+    "discussionPrompt": "Como uma previsão individual deve ser validada antes de selecionar participantes?",
+    "sourceDateEvidence": "Stanford Report: 21 October 2026; publicação Science Advances na mesma data.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "AI twins find drugs that may prevent early labor",
+    "studyUrl": "https://doi.org/10.1126/sciadv.aed2741"
+  },
+  {
+    "id": "inovacao-006-watchus",
+    "section": "inovacao",
+    "category": "Sensores vestíveis",
+    "title": "WatchUS leva aquisição e processamento de ultrassom ao pulso",
+    "deck": "Relógio demonstrador reúne três canais e tela própria; não há validação de diagnóstico apresentada na divulgação.",
+    "date": "2026-09-28",
+    "contentType": "Análise",
+    "sourceName": "ETH Zurich — D-ITET",
+    "sourceUrl": "https://ee.ethz.ch/news-and-events/d-itet-news-channel/2026/09/ultrasound-on-the-wrist-masters-student-builds-award-winning-smartwatch.html",
+    "evidenceType": "Demonstrador de engenharia",
+    "paragraphs": [
+      "O WatchUS transforma componentes de ultrassom em um relógio funcional. A ETH Zurich descreveu em setembro a integração de eletrônica, firmware e carcaça que permite captar ecos dos tecidos, processar os sinais no próprio dispositivo e exibir o resultado na tela.",
+      "O protótipo utiliza três canais para observar movimentos internos, como os de tendões e ligamentos do punho. A demonstração foi premiada em um simpósio em Varsóvia. O avanço relatado é integrar toda a cadeia de medição em algo utilizável no pulso.",
+      "Isso não estabelece um exame para lesões tendíneas nem um monitor clínico validado. A fonte não apresenta acurácia diagnóstica, número de pacientes ou resultados de uso prolongado. A quantidade de canais envolve compromissos entre informação, consumo de energia e processamento."
+    ],
+    "implication": "Miniaturizar o aparelho e validar sua utilidade médica são tarefas distintas.",
+    "discussionPrompt": "Quais movimentos e condições reais desafiam a estabilidade do sinal?",
+    "sourceDateEvidence": "Cabeçalho D-ITET: 28.09.2026; notícia de demonstração, não lançamento clínico.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Ultrasound on the wrist: Master’s student builds award-winning smartwatch"
+  },
+  {
+    "id": "inovacao-006-sensor-urina",
+    "section": "inovacao",
+    "category": "Diagnóstico em desenvolvimento",
+    "title": "Sensor fluorescente procura E. coli em bolsas de urina",
+    "deck": "Protótipo da Texas A&M chegou à prova de conceito em laboratório; desempenho assistencial ainda não foi estabelecido.",
+    "date": "2026-09-15",
+    "contentType": "Análise",
+    "sourceName": "Texas A&M Innovation",
+    "sourceUrl": "https://innovation.tamus.edu/wearable-sensor-offers-faster-continuous-detection-of-urinary-tract-infections/",
+    "evidenceType": "Prova de conceito laboratorial",
+    "paragraphs": [
+      "Uma equipe da Texas A&M desenvolveu um sensor de fluorescência para detectar E. coli diretamente em bolsas coletoras de urina. A proposta combina leitura automatizada com um aplicativo que acompanha sinais e apresenta estimativas da concentração bacteriana.",
+      "A divulgação também prevê uso com recipientes de coleta e descreve resultados em horas. O estágio informado, contudo, é um protótipo funcional demonstrado em laboratório, disponível para licenciamento ou pesquisa patrocinada; não um sistema com benefício clínico já comprovado.",
+      "O texto não fornece tamanho de amostra clínica, sensibilidade ou especificidade. Portanto, não permite estimar quantos alarmes corresponderiam a infecção que exige tratamento. Demonstrar detecção bacteriana é uma etapa diferente de validar decisões terapêuticas e reduzir complicações em pacientes sondados."
+    ],
+    "implication": "O sinal do sensor precisa ser ligado a uma pergunta clínica bem definida.",
+    "discussionPrompt": "Como distinguir desempenho analítico de utilidade para o paciente?",
+    "sourceDateEvidence": "Texas A&M Innovation: September 15, 2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Wearable Sensor Offers Faster, Continuous Detection of Urinary Tract Infections"
+  },
+  {
+    "id": "inovacao-006-nitinol-trancado",
+    "section": "inovacao",
+    "category": "Fabricação de dispositivos",
+    "title": "Impressão 3D produz estruturas de nitinol que se comprimem e recuperam",
+    "deck": "Protótipos trançados passaram por testes mecânicos; biocompatibilidade e estudos animais continuam como próximos passos.",
+    "date": "2026-10-13",
+    "contentType": "Notícia",
+    "sourceName": "IMDEA Materials",
+    "sourceUrl": "https://materials.imdea.org/researchers-develop-3d-printing-method-to-create-personalised-superelastic-minimally-invasive-nitinol-vascular-devices/",
+    "evidenceType": "Validação mecânica de protótipos",
+    "paragraphs": [
+      "Pesquisadores do IMDEA Materials e parceiros fabricaram estruturas trançadas de nitinol por impressão tridimensional. A arquitetura permite que filamentos se reorganizem durante a compressão, buscando a flexibilidade necessária para introduzir futuros dispositivos vasculares por cateter.",
+      "Após tratamento químico e eletropolimento, os protótipos suportaram redução de até metade do diâmetro, com recuperação elástica superior a 90%. A validação descrita empregou indicadores mecânicos e um ciclo de compressão e expansão que representa introdução e liberação.",
+      "Esses resultados não demonstram durabilidade por anos, menor trombose ou segurança de implantes personalizados em pessoas. A própria equipe lista biocompatibilidade in vitro e experimentos animais antes da investigação clínica. Usar um material conhecido não transfere automaticamente sua experiência clínica à nova geometria fabricada."
+    ],
+    "implication": "O processo de fabricação precisa ser avaliado junto com a arquitetura do implante.",
+    "discussionPrompt": "Que testes de fadiga e superfície faltam antes da aplicação vascular?",
+    "sourceDateEvidence": "IMDEA Materials: 13 October 2026; DOI do estudo em npj Metamaterials identificado na página.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Researchers Develop 3D Printing Method to Create Personalised Superelastic Minimally Invasive Nitinol Vascular Devices",
+    "studyUrl": "https://doi.org/10.1038/s44455-026-00042-9"
+  },
+  {
+    "id": "inovacao-006-medagentbrief",
+    "section": "inovacao",
+    "category": "IA no trabalho clínico",
+    "title": "Resumos de alta por IA mostram alívio percebido e erros a revisar",
+    "deck": "Piloto com 11 médicos encontrou omissões e inexatidões; economia medida de tempo foi menor que a percebida.",
+    "date": "2026-05-08",
+    "contentType": "Análise",
+    "sourceName": "JAMA Network Open",
+    "sourceUrl": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2848785",
+    "evidenceType": "Estudo de melhoria da qualidade em uma unidade hospitalar",
+    "paragraphs": [
+      "Um piloto de dez semanas avaliou o MedAgentBrief em uma unidade de internação ligada à Stanford Health Care, em Redwood City, com 11 médicos e 384 altas. O sistema produzia rascunhos do curso da internação; profissionais decidiam se os utilizariam e continuavam responsáveis pela revisão.",
+      "Houve retorno sobre 100 resumos: 25 apresentavam omissões, 20 inexatidões e dois informações inventadas. Essas categorias podem coexistir. O estudo também encontrou queda nas pontuações de esgotamento, mas o desenho não estabelece que a ferramenta tenha causado essa mudança.",
+      "A redução objetiva do tempo de documentação foi variável e não alcançou significância estatística na comparação disponível. Publicado em maio, o trabalho oferece evidência local, não garantia de segurança em outros hospitais. Avaliar conteúdo, adoção e carga mental separadamente evita reduzir o benefício a minutos poupados."
+    ],
+    "implication": "Menor esforço percebido não elimina a necessidade de detectar erros documentais.",
+    "discussionPrompt": "Como auditar resumos que parecem corretos, mas omitem informação relevante?",
+    "sourceDateEvidence": "JAMA Network Open: publicação online em 08/05/2026; piloto realizado em 2025.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Physician-Reported Safety Outcomes of AI-Generated Hospital Course Summaries",
+    "studyUrl": "https://doi.org/10.1001/jamanetworkopen.2026.16556",
+    "additionalSources": [
+      {
+        "name": "Divulgação Stanford",
+        "url": "https://news.stanford.edu/stories/2026/06/ai-tool-hospital-discharge-summary-doctor-burnout"
+      }
+    ]
+  },
+  {
+    "id": "inovacao-006-ecg-estrutura",
+    "section": "inovacao",
+    "category": "Validação de IA",
+    "title": "IA em ECG busca priorizar investigação de alterações estruturais",
+    "deck": "Resultados apresentados em congresso variaram entre condições e coortes; a ferramenta não substitui ecocardiografia.",
+    "date": "2026-09-25",
+    "contentType": "Análise",
+    "sourceName": "Imperial College London",
+    "sourceUrl": "https://www.imperial.ac.uk/news/articles/medicine/nhli/2026/ai-model-could-identify-hidden-heart-disease-from-routine-ecgs/",
+    "evidenceType": "Avaliação de modelo em duas coortes dos Estados Unidos",
+    "paragraphs": [
+      "Pesquisadores do Imperial avaliaram se inteligência artificial aplicada ao eletrocardiograma identifica sinais de disfunção ventricular e doença valvar. Os resultados, divulgados após apresentação no congresso europeu de cardiologia, foram comparados a ecocardiogramas em grupos de 5.442 e 61.520 pacientes dos Estados Unidos.",
+      "Para redução da função de bombeamento, a área sob a curva foi de 0,86 e 0,90; para estenose aórtica, de 0,85 e 0,73. Essa medida descreve discriminação, não a proporção de diagnósticos corretos em qualquer cenário clínico.",
+      "A diferença entre resultados mostra por que não cabe uma taxa única de sucesso. A fonte informa avaliação adicional no NHS, não conclusão dessa etapa. O uso proposto é sinalizar quem necessita investigação, sem confirmar ou excluir isoladamente doença cardíaca."
+    ],
+    "implication": "Desempenho de triagem precisa ser interpretado por condição e população.",
+    "discussionPrompt": "Como escolher um limiar sem sobrecarregar a fila de ecocardiografia?",
+    "sourceDateEvidence": "Imperial: 25 September 2026; baseada em divulgação BHF de 2 September e apresentação ESC2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "AI model could detect hidden heart disease from routine ECGs"
+  },
+  {
+    "id": "inovacao-006-quimica-aprendizado-ativo",
+    "section": "inovacao",
+    "category": "Descoberta de moléculas",
+    "title": "Aprendizado ativo escolhe quais reações levar ao laboratório",
+    "deck": "Fluxo combina automação e geometria molecular para prever boração; não demonstra que um candidato será um medicamento eficaz.",
+    "date": "2026-10-12",
+    "contentType": "Notícia",
+    "sourceName": "ETH Zurich — D-BSSE",
+    "sourceUrl": "https://bsse.ethz.ch/news-and-events/d-bsse-news/2026/10/advacing-drug-discovery-ai-guided-workflow-boosts-chemical-reaction-prediction-with-minimal-data.html",
+    "evidenceType": "Método computacional com experimentos químicos",
+    "paragraphs": [
+      "Uma colaboração entre ETH Zurich e Roche combinou aprendizado ativo e experimentação automatizada para estudar a boração de ligações carbono–hidrogênio. Essa reação introduz um ponto que pode facilitar modificações posteriores de moléculas, etapa útil na exploração de candidatos farmacêuticos.",
+      "Em três rodadas, o modelo selecionou compostos considerados informativos para os testes, em vez de experimentar toda a coleção ou uma amostra aleatória. Os resultados alimentaram novas previsões sobre a ocorrência da reação e o local molecular em que ela aconteceria.",
+      "A incorporação da geometria das moléculas ajudou a analisar substratos não vistos no treinamento. O resultado é uma ferramenta de química experimental, não validação de eficácia ou segurança de medicamentos. Sua contribuição está em orientar experimentos dentro da transformação estudada, sem dispensar confirmação laboratorial."
+    ],
+    "implication": "Escolher dados informativos pode ser tão importante quanto ampliar a base de treinamento.",
+    "discussionPrompt": "Como saber se o modelo permanece confiável fora do domínio químico estudado?",
+    "sourceDateEvidence": "Página D-BSSE datada12.10.2026; agregador ETH lista13.10, não utilizado como data principal.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Advancing drug discovery: AI-guided workflow boosts chemical reaction prediction with minimal data",
+    "studyUrl": "https://doi.org/10.1038/s43588-026-01063-0"
+  },
+  {
+    "id": "inovacao-006-colirio-microfluidico",
+    "section": "inovacao",
+    "category": "Administração de medicamentos",
+    "title": "Adesivo microfluídico aplica colírio sem depender da queda da gota",
+    "deck": "Protótipo usa pressão de gás; testes na Terra não demonstram funcionamento no espaço nem benefício em Parkinson.",
+    "date": "2026-10-21",
+    "contentType": "Notícia",
+    "sourceName": "KAIST",
+    "sourceUrl": "https://kaist.ac.kr/newsen/html/news/?GotoPage=1&mng_no=68430&mode=V&sval=LLO",
+    "evidenceType": "Protótipo com avaliação em participantes na Terra",
+    "paragraphs": [
+      "Um adesivo flexível desenvolvido pelo KAIST conduz colírio por microcanais usando pressão gerada internamente. Ao acionar o dispositivo, uma reação produz gás que empurra o líquido, evitando depender da queda gravitacional usada nos frascos convencionais.",
+      "Uma barreira transmite a pressão, mas mantém os reagentes separados do colírio. A equipe relatou liberação consistente em diferentes orientações e uma avaliação corporal com participantes. A divulgação não informa o tamanho dessa amostra e não apresenta desfechos de tratamento ocular.",
+      "A motivação inclui medicina espacial, mas todos os testes descritos ocorreram na Terra. Uso em microgravidade real permanece por verificar. A eventual utilidade para pessoas com tremor também é uma proposta, não evidência de melhora da administração em pacientes com Parkinson."
+    ],
+    "implication": "Mudar a orientação da gravidade não reproduz integralmente um ambiente espacial.",
+    "discussionPrompt": "Como avaliar precisão da dose, conforto e repetibilidade em usuários diferentes?",
+    "sourceDateEvidence": "KAIST:21.10.2026; artigo disponibilizado online7.10.2026 em Sensors and Actuators B:Chemical.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "KAIST Develops Gravity-Independent Wearable Eyedrop Patch for Use in Space",
+    "studyUrl": "https://doi.org/10.1016/j.snb.2026.140885"
+  },
+  {
+    "id": "inovacao-006-respirafibre",
+    "section": "inovacao",
+    "category": "Monitorização hospitalar",
+    "title": "RespiraFibre entra em estudo de validação no pós-operatório",
+    "deck": "Sensor integrado a máscaras e cânulas será comparado à capnografia; seus dados não orientarão o cuidado durante a pesquisa.",
+    "date": "2026-10-20",
+    "contentType": "Notícia",
+    "sourceName": "University College London Hospitals NHS Foundation Trust",
+    "sourceUrl": "https://www.uclh.nhs.uk/news/award-winning-breathing-monitor-enters-clinical-trial-uclh",
+    "evidenceType": "Início de estudo clínico de validação e viabilidade",
+    "paragraphs": [
+      "O UCLH abriu o estudo ROBUST para avaliar o RespiraFibre, sensor incorporado a máscaras de oxigênio e cânulas nasais. A tecnologia registra frequência e padrão respiratórios e envia os dados a uma plataforma digital, buscando tornar a observação contínua mais prática.",
+      "Uma etapa comparará suas leituras à capnografia em pacientes recuperando-se de cirurgias programadas. Outra acompanhará uso nas enfermarias por até sete dias, incluindo avaliação de conforto e usabilidade em pessoas que necessitam oxigenoterapia.",
+      "O anúncio descreve o começo da avaliação, não resultados de acurácia ou redução de deterioração clínica. Os participantes continuarão recebendo monitorização habitual, e os dados do sensor não serão usados para decidir seu tratamento. Essa separação permite testar o dispositivo antes de confiar nele para alertas assistenciais."
+    ],
+    "implication": "Validar uma medida vem antes de usá-la para alterar condutas.",
+    "discussionPrompt": "Além da concordância com capnografia, quais falhas precisam ser registradas?",
+    "sourceDateEvidence": "UCLH:20 October2026; fonte anuncia abertura do ROBUST.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Award-winning breathing monitor enters clinical trial at UCLH"
+  },
+  {
+    "id": "inovacao-006-arbovirus-portatil",
+    "section": "inovacao",
+    "category": "Diagnóstico molecular",
+    "title": "Teste portátil combina triagem e identificação de arbovírus",
+    "deck": "Ensaio RT-LAMP teve 90% de concordância com RT-PCR nas amostras clínicas examinadas; não é equivalência universal.",
+    "date": "2026-08-04",
+    "contentType": "Análise",
+    "sourceName": "Analytical Chemistry / University of Florida",
+    "sourceUrl": "https://pubs.acs.org/ancham/article/98/32/23450/5242281/Multiplexed-RT-LAMP-Assays-in-Handheld-Devices-for",
+    "evidenceType": "Desenvolvimento analítico e comparação com amostras clínicas",
+    "paragraphs": [
+      "Uma equipe da Universidade da Flórida desenvolveu um ensaio portátil para chikungunya, Mayaro, Zika e os quatro sorotipos de dengue. A primeira reação pesquisa os sete alvos; quando positiva, dispositivos com painéis menores ajudam a identificar o vírus presente.",
+      "O método RT-LAMP amplifica material genético em temperatura constante, com leitura fluorescente simplificada. O artigo informa concordância global de 90% com RT-PCR em amostras clínicas avaliadas às cegas. Esse indicador não representa, sozinho, sensibilidade ou especificidade para cada vírus.",
+      "O estudo foi publicado em agosto, não na data desta edição. O protótipo pode reduzir exigências instrumentais, mas o resultado não demonstra equivalência em todos os contextos nem benefício assistencial em campo. A identificação diferencial envolve etapas adicionais, não sete respostas individualizadas na primeira leitura."
+    ],
+    "implication": "Simplificação instrumental não elimina a necessidade de entender o fluxo completo do teste.",
+    "discussionPrompt": "Como variam falsos negativos e desempenho entre os sete alvos?",
+    "sourceDateEvidence": "Analytical Chemistry: publicação online em 04/08/2026; edição de 18/08/2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Multiplexed RT-LAMP Assays in Handheld Devices for In-Situ Detection of Chikungunya, Dengue, Mayaro, and Zika Viruses",
+    "studyUrl": "https://doi.org/10.1021/acs.analchem.5c08263",
+    "additionalSources": [
+      {
+        "name": "Divulgação da Universidade da Flórida",
+        "url": "https://news.ufl.edu/2026/09/mosquito-virus-device/"
+      }
+    ]
+  },
+  {
+    "id": "inovacao-006-mirsi-portatil",
+    "section": "inovacao",
+    "category": "Imagem molecular",
+    "title": "Sonda infravermelha portátil preserva contraste químico de tecidos",
+    "deck": "Protótipo foi comparado a equipamento de bancada em amostras; avaliação intraoperatória permanece uma aplicação futura.",
+    "date": "2026-09-17",
+    "contentType": "Análise",
+    "sourceName": "Optica / University of Houston",
+    "sourceUrl": "https://www.optica.org/about/newsroom/news_releases/2026/new_handheld_device_maps_chemical_composition_using_infrared_light/",
+    "evidenceType": "Engenharia óptica com avaliação de amostras biológicas",
+    "paragraphs": [
+      "Uma equipe da Universidade de Houston miniaturizou um sistema de imagem química por infravermelho em uma sonda ligada por fibras a uma unidade de base. O método detecta mudanças fototérmicas associadas à absorção da luz, sem exigir marcação das moléculas observadas.",
+      "Os testes incluíram tecidos humanos de tumores cervicais e ovarianos, biópsia de medula óssea humana e tecido renal de camundongo. A comparação com um sistema de bancada encontrou contraste químico semelhante; o protótipo resolveu estruturas de dois micrômetros nas condições avaliadas.",
+      "Analisar amostras não equivale a reconhecer margens tumorais durante uma cirurgia. A equipe pretende ampliar a faixa espectral e a velocidade de aquisição. Repetibilidade, segurança e desempenho diagnóstico em condições clínicas ainda precisam ser testados antes de sustentar decisões no centro cirúrgico."
+    ],
+    "implication": "Portabilidade só é útil se preservar desempenho no ambiente em que será empregada.",
+    "discussionPrompt": "Como movimento e tempo de aquisição afetam uma leitura intraoperatória?",
+    "sourceDateEvidence": "Optica:17 September2026; artigo DOI10.1364/OPTICA.600562.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "New handheld device maps chemical composition using infrared light",
+    "studyUrl": "https://doi.org/10.1364/OPTICA.600562"
+  },
+  {
+    "id": "inovacao-006-lesao-pressao-validacao",
+    "section": "inovacao",
+    "category": "IA e validação externa",
+    "title": "Validação externa avalia modelo de risco de lesão por pressão",
+    "deck": "Projeto em andamento usa registros desidentificados do leste inglês; a divulgação não traz resultados de validação.",
+    "date": null,
+    "contentType": "Análise",
+    "sourceName": "Eastern England Secure Data Environment",
+    "sourceUrl": "https://easternsde.nhs.uk/projects/external-validation-of-a-machine-learning-algorithm-for-predicting-hospital-acquired-pressure-ulcers-using-de-identified-patient-data-from-the-east-of-england/",
+    "evidenceType": "Projeto de validação retrospectiva em andamento",
+    "paragraphs": [
+      "Um projeto do Imperial College London está testando um modelo de risco de lesão por pressão em hospitais do leste da Inglaterra. O registro público indica dados em uso e execução prevista de fevereiro de 2026 a março de 2027.",
+      "A avaliação utilizará registros de adultos internados por pelo menos 24 horas entre 2017 e 2024, incluindo sinais vitais, exames, medicamentos e doenças prévias. O objetivo é verificar se um algoritmo desenvolvido em outro contexto mantém desempenho ao mudar de população e serviço.",
+      "O registro descreve um projeto em andamento, sem resultados concluídos, e não informa a data de publicação da página. Reduzir lesões dependeria, depois, de demonstrar que os alertas melhoram ações preventivas, não apenas distinguem retrospectivamente pacientes com e sem o desfecho."
+    ],
+    "implication": "Transportar um algoritmo entre hospitais exige medir o que mudou nos dados e no cuidado.",
+    "discussionPrompt": "Como separar erro de previsão de diferenças na documentação das lesões?",
+    "sourceDateEvidence": "Página sem data editorial; 01/02/2026 a 01/03/2027 é o período do projeto, não a publicação.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "External validation of a machine learning algorithm for predicting hospital-acquired pressure ulcers using de-identified patient data from the East of England",
+    "additionalSources": [
+      {
+        "name": "Webinar realizado em19 de outubro",
+        "url": "https://easternsde.nhs.uk/catch-up-from-algorithm-to-impact-how-ai-and-secure-data-environments-could-help-predict-pressure-ulcers/"
+      }
+    ]
+  },
+  {
+    "id": "inovacao-006-icare-quedas",
+    "section": "inovacao",
+    "category": "Dados para inovação",
+    "title": "Antes de prever quedas, equipe reconstrói o significado dos registros",
+    "deck": "Relato do iCARE mostra por que campos completos nem sempre oferecem dados confiáveis para um modelo de risco.",
+    "date": "2026-09-23",
+    "contentType": "Análise",
+    "sourceName": "Imperial College London",
+    "sourceUrl": "https://www.imperial.ac.uk/news/articles/medicine/2026/falls-data-why-building-the-dataset-comes-before-building-the-model--/",
+    "evidenceType": "Relato metodológico de curadoria de dados hospitalares",
+    "paragraphs": [
+      "Em um relato sobre prevenção de quedas hospitalares, pesquisadoras do iCARE descrevem uma etapa pouco visível da inteligência artificial: reunir informações registradas antes, durante e depois do evento. Esses dados estavam dispersos em diferentes partes do prontuário e não foram coletados originalmente para pesquisa.",
+      "A equipe precisou discutir com profissionais o significado dos campos, diferenças de codificação entre enfermarias e ausências de informação. Um campo preenchido para finalidade administrativa pode ser menos útil que uma anotação clínica esparsa, mas cuidadosamente documentada.",
+      "O texto não apresenta um modelo validado nem redução de quedas. Sua contribuição é expor decisões que ficam escondidas no conjunto final: inclusão, exclusão e transformação dos registros. Sem essa rastreabilidade, um algoritmo pode aprender o modo de documentar de um serviço, em vez do fenômeno que se pretende prevenir."
+    ],
+    "implication": "Qualidade dos dados inclui compreender por que e como cada informação foi registrada.",
+    "discussionPrompt": "Que decisões de curadoria deveriam acompanhar a publicação de um modelo?",
+    "sourceDateEvidence": "Imperial:23 September2026; entrevista metodológica, não lançamento de ferramenta clínica.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Falls data: why building the dataset comes before building the model"
+  }
+]

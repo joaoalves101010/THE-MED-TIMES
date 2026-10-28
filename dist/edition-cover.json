@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "editionId": "005",
-  "date": "2026-10-26",
+  "editionId": "006",
+  "date": "2026-10-28",
   "image": {
-    "path": "assets/edition-covers/edition-005-4947d9bcc098f63dbdd31c7f30762f14fa1d7d33821f57bcce5a42cafccbf71f.svg",
-    "sha256": "4947d9bcc098f63dbdd31c7f30762f14fa1d7d33821f57bcce5a42cafccbf71f",
+    "path": "assets/edition-covers/edition-006-862e3ad328490a6a3a37eba05c687f71698321efd250919a65f6630f40678a58.svg",
+    "sha256": "862e3ad328490a6a3a37eba05c687f71698321efd250919a65f6630f40678a58",
     "width": 1000,
     "height": 1480
   },

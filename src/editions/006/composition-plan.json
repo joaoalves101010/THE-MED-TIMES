@@ -1,0 +1,996 @@
+{
+  "home": [
+    {
+      "widths": [
+        3,
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 5,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 110,
+            "visual": "bottom"
+          }
+        ],
+        [
+          {
+            "story": 2,
+            "role": "major",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 7,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        4,
+        4,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 4,
+            "role": "major",
+            "words": 90,
+            "visual": "bottom"
+          }
+        ],
+        [
+          {
+            "story": 3,
+            "role": "major",
+            "words": 100,
+            "visual": "bottom"
+          }
+        ],
+        [
+          {
+            "story": 6,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Formação, prática e caminhos internacionais"
+    }
+  ],
+  "pesquisa": [
+    {
+      "widths": [
+        4,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 125,
+            "visual": "side"
+          }
+        ],
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 2,
+            "role": "major",
+            "words": 85,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 3,
+            "role": "major",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 4,
+            "role": "standard",
+            "words": 75,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 5,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 6,
+            "role": "brief",
+            "words": 70,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 7,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Ensaios e coortes • diferenciar sinais iniciais de benefício confirmado"
+    },
+    {
+      "widths": [
+        2,
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 9,
+            "role": "brief",
+            "words": 70,
+            "visual": "none"
+          },
+          {
+            "story": 10,
+            "role": "brief",
+            "words": 70,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 11,
+            "role": "standard",
+            "words": 75,
+            "visual": "none"
+          },
+          {
+            "story": 12,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 13,
+            "role": "standard",
+            "words": 70,
+            "visual": "none"
+          },
+          {
+            "story": 14,
+            "role": "brief",
+            "words": 65,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Mecanismos, imunogenicidade e populações • resultados não equivalem a eficácia"
+    }
+  ],
+  "clinica": [
+    {
+      "widths": [
+        4,
+        4
+      ],
+      "columns": [
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 125,
+            "visual": "none"
+          },
+          {
+            "story": 3,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 2,
+            "role": "major",
+            "words": 110,
+            "visual": "none"
+          },
+          {
+            "story": 1,
+            "role": "major",
+            "words": 115,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Risco cardiometabólico, anemia e infecções"
+    },
+    {
+      "widths": [
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 4,
+            "role": "major",
+            "words": 110,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 5,
+                  "role": "standard",
+                  "words": 95,
+                  "visual": "none"
+                },
+                {
+                  "story": 7,
+                  "role": "standard",
+                  "words": 95,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 6,
+                  "role": "standard",
+                  "words": 95,
+                  "visual": "none"
+                },
+                {
+                  "story": 9,
+                  "role": "standard",
+                  "words": 95,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ]
+      ],
+      "label": "Gastroenterologia e saúde da mulher • guias, não novidade do dia"
+    },
+    {
+      "widths": [
+        3,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 10,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          },
+          {
+            "story": 12,
+            "role": "standard",
+            "words": 110,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 11,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 13,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 14,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Segurança, limites da evidência e cuidado longitudinal"
+    }
+  ],
+  "saude-publica": [
+    {
+      "widths": [
+        4,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 125,
+            "visual": "side"
+          }
+        ],
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 2,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 3,
+            "role": "major",
+            "words": 95,
+            "visual": "none"
+          },
+          {
+            "story": 4,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 5,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 6,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 7,
+            "role": "rail",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "rail",
+            "words": 75,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Emergências, eliminação de doenças e cooperação internacional"
+    },
+    {
+      "widths": [
+        3,
+        5,
+        2
+      ],
+      "columns": [
+        [
+          {
+            "story": 9,
+            "role": "brief",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 10,
+            "role": "brief",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 11,
+                  "role": "standard",
+                  "words": 80,
+                  "visual": "none"
+                },
+                {
+                  "story": 12,
+                  "role": "brief",
+                  "words": 75,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 13,
+                  "role": "standard",
+                  "words": 80,
+                  "visual": "none"
+                },
+                {
+                  "story": 14,
+                  "role": "brief",
+                  "words": 75,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ],
+        [
+          {
+            "story": 15,
+            "role": "compact",
+            "words": 130,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Financiamento, vacinação e serviços • capacidade anunciada versus execução"
+    }
+  ],
+  "formacao": [
+    {
+      "widths": [
+        4,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 125,
+            "visual": "side"
+          }
+        ],
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 13,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 2,
+            "role": "rail",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 3,
+            "role": "rail",
+            "words": 80,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 4,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          },
+          {
+            "story": 5,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 6,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 7,
+            "role": "standard",
+            "words": 95,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Aprender no serviço • feedback, acessibilidade e autonomia do paciente"
+    },
+    {
+      "widths": [
+        2,
+        3,
+        2
+      ],
+      "columns": [
+        [
+          {
+            "story": 8,
+            "role": "major",
+            "words": 80,
+            "visual": "none"
+          },
+          {
+            "story": 9,
+            "role": "brief",
+            "words": 70,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 10,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          },
+          {
+            "story": 11,
+            "role": "brief",
+            "words": 75,
+            "visual": "none"
+          },
+          {
+            "story": 12,
+            "role": "brief",
+            "words": 60,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 14,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Interpretar resultados e relatar métodos • ferramentas de referência"
+    }
+  ],
+  "inovacao": [
+    {
+      "widths": [
+        2,
+        6
+      ],
+      "columns": [
+        [
+          {
+            "story": 1,
+            "role": "major",
+            "words": 120,
+            "visual": "none"
+          },
+          {
+            "story": 2,
+            "role": "standard",
+            "words": 105,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 0,
+            "role": "lead",
+            "words": 180,
+            "visual": "side"
+          },
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 3,
+                  "role": "standard",
+                  "words": 120,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 4,
+                  "role": "standard",
+                  "words": 120,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 5,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 6,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 7,
+            "role": "major",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 80,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 9,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 10,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Protótipos e IA • distinguir bancada, piloto e resultado clínico"
+    },
+    {
+      "widths": [
+        5,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 11,
+                  "role": "standard",
+                  "words": 100,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 12,
+                  "role": "standard",
+                  "words": 100,
+                  "visual": "none"
+                }
+              ]
+            ]
+          },
+          {
+            "story": 13,
+            "role": "major",
+            "words": 100,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 14,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Validação planejada ou inicial • o que ainda falta demonstrar"
+    }
+  ],
+  "instituicoes": [
+    {
+      "widths": [
+        3,
+        5
+      ],
+      "columns": [
+        [
+          {
+            "story": 0,
+            "role": "feature",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 5,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 3,
+            "role": "major",
+            "words": 75,
+            "visual": "side"
+          },
+          {
+            "widths": [
+              1,
+              1
+            ],
+            "columns": [
+              [
+                {
+                  "story": 1,
+                  "role": "compact",
+                  "words": 65,
+                  "visual": "none"
+                }
+              ],
+              [
+                {
+                  "story": 2,
+                  "role": "compact",
+                  "words": 65,
+                  "visual": "none"
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "widths": [
+        3,
+        3,
+        3
+      ],
+      "columns": [
+        [
+          {
+            "story": 4,
+            "role": "rail",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 12,
+            "role": "rail",
+            "words": 75,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 6,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 7,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 8,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          },
+          {
+            "story": 9,
+            "role": "standard",
+            "words": 85,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Centros, acordos e redes • anúncio não é resultado assistencial"
+    },
+    {
+      "widths": [
+        3,
+        2,
+        4
+      ],
+      "columns": [
+        [
+          {
+            "story": 10,
+            "role": "standard",
+            "words": 90,
+            "visual": "none"
+          },
+          {
+            "story": 11,
+            "role": "brief",
+            "words": 85,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 13,
+            "role": "major",
+            "words": 140,
+            "visual": "none"
+          }
+        ],
+        [
+          {
+            "story": 14,
+            "role": "standard",
+            "words": 100,
+            "visual": "none"
+          },
+          {
+            "story": 15,
+            "role": "brief",
+            "words": 80,
+            "visual": "none"
+          }
+        ]
+      ],
+      "label": "Financiamento e eletivas • confirme ciclo, abertura e elegibilidade"
+    }
+  ]
+}

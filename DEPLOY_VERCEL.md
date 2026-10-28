@@ -19,7 +19,7 @@ O build valida o artefato pronto, sem rodar Python, Pillow ou PyMuPDF. Não usar
 
 ## Verificação após cada commit
 
-Aguardar o resultado do deploy, quando houver estado/check disponível, e confirmar o domínio público. Conferir edição **005**, data **2026-10-26**, capa, seis cadernos com 16 matérias, uma matéria atual, busca de 96 resultados, arquivo completo, fontes locais e 404. Conferir também navegação móvel, foco, Busca/Cadernos e ausência de cortes.
+Aguardar o resultado do deploy, quando houver estado/check disponível, e confirmar o domínio público. Conferir edição **006**, data **2026-10-28**, capa, seis cadernos com 16 matérias, uma matéria atual, busca de 96 resultados, arquivo completo, fontes locais e 404. Conferir também navegação móvel, foco, Busca/Cadernos e ausência de cortes.
 
 Se a página ainda exibir a edição anterior, o commit no GitHub não deve ser anunciado como edição pública concluída. Investigar a conexão/deploy com as permissões existentes. Não criar outro projeto ou conta como contorno.
 

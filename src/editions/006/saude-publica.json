@@ -1,0 +1,360 @@
+[
+  {
+    "id": "publica-006-inclusao-deficiencia",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Acordo da OPAS coloca deficiência intelectual na organização dos serviços",
+    "deck": "Cooperação prevê dados, acessibilidade e preparação inclusiva para emergências.",
+    "date": "2026-10-26",
+    "contentType": "Notícia",
+    "sourceName": "Organização Pan-Americana da Saúde",
+    "sourceUrl": "https://www.paho.org/en/news/26-10-2026-paho-and-special-olympics-international-sign-framework-agreement-advance-inclusive",
+    "evidenceType": "Acordo de cooperação",
+    "paragraphs": [
+      "A OPAS e a Special Olympics International anunciaram em 26 de outubro um acordo para apoiar sistemas de saúde mais inclusivos nas Américas. O foco são pessoas com deficiência intelectual e do desenvolvimento, que enfrentam barreiras para acessar serviços.",
+      "A cooperação prevê compartilhar informações e experiências, elaborar planos conjuntos e aproximar iniciativas dos ministérios da Saúde. As prioridades incluem atendimento acessível, preparação para emergências, melhores dados sobre deficiência e desenvolvimento inclusivo nas comunidades.",
+      "O anúncio estabelece uma base de trabalho, não demonstra que as barreiras já foram removidas. Para acompanhar a execução, importa verificar se comunicação, instalações e processos de atendimento mudam de fato e se as próprias pessoas beneficiárias participam dessas escolhas."
+    ],
+    "implication": "Inclusão precisa aparecer no funcionamento cotidiano do serviço.",
+    "discussionPrompt": "Como verificar acessibilidade além da entrada do prédio?",
+    "sourceDateEvidence": "Página datada de 26 October 2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "PAHO and Special Olympics International sign framework agreement to advance inclusive health for people with intellectual and developmental disabilities"
+  },
+  {
+    "id": "publica-006-miiase-americas",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Alerta de miíase aproxima vigilância humana e animal nas Américas",
+    "deck": "OPAS relaciona expansão dos casos humanos à circulação do parasita em animais.",
+    "date": "2026-10-16",
+    "contentType": "Notícia",
+    "sourceName": "Organização Pan-Americana da Saúde",
+    "sourceUrl": "https://www.paho.org/en/documents/epidemiological-alert-myiasis-caused-cochliomyia-hominivorax-americas-region-16-october",
+    "evidenceType": "Alerta epidemiológico",
+    "paragraphs": [
+      "Em alerta de 16 de outubro, a OPAS pediu reforço da vigilância de miíase humana causada por Cochliomyia hominivorax. O documento descreve aumento e expansão geográfica dos casos na América Central e no México, após a reemergência do parasita em animais.",
+      "A orientação combina reconhecimento oportuno dos casos, atendimento adequado e articulação entre saúde humana, saúde animal e ambiente. Também recomenda intensificar prevenção e comunicação de risco, sobretudo nas áreas de reintrodução recente e entre populações mais expostas.",
+      "O alerta não significa que todas as localidades das Américas tenham o mesmo risco. A leitura territorial das notificações e a troca de informações entre os setores são necessárias para orientar a resposta, sem transformar uma expansão regional em previsão individual de adoecimento."
+    ],
+    "implication": "A vigilância precisa atravessar a fronteira entre setores.",
+    "discussionPrompt": "Como integrar notificações humanas e veterinárias no território?",
+    "sourceDateEvidence": "Documento e página: 16 October 2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Epidemiological Alert: Myiasis caused by Cochliomyia hominivorax in the Americas Region, 16 October 2026"
+  },
+  {
+    "id": "publica-006-sarampo-eventos",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Sarampo exige preparação antes dos grandes encontros religiosos",
+    "deck": "Avaliação de outubro destaca lacunas vacinais e circulação de viajantes nas Américas.",
+    "date": "2026-10-09",
+    "contentType": "Notícia",
+    "sourceName": "Organização Pan-Americana da Saúde",
+    "sourceUrl": "https://www.paho.org/en/news/9-10-2026-paho-assesses-risk-measles-spread-very-high-ahead-religious-mass-gatherings-americas",
+    "evidenceType": "Avaliação regional de risco",
+    "paragraphs": [
+      "A OPAS divulgou em 9 de outubro uma avaliação que classifica como muito alto o risco de disseminação do sarampo nas Américas. Datado de 8 de outubro, o documento examina encontros religiosos previstos na América do Sul, em um cenário de surtos e circulação internacional de pessoas.",
+      "Entre 4 de janeiro e 3 de outubro, a organização contabilizou 55.792 casos confirmados e 77 mortes em 17 países e territórios. Esses números pertencem ao período informado, não a um balanço atualizado automaticamente até a data desta edição.",
+      "A preparação recomendada reúne vacinação, vigilância e resposta rápida. Grandes eventos podem ampliar oportunidades de transmissão, mas não explicam sozinhos os surtos: a concentração de pessoas suscetíveis e as dificuldades de acesso à imunização também precisam orientar as ações locais."
+    ],
+    "implication": "O planejamento do evento começa antes da chegada dos participantes.",
+    "discussionPrompt": "Como localizar lacunas de proteção no público esperado?",
+    "sourceDateEvidence": "Notícia: 9 October 2026; avaliação subjacente: 8 October 2026; contagem citada: 4 January–3 October 2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas"
+  },
+  {
+    "id": "publica-006-panama-terremoto",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Panamá recebe kits para aproximar atendimento após terremoto",
+    "deck": "Entrega de 14 de outubro apoia equipes em comunidades e abrigos.",
+    "date": "2026-10-14",
+    "contentType": "Notícia",
+    "sourceName": "Organização Pan-Americana da Saúde",
+    "sourceUrl": "https://www.paho.org/en/news/14-10-2026-paho-delivers-critical-supplies-strengthen-emergency-care-communities-affected",
+    "evidenceType": "Relato de resposta humanitária",
+    "paragraphs": [
+      "A OPAS informou a entrega de 20 mochilas de emergência ao Ministério da Saúde do Panamá em 14 de outubro. Doados pela Direct Relief, os materiais apoiam equipes que atendem comunidades afetadas pelo terremoto de 9 de outubro.",
+      "Os conjuntos estavam posicionados na reserva estratégica regional e incluem recursos para avaliação inicial, curativos, controle de sangramento e imobilização. A proposta é facilitar o atendimento onde o acesso às unidades foi dificultado e organizar transferências quando necessário.",
+      "A entrega é uma etapa da resposta, não uma medida de recuperação completa da rede. O comunicado também descreve avaliação de danos e da capacidade operacional dos serviços. A quantidade de kits, isoladamente, não informa quantas pessoas foram atendidas nem o efeito sobre complicações."
+    ],
+    "implication": "Estoque pré-posicionado só ganha valor quando chega à equipe.",
+    "discussionPrompt": "Como conectar atendimento de campo e transferência segura?",
+    "sourceDateEvidence": "Página e entrega: 14 October 2026; terremoto: 9 October.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "PAHO delivers critical supplies to strengthen emergency care in communities affected by the earthquake in Panama"
+  },
+  {
+    "id": "publica-006-materna-guatemala-dominicana",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Guatemala e República Dominicana entram em iniciativa de saúde materna",
+    "deck": "Acordo de dois anos prioriza áreas desassistidas e cuidado de adolescentes.",
+    "date": "2026-09-30",
+    "contentType": "Notícia",
+    "sourceName": "Organização Pan-Americana da Saúde",
+    "sourceUrl": "https://www.paho.org/en/news/30-9-2026-paho-and-msd-mothers-sign-agreement-reduce-preventable-maternal-deaths-guatemala-and",
+    "evidenceType": "Anúncio de programa",
+    "paragraphs": [
+      "A OPAS e a iniciativa MSD for Mothers anunciaram em 30 de setembro um acordo de dois anos para apoiar Guatemala e República Dominicana. A proposta busca reduzir mortes maternas evitáveis e melhorar o acesso de adolescentes e mulheres em áreas desassistidas.",
+      "O trabalho inclui planejamento reprodutivo após o parto, serviços adaptados às adolescentes e participação de jovens no desenho do atendimento. Também prevê fortalecer o pré-natal integrado para prevenir, diagnosticar e tratar infecções que podem ser transmitidas da gestante ao bebê.",
+      "O comunicado apresenta objetivos e uma parceria público-privada, não uma redução já observada da mortalidade. A avaliação deverá distinguir pessoas alcançadas, qualidade do cuidado e resultados de saúde. Tornar essas medidas transparentes ajuda a examinar o desempenho sem confundir financiamento com efetividade."
+    ],
+    "implication": "Metas de alcance e resultados de saúde não são equivalentes.",
+    "discussionPrompt": "Quais indicadores devem acompanhar a execução da parceria?",
+    "sourceDateEvidence": "Página e anúncio: 30 September 2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "PAHO and MSD for Mothers sign agreement to reduce preventable maternal deaths in Guatemala and the Dominican Republic"
+  },
+  {
+    "id": "publica-006-chile-raiva",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Chile recebe validação pela eliminação da raiva transmitida por cães",
+    "deck": "Reconhecimento de setembro depende da manutenção da vigilância e da prevenção.",
+    "date": "2026-09-14",
+    "contentType": "Notícia",
+    "sourceName": "Organização Mundial da Saúde",
+    "sourceUrl": "https://www.who.int/news/item/14-09-2026-chile-becomes-first-country-in-south-america-validated-for-eliminating-dog-transmitted-rabies-as-a-public-health-problem",
+    "evidenceType": "Validação internacional",
+    "paragraphs": [
+      "A OMS anunciou em 14 de setembro a validação do Chile pela eliminação da raiva humana transmitida por cães como problema de saúde pública. Segundo a organização, o último caso humano dessa forma de transmissão no país foi registrado em 1972.",
+      "A avaliação considerou mais que a ausência de casos: examinou vigilância, capacidade laboratorial, vacinação de animais e acesso oportuno à profilaxia após exposição. O dossiê nacional foi revisto por um grupo internacional independente convocado pela OPAS e pela OMS.",
+      "Eliminação como problema de saúde pública não equivale ao desaparecimento do vírus em todos os animais. O país precisa manter prevenção e resposta, inclusive nas fronteiras. A conquista mostra a importância de sustentar capacidades quando a doença deixa de aparecer rotineiramente nos serviços."
+    ],
+    "implication": "Ausência de casos não dispensa capacidade de resposta.",
+    "discussionPrompt": "Como preservar vigilância para uma doença já controlada?",
+    "sourceDateEvidence": "Página: 14 September 2026; último caso canino humano referido: 1972.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Chile becomes first country in South America validated for eliminating dog-transmitted rabies as a public health problem"
+  },
+  {
+    "id": "publica-006-timor-tracoma",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Timor-Leste recebe validação de eliminação do tracoma",
+    "deck": "Investigação nacional sustenta reconhecimento; vigilância ocular permanece necessária.",
+    "date": "2026-09-03",
+    "contentType": "Notícia",
+    "sourceName": "Organização Mundial da Saúde",
+    "sourceUrl": "https://www.who.int/news/item/03-09-2026-who-validates-timor-leste-s-elimination-of-trachoma-as-a-public-health-problem",
+    "evidenceType": "Validação internacional",
+    "paragraphs": [
+      "A OMS validou em 3 de setembro a eliminação do tracoma como problema de saúde pública em Timor-Leste. O país era o último da região da organização no Sudeste Asiático com suspeita de endemicidade, completando esse marco regional.",
+      "A decisão considerou investigações de campo e capacidade de identificar e manejar casos futuros. Uma pesquisa de 2025 analisou 4.949 amostras de crianças de um a cinco anos nos 13 municípios, sem evidência de transmissão em nível que exigisse intervenção específica contra o tracoma.",
+      "O reconhecimento não encerra os cuidados com a visão. A vigilância será integrada às estruturas nacionais existentes, e o sistema deve manter atendimento para alterações palpebrais e outras doenças oculares. Trata-se de uma validação epidemiológica, não da promessa de ausência de qualquer caso futuro."
+    ],
+    "implication": "A eliminação precisa ser sustentada dentro da rede regular.",
+    "discussionPrompt": "Como integrar doenças eliminadas à vigilância cotidiana?",
+    "sourceDateEvidence": "Página: 3 September 2026; levantamento referido: 2025.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "WHO validates Timor-Leste’s elimination of trachoma as a public health problem"
+  },
+  {
+    "id": "publica-006-estoque-mpox",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Estoque global de vacinas busca tornar resposta à mpox menos desigual",
+    "deck": "Mecanismo lançado em agosto foi apresentado pela OMS em setembro.",
+    "date": "2026-09-02",
+    "contentType": "Contexto",
+    "sourceName": "Organização Mundial da Saúde",
+    "sourceUrl": "https://www.who.int/news/item/02-09-2026-global-initiative-launched-to-improve-access-to-mpox-vaccines",
+    "evidenceType": "Lançamento de mecanismo de acesso",
+    "paragraphs": [
+      "Uma iniciativa para formar um estoque global de vacinas contra mpox foi lançada em 27 de agosto e apresentada pela OMS em 2 de setembro. O mecanismo busca assegurar acesso a doses para resposta a surtos, inclusive em países com menor capacidade de compra.",
+      "O financiamento é da Gavi, e a coordenação cabe ao Grupo Internacional de Coordenação do Fornecimento de Vacinas, com participação de OMS, UNICEF, Médicos Sem Fronteiras e Federação Internacional da Cruz Vermelha e do Crescente Vermelho. A proposta amplia a organização permanente da oferta emergencial.",
+      "A notícia de setembro previa início das operações naquele mês; ela não comprova, por si, entregas posteriores. Este registro descreve o lançamento, sem afirmar disponibilidade imediata para qualquer pessoa. Estoques precisam ser acompanhados de critérios de alocação, logística e ações locais de resposta."
+    ],
+    "implication": "Acesso equitativo exige mais que a existência de doses.",
+    "discussionPrompt": "Como avaliar se a reserva chega às populações prioritárias?",
+    "sourceDateEvidence": "Publicação: 2 September 2026; lançamento: 27 August.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Global initiative launched to improve access to mpox vaccines"
+  },
+  {
+    "id": "publica-006-oms-interpol",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "OMS e INTERPOL articulam resposta a ameaças entre saúde e segurança",
+    "deck": "Acordo inclui produtos falsificados, tráfico de órgãos e eventos incomuns.",
+    "date": "2026-10-16",
+    "contentType": "Notícia",
+    "sourceName": "Organização Mundial da Saúde",
+    "sourceUrl": "https://www.who.int/news/item/16-10-2026-interpol-and-who-sign-agreement-to-strengthen-global-health-and-security-protection",
+    "evidenceType": "Acordo de cooperação",
+    "paragraphs": [
+      "A OMS e a INTERPOL anunciaram em 16 de outubro um acordo de cooperação para riscos que exigem atuação de saúde pública e segurança. A iniciativa pretende aproximar capacidades técnicas e policiais na prevenção, detecção e resposta a ameaças internacionais.",
+      "O escopo inclui produtos médicos falsificados, comércio ilícito de órgãos e tecidos e situações excepcionais envolvendo materiais químicos, radioativos ou eventos biológicos incomuns. Também contempla coordenação para grandes encontros internacionais e outras situações que demandem preparação conjunta.",
+      "O documento estabelece uma estrutura de colaboração, não relata uma nova operação policial nem uma redução demonstrada desses problemas. Para a saúde pública, a implementação precisará tornar claras as responsabilidades e os canais de encaminhamento, preservando a distinção entre investigação criminal e assistência às pessoas afetadas."
+    ],
+    "implication": "Cooperação precisa de responsabilidades e fluxos definidos.",
+    "discussionPrompt": "Quando um risco sanitário exige articulação com segurança?",
+    "sourceDateEvidence": "Comunicado conjunto: 16 October 2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "INTERPOL and WHO sign agreement to strengthen global health and security protection"
+  },
+  {
+    "id": "publica-006-gambia-demencia",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Gâmbia adota plano de demência para 2027–2031",
+    "deck": "Documento aproxima cuidado, informação e apoio às famílias; execução será decisiva.",
+    "date": "2026-10-19",
+    "contentType": "Notícia",
+    "sourceName": "OMS — Escritório Regional para a África",
+    "sourceUrl": "https://www.afro.who.int/countries/the-gambia/news/gambia-adopts-first-national-dementia-plan-marking-milestone-africa",
+    "evidenceType": "Adoção de plano nacional",
+    "paragraphs": [
+      "A Gâmbia adotou seu primeiro Plano Nacional de Demência para 2027–2031 em uma oficina realizada em 28 e 29 de setembro. A OMS divulgou o marco em 19 de outubro, distinguindo a data da decisão da publicação da notícia.",
+      "O plano reúne conscientização, redução de riscos, reconhecimento mais precoce, cuidado e apoio a familiares. Também prioriza profissionais, informação em saúde e mecanismos de coordenação e acompanhamento, buscando substituir respostas fragmentadas por uma organização nacional do atendimento.",
+      "A adoção não significa que os serviços previstos já estejam disponíveis em todo o país. Sua efetividade dependerá de recursos, responsabilidades e participação comunitária. O acompanhamento deve observar acesso e apoio real às famílias, e não apenas a existência de um documento com metas."
+    ],
+    "implication": "A política ganha sentido quando modifica o cuidado disponível.",
+    "discussionPrompt": "Como acompanhar o apoio oferecido a quem cuida?",
+    "sourceDateEvidence": "Publicação: 19 October 2026; adoção: 28–29 September.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "The Gambia Adopts First National Dementia Plan, Marking a Milestone for Africa"
+  },
+  {
+    "id": "publica-006-nigeria-financiamento",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Nigéria aproxima dados de financiamento das decisões de saúde",
+    "deck": "Fórum inaugural apresentou observatório e pesquisas encomendadas por instituições nacionais.",
+    "date": "2026-10-06",
+    "contentType": "Notícia",
+    "sourceName": "Aliança para Pesquisa em Políticas e Sistemas de Saúde — OMS",
+    "sourceUrl": "https://ahpsr.who.int/newsroom/news/item/06-10-2026-nigeria-moves-to-own-its-health-financing-evidence",
+    "evidenceType": "Relato de fórum e lançamento",
+    "paragraphs": [
+      "Um fórum nacional de financiamento da saúde na Nigéria discutiu como fazer a pesquisa responder às prioridades do próprio país. Em relato de 6 de outubro, a aliança vinculada à OMS destacou cinco estudos encomendados e financiados pela autoridade nacional de seguro de saúde.",
+      "O encontro também marcou o lançamento do Nigeria Health Financing Observatory. A primeira fase reúne cerca de 50 indicadores, painéis e um repositório de evidências, enquanto aproximadamente 198 indicadores foram identificados para o conjunto planejado da plataforma.",
+      "A distinção entre o que está disponível e o que ainda será acrescentado importa para interpretar o anúncio. Reunir dados não comprova melhora imediata do financiamento: será necessário observar sua qualidade, uso nas decisões e capacidade de revelar desigualdades entre localidades e populações."
+    ],
+    "implication": "Um observatório precisa informar escolhas, não apenas reunir indicadores.",
+    "discussionPrompt": "Quais decisões de financiamento podem ser acompanhadas com esses dados?",
+    "sourceDateEvidence": "Página: 6 October 2026; fórum de dois dias relatado sem datas completas.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Nigeria moves to own its health financing evidence"
+  },
+  {
+    "id": "publica-006-goa-vacinacao",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Goa organiza vacinação de adultos em política de dez anos",
+    "deck": "Primeira fase prioriza grupos de maior risco e três vacinas.",
+    "date": "2026-10-02",
+    "contentType": "Notícia",
+    "sourceName": "Aliança para Pesquisa em Políticas e Sistemas de Saúde — OMS",
+    "sourceUrl": "https://ahpsr.who.int/newsroom/news/item/02-10-2026-research-at-the-policy-table-how-goa-built-india-s-first-dedicated-life-course-immunization-policy",
+    "evidenceType": "Adoção de política estadual",
+    "paragraphs": [
+      "O estado indiano de Goa adotou em 23 de setembro uma política de imunização ao longo da vida para 2026–2036. A experiência foi relatada em 2 de outubro pela aliança de pesquisa em sistemas de saúde vinculada à OMS.",
+      "A primeira fase prevê vacinas contra influenza, pneumococo e hepatite B para adultos elegíveis, incluindo pessoas com doenças crônicas, imunossupressão e profissionais de saúde. A seleção considerou carga de doença, efetividade, segurança, custos e viabilidade de entrega pela rede existente.",
+      "A política não equivale a vacinação universal imediata de todos os adultos. Cobertura, desempenho operacional e impacto ainda deverão ser acompanhados. Para outros lugares, o aprendizado está também no processo de priorização; copiar a lista de vacinas sem avaliar necessidades e capacidade local pode perder esse contexto."
+    ],
+    "implication": "Priorizar é combinar necessidade, evidência e capacidade de entrega.",
+    "discussionPrompt": "Como incorporar vacinação de adultos à rede existente?",
+    "sourceDateEvidence": "Publicação: 2 October 2026; adoção: 23 September; ciclo 2026–2036.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Research at the policy table: how Goa built India’s first dedicated life-course immunization policy"
+  },
+  {
+    "id": "publica-006-amazonas-queimadas",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Queimadas no Amazonas mobilizam avaliação da rede e base em Manaus",
+    "deck": "Resposta começou com missão técnica em 11 de outubro; base entrou em operação no dia 20.",
+    "date": "2026-10-20",
+    "contentType": "Notícia",
+    "sourceName": "Ministério da Saúde",
+    "sourceUrl": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/base-da-forca-nacional-do-sus-em-manaus-comeca-a-operar-e-apoia-resposta-as-queimadas-no-amazonas/",
+    "evidenceType": "Mobilização de resposta sanitária",
+    "paragraphs": [
+      "O Ministério da Saúde informou que a base regional da Força Nacional do SUS em Manaus iniciou atividades em 20 de outubro. Na resposta às queimadas, a estrutura deu sequência à mobilização de uma equipe técnica ao Amazonas em 11 de outubro, descrita em comunicado anterior.",
+      "A operação utiliza informações de vigilância, assistência e gestores para dimensionar recursos. Um painel interno acompanha insumos e apoia o planejamento de rotas, inclusive por rios e aeronaves; 43 municípios haviam preenchido dados no balanço publicado em 20 de outubro. A articulação inclui serviços de saúde indígena.",
+      "A contagem informa participação no painel naquela data, não número de municípios com assistência plenamente restabelecida. A abertura da base também não demonstra, sozinha, redução de danos à saúde. O acompanhamento precisa examinar acesso, entrega dos recursos e continuidade dos atendimentos nos territórios afetados."
+    ],
+    "implication": "Informação territorial precisa orientar a chegada do recurso.",
+    "discussionPrompt": "Como verificar se o apoio alcançou os serviços mais pressionados?",
+    "sourceDateEvidence": "Fonte principal publicada em 20/10/2026 15h56, atualizada às 17h59; antecedente publicado em 13/10 relata envio da equipe em 11/10.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Base da Força Nacional do SUS em Manaus começa a operar e apoia resposta às queimadas no Amazonas",
+    "supplementarySources": [
+      {
+        "name": "Ministério da Saúde — missão técnica de 11 de outubro",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/ministerio-da-saude-mobiliza-forca-nacional-do-sus-para-apoiar-servicos-de-saude-no-amazonas/"
+      }
+    ]
+  },
+  {
+    "id": "publica-006-etiopia-emergencia",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Resposta no norte da Etiópia busca preservar serviços essenciais",
+    "deck": "OMS relata envio de insumos e apoio a equipes em áreas afetadas por hostilidades.",
+    "date": "2026-10-21",
+    "contentType": "Notícia",
+    "sourceName": "OMS — Escritório Regional para a África",
+    "sourceUrl": "https://www.afro.who.int/countries/ethiopia/news/whos-emergency-response-northern-ethiopia",
+    "evidenceType": "Relato operacional humanitário",
+    "paragraphs": [
+      "A OMS informou em 21 de outubro a ampliação de operações de saúde em Afar, Amhara e Tigray, no norte da Etiópia. A resposta é conduzida com autoridades e parceiros diante de necessidades humanitárias associadas às hostilidades e ao deslocamento de pessoas.",
+      "O relato registra entrega de mais de 71 toneladas de materiais médicos, incluindo kits de emergência, recursos para cólera, saúde reprodutiva e doenças crônicas. Também descreve apoio à vigilância, encaminhamentos de urgência e equipes móveis de saúde e nutrição.",
+      "Esses volumes documentam insumos mobilizados, não a cobertura de todas as necessidades. Insegurança e dificuldades de acesso continuam relevantes para a continuidade do cuidado. A avaliação da operação deve acompanhar a chegada dos materiais, o funcionamento dos serviços e a possibilidade de a população utilizá-los."
+    ],
+    "implication": "Toneladas entregues e acesso efetivo medem aspectos diferentes.",
+    "discussionPrompt": "Como acompanhar a continuidade do cuidado em áreas inseguras?",
+    "sourceDateEvidence": "Página e balanço operacional: 21 October 2026.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "WHO's emergency response in Northern Ethiopia"
+  },
+  {
+    "id": "publica-006-sri-lanka-vetores",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Revisão do Sri Lanka aproxima quatro programas de doenças vetoriais",
+    "deck": "Relatório publicado em outubro descreve missão realizada em maio de 2024.",
+    "date": "2026-10-22",
+    "contentType": "Análise",
+    "sourceName": "Organização Mundial da Saúde",
+    "sourceUrl": "https://www.who.int/publications/i/item/9789292800260",
+    "evidenceType": "Relatório de revisão de programas",
+    "paragraphs": [
+      "A OMS publicou em 22 de outubro um relatório sobre a revisão integrada dos programas de dengue, malária, filariose linfática e leishmaniose do Sri Lanka. A missão descrita ocorreu entre 13 e 20 de maio de 2024; não se trata de uma investigação realizada em outubro de 2026.",
+      "O resumo identifica desafios diferentes: recorrência da dengue, risco de reintrodução da malária por casos importados, persistência localizada de filariose e necessidade de organizar a resposta à leishmaniose cutânea. A revisão procura melhorar efetividade e eficiência sem tratar todos os problemas como equivalentes.",
+      "A principal contribuição é examinar programas habitualmente separados dentro do mesmo sistema. Os achados devem ser lidos com a data da missão em mente: não constituem um boletim atualizado de incidência em outubro de 2026 nem demonstram o impacto posterior das recomendações."
+    ],
+    "implication": "Integrar programas não significa apagar diferenças epidemiológicas.",
+    "discussionPrompt": "Quais estruturas de vigilância podem ser compartilhadas?",
+    "sourceDateEvidence": "Página: 22 October 2026; missão: 13–20 May 2024; ISBN 9789292800260.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "A comprehensive integrated review of malaria, leishmaniasis, filariasis and dengue control programmes in Sri Lanka. Report of a WHO mission, 13–20 May 2024"
+  },
+  {
+    "id": "publica-006-etiopia-higiene",
+    "section": "saude-publica",
+    "category": "Saúde pública",
+    "title": "Etiópia discute financiamento e responsabilidade pela higiene das mãos",
+    "deck": "Avaliação nacional aponta obstáculos para manter ações fora das emergências.",
+    "date": "2026-10-26",
+    "contentType": "Notícia",
+    "sourceName": "OMS — Escritório Regional para a África",
+    "sourceUrl": "https://www.afro.who.int/countries/ethiopia/news/ethiopia-stakeholders-chart-path-forward-stronger-hand-hygiene-systems",
+    "evidenceType": "Avaliação e oficina nacional",
+    "paragraphs": [
+      "Uma avaliação das condições para ampliar a higiene das mãos orientou encontro de autoridades e organizações na Etiópia, relatado pela OMS em 26 de outubro. O trabalho examinou governança, financiamento, profissionais e monitoramento em casas, escolas, locais de trabalho e espaços públicos.",
+      "Os participantes identificaram financiamento fragmentado, responsabilidades pouco claras e fragilidades nos sistemas de informação. Entre as propostas estão incorporar a higiene aos planos e orçamentos setoriais, acompanhar gastos e estabelecer padrões e metas adequados a cada ambiente.",
+      "O relato registra diagnóstico e recomendações, não a execução de todas as medidas. A agenda vai além de campanhas de conscientização: manter condições para lavar as mãos exige infraestrutura e gestão contínuas. O próximo passo descrito é encaminhar as recomendações aos ministérios e responsáveis pelas decisões."
+    ],
+    "implication": "Uma prática simples depende de condições materiais duradouras.",
+    "discussionPrompt": "Quem responde pela manutenção dos pontos de higiene?",
+    "sourceDateEvidence": "Página: 26 October 2026; data exata da oficina não informada.",
+    "verifiedAt": "2026-10-28",
+    "sourceTitle": "Ethiopia stakeholders chart path forward for stronger hand hygiene systems"
+  }
+]

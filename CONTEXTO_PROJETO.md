@@ -8,9 +8,10 @@ THE MED TIMES é um jornal editorial em português para estudantes de medicina e
 - **002 — 2026-10-24:** Atualização da noite; 7 matérias; arquivo preservado.
 - **003 — 2026-10-24:** Edição ampliada; 96 matérias; arquivo preservado.
 - **004 — 2026-10-25:** Edição diária; 96 matérias; arquivo preservado.
-- **005 — 2026-10-26:** edição atual; 96 matérias, 16 por editoria.
+- **005 — 2026-10-26:** Edição diária; 96 matérias; arquivo preservado.
+- **006 — 2026-10-28:** edição atual; 96 matérias, 16 por editoria.
 
-`/edicao/` reúne as edições. A edição 005 é a atual, acessível na raiz: não se cria um arquivo histórico duplicado antes de sua substituição.
+`/edicao/` reúne as edições. A edição 006 é a atual, acessível na raiz: não se cria um arquivo histórico duplicado antes de sua substituição.
 
 ## Continuidade editorial
 

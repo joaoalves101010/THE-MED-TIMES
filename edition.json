@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "projectId": "the-med-times",
-  "editionId": "005",
-  "localDate": "2026-10-26",
+  "editionId": "006",
+  "localDate": "2026-10-28",
   "timezone": "America/Sao_Paulo",
   "publicationTime": "08:00",
-  "sourceCutoff": "2026-10-26T07:19:17.428172-03:00",
-  "recentSince": "2026-10-20",
+  "sourceCutoff": "2026-10-28T09:47:46.343825+00:00",
+  "recentSince": "2026-10-22",
   "editionLabel": "Edição diária",
   "publishingMode": "scheduled-github-snapshot",
   "history": [
@@ -37,17 +37,24 @@
       "label": "Edição diária",
       "kind": "snapshot",
       "articleCount": 96
+    },
+    {
+      "editionId": "005",
+      "localDate": "2026-10-26",
+      "label": "Edição diária",
+      "kind": "snapshot",
+      "articleCount": 96
     }
   ],
   "homeArticleIds": [
-    "publica-calor-materno-infantil-2026",
-    "pesquisa-vsr-comparacao-coorte",
-    "instituicoes-fmusp-ipc-2026",
-    "pesquisa-fit-tres-anos",
-    "formacao-005-qualidade-treinamento",
-    "instituicoes-brave-enfermagem-2026",
-    "inovacao-lnp-automacao",
-    "clinica-005-celiaca-investigacao",
-    "publica-sus-oncologicos-oferta-2026"
+    "inovacao-006-lucid",
+    "pesquisa-006-thbs1-adiposo",
+    "publica-006-inclusao-deficiencia",
+    "formacao-006-graduados-aamc-2026",
+    "instituicoes-006-queensland-eletivas",
+    "pesquisa-006-anticoagulacao-longa-permanencia",
+    "formacao-006-nih-dms-2026",
+    "instituicoes-006-thumpin-consorcio",
+    "clinica-006-cirrose-prevencao"
   ]
 }

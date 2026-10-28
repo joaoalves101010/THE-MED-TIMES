@@ -1,0 +1,372 @@
+[
+  {
+    "id": "instituicoes-006-thumpin-consorcio",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Consórcio reúne Boston Children’s e Harvard para desenvolver tecido cardíaco vivo",
+    "deck": "THUMPIN’ terá até US$ 29,6 milhões; testes em humanos ainda são uma etapa futura.",
+    "date": "2026-10-21",
+    "contentType": "Notícia",
+    "sourceName": "Harvard SEAS",
+    "sourceUrl": "https://seas.harvard.edu/news/boston-childrens-hospital-seas-brigham-and-womens-hospital-and-ntt-research-announce-thumpin",
+    "evidenceType": "Anúncio de consórcio de pesquisa",
+    "paragraphs": [
+      "O Boston Children’s Hospital anunciou, com Harvard SEAS, Brigham and Women’s Hospital e NTT Research, o consórcio THUMPIN’. O comunicado de 21 de outubro descreve apoio de até US$ 29,6 milhões, por até cinco anos, da ARPA-H e de outros financiadores.",
+      "A equipe pretende desenvolver tecidos e componentes cardíacos vivos para crianças com cardiopatias congênitas. O trabalho reúne cirurgia pediátrica, células-tronco, fabricação e modelagem computacional; a ambição final é integrar componentes em um coração funcional.",
+      "O plano começa em laboratório e avança para modelos animais de grande porte. Produção, segurança e requisitos regulatórios precisam ser estabelecidos antes de futuros estudos humanos. O anúncio financia uma trajetória de pesquisa, não disponibiliza um coração bioengenheirado para transplante."
+    ],
+    "implication": "Financiamento não equivale a validação clínica.",
+    "discussionPrompt": "Que evidências deveriam anteceder um primeiro estudo em crianças?",
+    "sourceDateEvidence": "Publicação: 21/10/2026; anúncio do consórcio na mesma data.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-cambridge-eletivas",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Cambridge encerra ciclo de eletivas 2027; próxima janela será em 2027",
+    "deck": "A universidade prevê receber candidaturas para 2028 em fevereiro, ainda sem dia definido.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Cambridge — School of Clinical Medicine",
+    "sourceUrl": "https://www.medschl.cam.ac.uk/elective-placements",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "O programa de eletivas de Cambridge informa que não recebe novas candidaturas para 2027. A próxima abertura, para estágios de 2028, está prevista para fevereiro de 2027, com data exata a divulgar. Não há inscrição aberta anunciada para esse próximo ciclo.",
+      "As atividades acontecem no Addenbrooke’s Hospital e duram até seis semanas. Entre os requisitos estão cursar os últimos 18 meses da graduação, estudar em escola listada no World Directory of Medical Schools e comprovar que a eletiva integra obrigatoriamente o curso.",
+      "A seleção utiliza sorteio entre candidaturas elegíveis e completas, não ordem de chegada. Inglês e avaliação de saúde também são exigidos. Como Cambridge não assina acordos de estágio com outras instituições, essa compatibilidade deve ser discutida com a faculdade de origem antes de planejar a candidatura."
+    ],
+    "implication": "A aceitação acadêmica depende também das regras da escola de origem.",
+    "discussionPrompt": "Sua faculdade exige um acordo que o destino não assina?",
+    "sourceDateEvidence": "Página sem data editorial inequívoca; calendário 2027/2028 consultado em 28/10/2026.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "2027 encerrado; candidatura para 2028 prevista para fevereiro de 2027.",
+    "eligibility": "Últimos 18 meses; escola no WDOMS; eletiva obrigatória; inglês e saúde ocupacional.",
+    "deadline": "2027 encerrado; reabertura para 2028 prevista para fevereiro/2027; dia e fechamento não divulgados."
+  },
+  {
+    "id": "instituicoes-006-glasgow-eletivas",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Glasgow não tem capacidade para novas eletivas antes de setembro de 2027",
+    "deck": "Próxima seleção está prevista para março de 2027, com estágios de quatro semanas.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Glasgow",
+    "sourceUrl": "https://www.gla.ac.uk/schools/medicine/mus/visitingelectives/",
+    "evidenceType": "Página oficial do programa",
+    "paragraphs": [
+      "A Universidade de Glasgow informa que a seleção de eletivas 2026–2027 terminou e que não há capacidade adicional até setembro de 2027. Para o período de setembro de 2027 a agosto de 2028, a abertura está prevista para março de 2027.",
+      "O programa recebe estudantes internacionais no penúltimo ou último ano, de escolas constantes do World Directory of Medical Schools. As rotações duram quatro semanas, em um único departamento, começam na primeira segunda-feira do mês e dependem de supervisão disponível.",
+      "A regra geral exige candidatura com pelo menos seis meses de antecedência, além dos requisitos de inglês e seguro profissional. Isso não autoriza enviar uma solicitação fora da janela vigente. Uma combinação informal com um médico também não equivale à participação no programa universitário."
+    ],
+    "implication": "Janela administrativa e antecedência mínima são exigências diferentes.",
+    "discussionPrompt": "Uma oferta identifica claramente a instituição responsável pelo estágio?",
+    "sourceDateEvidence": "Página sem data editorial inequívoca; avisos de 2026–2028 conferidos em 28/10/2026.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "Ciclo 2026–27 fechado; 2027–28 previsto para abrir em março de 2027.",
+    "eligibility": "Penúltimo ou último ano; escola no WDOMS; inglês e seguro profissional.",
+    "deadline": "Próxima abertura em março/2027; envio com pelo menos seis meses de antecedência ao estágio; sem data final divulgada."
+  },
+  {
+    "id": "instituicoes-006-queensland-eletivas",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Queensland marca próxima janela de eletivas para 30 de novembro",
+    "deck": "Rodada contempla o segundo período de 2027; a seleção não segue ordem de chegada.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Queensland",
+    "sourceUrl": "https://medical-school.uq.edu.au/visiting-medical-elective-program",
+    "evidenceType": "Calendário e regulamento oficiais",
+    "paragraphs": [
+      "A Universidade de Queensland encerrou as candidaturas para o primeiro período de 2027. A próxima janela vai de 30 de novembro a 14 de dezembro de 2026, com encerramento às 23h AEST, para estágios entre 8 de março e 30 de abril de 2027.",
+      "Podem concorrer estudantes matriculados em curso médico reconhecido que tenham concluído pelo menos um semestre de formação clínica. As eletivas duram de quatro a oito semanas; médicos já graduados não são elegíveis, e o programa não oferece eletivas de pesquisa.",
+      "As propostas são analisadas após o encerramento, sem prioridade pela ordem de envio. A candidatura deve passar pela escola médica, não por contatos diretos com hospitais ou supervisores. Como não há garantia de colocação nem avaliação somativa, o estudante precisa conferir a adequação às exigências de sua graduação."
+    ],
+    "implication": "A natureza da atividade deve atender ao currículo de origem.",
+    "discussionPrompt": "Sua escola exige uma avaliação que o programa não oferece?",
+    "sourceDateEvidence": "Página sem data editorial inequívoca; tabela oficial de 2027 e janela de novembro–dezembro/2026 conferidas.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "Termo 1 fechado; Termo 2 ainda não aberto em 28/10/2026.",
+    "eligibility": "Matrícula em curso médico reconhecido e ao menos um semestre clínico concluído.",
+    "deadline": "30/11/2026 a 14/12/2026, às 23h AEST; termo 2 de 2027."
+  },
+  {
+    "id": "instituicoes-006-queen-mary-londres",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Queen Mary anuncia fim da facilitação de eletivas visitantes em Londres",
+    "deck": "Aviso para 2027 prevalece sobre instruções gerais ainda presentes na página.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "Queen Mary University of London",
+    "sourceUrl": "https://www.qmul.ac.uk/fmd/study/undergraduate/electives/visiting/",
+    "evidenceType": "Aviso oficial de situação do programa",
+    "paragraphs": [
+      "A página de eletivas visitantes da Queen Mary University of London informa que a universidade deixará de facilitar essas colocações a partir de 2027. O mesmo aviso registra que o programa está fechado e que informações adicionais serão publicadas posteriormente.",
+      "O programa descrito nessa página oferece observação de equipes em hospitais parceiros do NHS, para estudantes britânicos e internacionais no último ano. A atividade não corresponde a atuação clínica independente: sua finalidade é acompanhar a rotina de uma especialidade.",
+      "A página ainda conserva orientações gerais sobre documentos e rodadas de inscrição. Esses trechos não devem ser interpretados como reabertura, diante do aviso explícito no topo. Quem organizava uma eletiva por essa rota precisa esclarecer sua situação com a equipe responsável antes de pagar taxas ou assumir despesas de viagem."
+    ],
+    "implication": "Instruções permanentes não anulam um aviso atual de encerramento.",
+    "discussionPrompt": "Qual informação da página descreve o estado vigente do programa?",
+    "sourceDateEvidence": "Página sem data editorial inequívoca; aviso referente a 2027 consultado em 28/10/2026.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "Fechado; aviso de fim da facilitação a partir de 2027.",
+    "eligibility": "Descrição histórica: estudantes no último ano, em atividade observacional.",
+    "deadline": "Sem nova janela: programa fechado; fim da facilitação a partir de 2027."
+  },
+  {
+    "id": "instituicoes-006-hku-chart",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "HKU inaugura centro dedicado à tradução responsável de IA em saúde",
+    "deck": "CHART reúne áreas clínicas, ciência de dados, ética e políticas de saúde.",
+    "date": "2026-10-02",
+    "contentType": "Notícia",
+    "sourceName": "HKUMed — University of Hong Kong",
+    "sourceUrl": "https://www.med.hku.hk/en/news/press/20261002-hkumed-launches-centre-for-health-ai-research-and-translation",
+    "evidenceType": "Comunicado de inauguração de centro",
+    "paragraphs": [
+      "A Faculdade de Medicina da Universidade de Hong Kong inaugurou o Centre for Health AI Research and Translation, o CHART, em 29 de setembro. O comunicado foi publicado em 2 de outubro e descreve uma estrutura interdisciplinar dedicada à inteligência artificial em saúde.",
+      "O centro pretende conectar desenvolvimento, avaliação e implementação de ferramentas, com participação de medicina, engenharia, ciência de dados, saúde pública, políticas e ética. Entre suas prioridades estão colaboração institucional, formação de profissionais e uso responsável da tecnologia.",
+      "A inauguração incluiu debates sobre validação clínica, governança de dados e passagem de demonstrações experimentais para serviços reais. A criação do centro não comprova eficácia de um algoritmo específico nem anuncia vagas de intercâmbio. Seu trabalho deverá ser acompanhado pelos projetos avaliados e pelos resultados efetivamente demonstrados."
+    ],
+    "implication": "Estruturas de pesquisa precisam converter intenções em avaliações verificáveis.",
+    "discussionPrompt": "Como demonstrar que uma ferramenta melhora o cuidado fora do laboratório?",
+    "sourceDateEvidence": "Fonte publicada em 02/10/2026; inauguração em 29/09/2026.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-hku-defta",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "HKUMed e DEFTA firmam memorando para aproximar pesquisa e investimento",
+    "deck": "Acordo mira transferência tecnológica; comunicado não informa aporte contratado.",
+    "date": "2026-10-16",
+    "contentType": "Notícia",
+    "sourceName": "HKUMed — Technology Transfer Unit",
+    "sourceUrl": "https://tech-transfer.med.hku.hk/en/node/407",
+    "evidenceType": "Relato institucional de assinatura de memorando",
+    "paragraphs": [
+      "A unidade de transferência de tecnologia da HKUMed divulgou em 16 de outubro a assinatura de um memorando com a DEFTA Partners, empresa de capital de risco sediada no Japão. A iniciativa busca ampliar conexões internacionais para soluções desenvolvidas pela faculdade.",
+      "A visita incluiu apresentação de projetos em vacinas, diagnóstico apoiado por inteligência artificial e saúde digital, além de passagem por laboratórios. O objetivo anunciado é aproximar pesquisa universitária, investimento e criação de empresas derivadas de descobertas acadêmicas.",
+      "O texto não especifica montante financeiro, cronograma de investimento nem seleção aberta para estudantes. Um memorando registra intenção de colaboração, mas não demonstra que cada projeto recebeu recursos ou alcançou validação clínica. A evolução dependerá de instrumentos e resultados posteriores, que precisam ser verificados separadamente."
+    ],
+    "implication": "Memorando de entendimento e investimento efetivo são marcos distintos.",
+    "discussionPrompt": "Que informação permitiria acompanhar a execução do acordo?",
+    "sourceDateEvidence": "Página de 16/10/2026 relata assinatura no dia anterior; data de publicação preservada.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-nhg-cancer",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "NHG cria rede oncológica que conecta hospitais e comunidade",
+    "deck": "Anúncio reúne continuidade do cuidado, parcerias e expansão futura da capacidade assistencial.",
+    "date": "2026-10-08",
+    "contentType": "Notícia",
+    "sourceName": "NHG Health",
+    "sourceUrl": "https://www.nhghealth.com.sg/news/NHG-Health-Strengthens-Healthspan-with-Launch-of-the-NHG-Cancer-Institute",
+    "evidenceType": "Anúncio institucional de rede assistencial",
+    "paragraphs": [
+      "A NHG Health lançou em 8 de outubro o NHG Cancer Institute, em Singapura. A estrutura é uma rede que reúne hospitais, atenção primária e parceiros comunitários, com proposta de acompanhar o percurso entre prevenção, diagnóstico, tratamento e cuidados posteriores.",
+      "O anúncio inclui parceria com a Singapore Cancer Society para ampliar informação, rastreamento e apoio após o diagnóstico. Também apresenta colaboração digital com a Singtel e previa, para 9 de outubro, o lançamento de um centro de medicina genômica e de precisão.",
+      "A ampliação de radioterapia, quimioterapia e capacidade de PET-CT aparece como desenvolvimento progressivo, não como entrega integral já concluída. O ponto central é coordenar transições entre serviços. A avaliação futura deverá distinguir mudanças de organização, acesso efetivamente obtido e resultados clínicos dos pacientes."
+    ],
+    "implication": "Uma rede precisa funcionar nas transições, não apenas no organograma.",
+    "discussionPrompt": "Como medir continuidade entre hospital, atenção primária e comunidade?",
+    "sourceDateEvidence": "Comunicado de 08/10/2026; NHGCI lançado nesse dia; CPGM era previsto para 09/10.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-medicon-alianca",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Aliança de Lund revisa projetos para aproximar inovação e serviços",
+    "deck": "Encontro de 22 e 23 de outubro reuniu universidade, hospital, indústria e Medicon Village.",
+    "date": "2026-10-23",
+    "contentType": "Notícia",
+    "sourceName": "Medicon Village",
+    "sourceUrl": "https://www.mediconvillage.se/news/strategic-life-science-alliance-meets-at-medicon-village-to-strengthen-innovation-and-collaboration/",
+    "evidenceType": "Relato de reunião de aliança institucional",
+    "paragraphs": [
+      "Parceiros da aliança entre Medicon Village, AstraZeneca, Skåne University Hospital e a escola de economia e gestão da Universidade de Lund reuniram-se em 22 e 23 de outubro. A nota publicada no dia 23 descreve revisão das iniciativas em andamento.",
+      "Criada em janeiro de 2025, a parceria informa ter iniciado cerca de dez projetos, envolvendo economia da saúde, implementação de inteligência artificial, produção farmacêutica sustentável e desenvolvimento de profissionais. O encontro também discutiu cooperação universitária e apoio a empresas em crescimento.",
+      "Essas conversas não constituem anúncio de inscrições abertas ou comprovação de benefício clínico. O interesse institucional está na tentativa de enfrentar obstáculos entre pesquisa e adoção pelos serviços. Para avaliar a aliança, será necessário observar prioridades escolhidas, responsabilidades e entregas, além do número de projetos mencionados."
+    ],
+    "implication": "Colaboração ganha valor quando responsabilidades e entregas ficam claras.",
+    "discussionPrompt": "Que barreira de implementação cada parceiro pode ajudar a resolver?",
+    "sourceDateEvidence": "Publicação em 23/10/2026; reunião em 22–23/10; aliança criada em janeiro/2025.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-precise-parcerias",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "PRECISE firma parcerias para infraestrutura e aplicações genômicas",
+    "deck": "Acordos com AWS e Temus tratam de nuvem, dados e desenvolvimento de capacidades.",
+    "date": "2026-10-01",
+    "contentType": "Notícia",
+    "sourceName": "Ministry of Health — Singapore",
+    "sourceUrl": "https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung--minister-for-health-and-coordinating-minister-for-social-policies--at-precision-health-partnerships-in-singapore--1-october-2026/",
+    "evidenceType": "Discurso oficial sobre memorandos de entendimento",
+    "paragraphs": [
+      "Em discurso de 1º de outubro, o Ministério da Saúde de Singapura apresentou dois memorandos entre a Precision Health Research, Singapore, conhecida como PRECISE, e as empresas AWS e Temus. Os instrumentos apoiam o desenvolvimento de capacidades em medicina de precisão.",
+      "A colaboração com a AWS prevê infraestrutura genômica em nuvem, com segurança e capacidade de expansão. A parceria com a Temus combina conhecimento genômico, inteligência artificial, dados e engenharia, buscando transformar descobertas em aplicações de pesquisa e assistência.",
+      "O discurso destaca que acumular informação genética não basta: é necessário estabelecer governança e caminhos confiáveis para uso clínico, com consentimento e salvaguardas. Os memorandos não demonstram que uma aplicação já melhorou desfechos. Tampouco constituem edital de participação acadêmica ou oferta de testes a qualquer interessado."
+    ],
+    "implication": "Infraestrutura de dados precisa vir acompanhada de governança.",
+    "discussionPrompt": "Como devolver um achado útil sem comprometer a proteção dos participantes?",
+    "sourceDateEvidence": "Discurso oficial datado de 01/10/2026, sobre os dois memorandos.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-cleveland-ufc",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Cleveland Clinic e UFC estendem apoio a estudo de saúde cerebral até 2030",
+    "deck": "Renovação inclui US$ 1 milhão e participação de atletas de outras organizações esportivas.",
+    "date": "2026-10-08",
+    "contentType": "Notícia",
+    "sourceName": "Cleveland Clinic",
+    "sourceUrl": "https://newsroom.clevelandclinic.org/2026/10/08/ufc-cleveland-clinic-renew-longstanding-partnership",
+    "evidenceType": "Anúncio de renovação de financiamento de pesquisa",
+    "paragraphs": [
+      "A Cleveland Clinic anunciou em 8 de outubro a renovação da colaboração com o UFC para apoiar o Professional Athletes Brain Health Study até 2030. O compromisso inclui contribuição de US$ 1 milhão ao Lou Ruvo Center for Brain Health.",
+      "O comunicado também prevê participação e apoio da WWE e da Zuffa Boxing. O estudo acompanha atletas ativos e aposentados expostos a impactos repetitivos na cabeça e informa avaliações de função cerebral repetidas anualmente, incluindo exames de ressonância magnética.",
+      "A notícia trata de financiamento e expansão de uma investigação longitudinal, não de um novo resultado sobre segurança dos esportes. Acompanhamento prolongado pode ajudar a entender diferenças individuais, mas o apoio de organizações esportivas não deve ser confundido com demonstração de ausência de risco ou validação de uma intervenção preventiva."
+    ],
+    "implication": "Financiamento de longo prazo sustenta acompanhamento, não substitui resultados.",
+    "discussionPrompt": "Como comunicar a renovação sem sugerir que o risco já foi resolvido?",
+    "sourceDateEvidence": "Publicação e anúncio de 08/10/2026; apoio estendido até 2030.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-estuary-yale",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Empresa derivada de pesquisa de Yale anuncia US$ 103 milhões comprometidos",
+    "deck": "Estuary pretende desenvolver terapias genéticas para doença renal; eficácia ainda não foi demonstrada pelo anúncio.",
+    "date": "2026-10-16",
+    "contentType": "Notícia",
+    "sourceName": "Yale Ventures",
+    "sourceUrl": "https://ventures.yale.edu/news/yale-spinout-estuary-biotherapeutics-launches-103-million-develop-gene-therapies-polycystic",
+    "evidenceType": "Comunicado empresarial republicado pela universidade",
+    "paragraphs": [
+      "A Yale Ventures publicou em 16 de outubro o lançamento da Estuary Biotherapeutics, empresa baseada em pesquisas de Stefan Somlo e Michael Caplan, da Yale School of Medicine. O comunicado informa US$ 103 milhões em financiamento total comprometido.",
+      "A companhia pretende desenvolver terapias genéticas para doença renal policística autossômica dominante. Os recursos devem apoiar programas voltados aos dois subtipos genéticos mais frequentes e sua progressão até demonstrações clínicas iniciais, além de outras linhas de desenvolvimento.",
+      "A publicação identifica expressamente que republica um comunicado da própria empresa. Portanto, descreve objetivos e financiamento, não uma avaliação independente de eficácia. O texto não apresenta tratamento aprovado nem resultado clínico que sustente reversão da doença. Essa distinção importa ao acompanhar a passagem de descobertas universitárias para produtos."
+    ],
+    "implication": "Origem acadêmica e financiamento não garantem sucesso terapêutico.",
+    "discussionPrompt": "Que resultado separaria uma promessa de uma prova clínica inicial?",
+    "sourceDateEvidence": "Yale Ventures: 16/10/2026; comunicado corporativo da mesma data.",
+    "verifiedAt": "2026-10-28"
+  },
+  {
+    "id": "instituicoes-006-sydney-eletivas",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Sydney encerra inscrições de eletivas para 2027",
+    "deck": "Programa observacional exige experiência clínica prévia e compatibilidade com a graduação de origem.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Sydney",
+    "sourceUrl": "https://www.sydney.edu.au/medicine-health/study-medicine-and-health/student-experience/placements-and-programs/inbound-medical-elective-program.html",
+    "evidenceType": "Página oficial de elegibilidade e calendário",
+    "paragraphs": [
+      "O Inbound Medical Elective Program da Universidade de Sydney informa que não aceita mais candidaturas para 2027. A janela ocorreu de 8 a 10 de julho de 2026; sua permanência na página serve como registro, não como convite para nova inscrição.",
+      "O programa recebe estudantes australianos e internacionais no penúltimo ou último ano, com ao menos 12 meses de experiência clínica. A eletiva deve integrar a graduação. Exige apoio da faculdade de origem, inglês e cumprimento dos requisitos de saúde, documentação e seguro.",
+      "Apesar de proporcionar imersão clínica, as colocações são descritas como observacionais e não cumprem requisitos de experiência em disciplinas específicas. Também não há avaliação formal pelo supervisor. Antes de considerar um ciclo futuro, o estudante deve verificar se esse formato é reconhecido por sua própria universidade; uma viagem não resolve incompatibilidades curriculares."
+    ],
+    "implication": "Reconhecimento curricular precisa ser acordado antes da experiência.",
+    "discussionPrompt": "Uma atividade observacional atende ao componente exigido pela sua graduação?",
+    "sourceDateEvidence": "Sem data editorial inequívoca; janela de 08–10/07/2026 para estágios de 2027 e fechamento atual conferidos.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "Candidaturas para 2027 encerradas.",
+    "eligibility": "Penúltimo ou último ano; 12 meses clínicos; apoio institucional e inglês.",
+    "deadline": "Encerrado em 10/07/2026 às 16h AEST para o ciclo de 2027."
+  },
+  {
+    "id": "instituicoes-006-unsw-clerkships",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "UNSW prevê abrir em 11 de novembro seleção para o segundo semestre de 2027",
+    "deck": "Candidatura depende de datas específicas dos hospitais e de dois anos de experiência clínica.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "UNSW Sydney",
+    "sourceUrl": "https://www.unsw.edu.au/medicine-health/study-with-us/undergraduate/clerkships",
+    "evidenceType": "Calendário e critérios oficiais do programa",
+    "paragraphs": [
+      "A UNSW encerrou a seleção para estágios iniciados entre janeiro e junho de 2027. Para inícios de julho a dezembro de 2027, o portal abrirá em algum momento entre 9h e 10h de 11 de novembro de 2026, no horário de Sydney (AEDT). Esse intervalo indica a abertura, não o prazo final.",
+      "O programa destina-se a estudantes de outras escolas médicas que estarão no último ano e terão pelo menos dois anos de experiência clínica. A eletiva deve integrar os requisitos de seu curso; inglês escrito e falado também precisa ser comprovado conforme as regras aplicáveis.",
+      "Os hospitais oferecem períodos de quatro ou seis semanas, com datas próprias. A universidade encerrará as candidaturas ao atingir a capacidade, sem garantir preferências. Em 28 de outubro, trata-se de preparação para uma janela futura, não de inscrição aberta."
+    ],
+    "implication": "Calendário do hospital e calendário de candidatura precisam coincidir.",
+    "discussionPrompt": "Seu período disponível corresponde exatamente ao oferecido pelo hospital?",
+    "sourceDateEvidence": "Página sem data editorial inequívoca; abertura de 11/11/2026 explicitamente anunciada para julho–dezembro/2027.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "Janeiro–junho/2027 fechado; julho–dezembro/2027 abre em 11/11/2026.",
+    "eligibility": "Último ano; dois anos de experiência clínica; atividade exigida pela graduação; inglês.",
+    "deadline": "Abertura em 11/11/2026 entre 9h e 10h AEDT; encerramento ao atingir capacidade, sem dia final anunciado."
+  },
+  {
+    "id": "instituicoes-006-cape-town-eletivas",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "Cidade do Cabo recebe candidaturas de eletivas para 2027",
+    "deck": "Página oficial informa seleção aberta, mas a colocação depende da capacidade de cada serviço.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "University of Cape Town",
+    "sourceUrl": "https://health.uct.ac.za/health-electives",
+    "evidenceType": "Páginas oficiais de programa e candidatura",
+    "paragraphs": [
+      "A Faculdade de Ciências da Saúde da Universidade da Cidade do Cabo informa que as candidaturas para eletivas de 2027 estão abertas. Isso permite solicitar uma colocação, mas não confirma vaga em hospital, especialidade ou período específicos.",
+      "O programa contempla estudantes internacionais e sul-africanos de outras instituições, no penúltimo ou último ano, com ao menos dois anos de formação clínica. As atividades complementam o aprendizado prévio e podem durar de duas semanas a quatro meses, conforme a modalidade e a capacidade disponível.",
+      "A candidatura exige formulário validado pela universidade, currículo clínico, comprovação de matrícula e passaporte certificado. A UCT orienta solicitar a eletiva com pelo menos um ano de antecedência, pois a maioria das disciplinas fica lotada até um ano antes. Não há prazo final único publicado: é necessário confirmar disponibilidade antes de fechar a viagem."
+    ],
+    "implication": "Candidatura aberta não significa confirmação individual de estágio.",
+    "discussionPrompt": "Quais documentos demonstram que sua preparação clínica é suficiente?",
+    "sourceDateEvidence": "Páginas sem data editorial inequívoca; consulta em 28/10/2026. Página de candidatura registra abertura em 04/11/2025 para 2027; homepage confirma status aberto.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "Candidaturas para 2027 abertas na consulta de 28/10/2026; vagas sujeitas à disponibilidade. A instituição orienta candidatar-se ao menos um ano antes da visita.",
+    "eligibility": "Penúltimo ou último ano; ao menos dois anos de formação clínica.",
+    "deadline": "Sem prazo final único publicado; orientar envio ao menos um ano antes, sujeito a disponibilidade.",
+    "supplementarySources": [
+      {
+        "name": "UCT — Applications",
+        "url": "https://health.uct.ac.za/health-electives/applications"
+      },
+      {
+        "name": "UCT — About clinical elective placements",
+        "url": "https://health.uct.ac.za/health-electives/about-clinical-elective-placements"
+      }
+    ]
+  },
+  {
+    "id": "instituicoes-006-hku-eletivas",
+    "section": "instituicoes",
+    "category": "Instituições",
+    "title": "HKU: idioma e regras do departamento definem a viabilidade da eletiva",
+    "deck": "Programa exige antecedência mínima de seis meses; não há disponibilidade uniforme entre especialidades.",
+    "date": null,
+    "contentType": "Guia",
+    "sourceName": "HKUMed — University of Hong Kong",
+    "sourceUrl": "https://www.med.hku.hk/en/teaching-and-learning/elective-attachment",
+    "evidenceType": "Regulamento institucional de eletivas",
+    "paragraphs": [
+      "Na Universidade de Hong Kong, a avaliação de estudantes visitantes considera experiência prévia e capacidade do departamento. A página oficial apresenta durações e meses bloqueados por especialidade; listar um departamento como participante não garante vaga para determinada pessoa ou data.",
+      "A formação ocorre em inglês, mas o cantonês pode ser necessário na comunicação com pacientes. Medicina de família e psiquiatria exigem fluência nesse idioma, enquanto outras áreas estabelecem condições diferentes. Algumas especialidades também restringem participação aos anos finais da graduação.",
+      "O formulário deve chegar com pelo menos seis meses de antecedência, acompanhado de documentação institucional. A página informa taxa administrativa não reembolsável de HK$ 3 mil, vigente desde setembro de 2026, com exceção prevista para indicações de parceiros com acordo válido. Esse enquadramento precisa ser confirmado; não se presume isenção ou convênio para qualquer faculdade brasileira."
+    ],
+    "implication": "Idioma clínico e vínculo institucional precisam ser verificados separadamente.",
+    "discussionPrompt": "Você consegue atender às exigências da especialidade, não apenas às da universidade?",
+    "sourceDateEvidence": "Página sem data editorial inequívoca; taxa com vigência explicitada em 01/09/2026; regras conferidas em 28/10/2026.",
+    "verifiedAt": "2026-10-28",
+    "programStatus": "Página mantém formulário e regras departamentais; disponibilidade para pessoa e período específicos não confirmada.",
+    "eligibility": "Graduação médica; experiência e ano exigidos variam; cantonês obrigatório em algumas áreas.",
+    "deadline": "Formulário pelo menos seis meses antes do estágio; datas e impedimentos variam por departamento."
+  }
+]

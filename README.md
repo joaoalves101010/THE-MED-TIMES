@@ -2,7 +2,7 @@
 
 Jornal estático em português sobre medicina, ciência e descobertas.
 
-**Edição atual: 005, de 2026-10-26.** Este repositório contém o código-fonte, o site pronto em `dist/`, recursos locais, fontes/licenças e todo o histórico editorial disponível.
+**Edição atual: 006, de 2026-10-28.** Este repositório contém o código-fonte, o site pronto em `dist/`, recursos locais, fontes/licenças e todo o histórico editorial disponível.
 
 - Primeira página branca, seis cadernos com composições próprias e nove chamadas de capa.
 - 96 matérias na edição atual: 16 por editoria; busca local, filtros, navegação móvel e leituras relacionadas.

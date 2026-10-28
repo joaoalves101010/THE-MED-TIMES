@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "editionId": "005",
+  "date": "2026-10-26",
+  "image": {
+    "path": "assets/edition-covers/edition-005-4947d9bcc098f63dbdd31c7f30762f14fa1d7d33821f57bcce5a42cafccbf71f.svg",
+    "sha256": "4947d9bcc098f63dbdd31c7f30762f14fa1d7d33821f57bcce5a42cafccbf71f",
+    "width": 1000,
+    "height": 1480
+  },
+  "label": "Prévia editorial · composição vetorial da edição publicada",
+  "credits": [
+    "Liberation 2.1.5 · SIL Open Font License 1.1 · tipografia em curvas · https://github.com/liberationfonts/liberation-fonts/blob/main/LICENSE"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "editionId": "006",
+  "date": "2026-10-28",
+  "image": {
+    "path": "assets/edition-covers/edition-006-862e3ad328490a6a3a37eba05c687f71698321efd250919a65f6630f40678a58.svg",
+    "sha256": "862e3ad328490a6a3a37eba05c687f71698321efd250919a65f6630f40678a58",
+    "width": 1000,
+    "height": 1480
+  },
+  "label": "Prévia editorial · composição vetorial da edição publicada",
+  "credits": [
+    "Liberation 2.1.5 · SIL Open Font License 1.1 · tipografia em curvas · https://github.com/liberationfonts/liberation-fonts/blob/main/LICENSE"
+  ],
+  "source": {
+    "inputSha256": "e10a536cba56d9a38405c17d290b5441ea0a9c71aa07c7b18f31dbb8c4602c28",
+    "articleIds": [
+      "inovacao-006-lucid",
+      "pesquisa-006-thbs1-adiposo",
+      "publica-006-inclusao-deficiencia",
+      "formacao-006-graduados-aamc-2026",
+      "instituicoes-006-queensland-eletivas",
+      "pesquisa-006-anticoagulacao-longa-permanencia",
+      "formacao-006-nih-dms-2026",
+      "instituicoes-006-thumpin-consorcio",
+      "clinica-006-cirrose-prevencao"
+    ],
+    "renderMethod": "dynamic-dense-cover-v1"
+  }
+}

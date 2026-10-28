@@ -1,6 +1,6 @@
 # Escopo da exportação pública
 
-Snapshot da edição **005**, de **2026-10-26**, com código-fonte portátil e saída estática. Páginas e recursos de leitura são copiados sem alteração dos fatos, datas, créditos ou conteúdo. A reconstrução limpa deve produzir exatamente os mesmos arquivos públicos.
+Snapshot da edição **006**, de **2026-10-28**, com código-fonte portátil e saída estática. Páginas e recursos de leitura são copiados sem alteração dos fatos, datas, créditos ou conteúdo. A reconstrução limpa deve produzir exatamente os mesmos arquivos públicos.
 
 ## Exceções intencionais
 

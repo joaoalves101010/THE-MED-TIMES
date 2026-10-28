@@ -1,0 +1,400 @@
+[
+  {
+    "id": "formacao-006-graduados-aamc-2026",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Retrato de graduados em medicina nos EUA combina assistência, ensino e pesquisa",
+    "deck": "Perfil da turma MD de 2026 mostra interesses profissionais que não são mutuamente exclusivos.",
+    "contentType": "Análise",
+    "sourceName": "AAMC",
+    "sourceUrl": "https://www.aamc.org/news/america-s-newest-doctors-numbers",
+    "sourceTitle": "America’s newest doctors, by the numbers",
+    "evidenceType": "Síntese institucional de dados educacionais · fonte primária",
+    "paragraphs": [
+      "A AAMC reuniu, em 24 de setembro de 2026, indicadores sobre graduados de cursos MD de medicina nos Estados Unidos. O levantamento apresentado registra 22.189 formados em 2025–2026 e combina fontes de diferentes etapas, da preparação para o ingresso à transição para a residência.",
+      "Entre os interesses profissionais declarados, 97% apontaram assistência a pacientes, 80,4% ensino e 49,5% pesquisa. As categorias se sobrepõem: não devem ser somadas como se cada formando tivesse escolhido uma única carreira. Os percentuais descrevem intenções, não atividades profissionais já realizadas.",
+      "Para discutir formação, o retrato permite perguntar como oferecer experiências de docência e investigação sem separá-las do cuidado. Não é um censo brasileiro nem acompanha individualmente todos os estudantes do ingresso à conclusão; comparar os totais de fases distintas exige atenção às fontes e populações usadas."
+    ],
+    "implication": "Interesses por ensino e pesquisa podem coexistir com a prioridade assistencial.",
+    "discussionPrompt": "Que oportunidades permitem experimentar a docência ainda durante a graduação?",
+    "sourceDateEvidence": "AAMCNews identifica September 24, 2026; tabela 2025–26 e seção Career motivations conferidas.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 131,
+    "date": "2026-09-24"
+  },
+  {
+    "id": "formacao-006-ia-aprender-julgamento",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "IA na graduação: obter a resposta não garante aprender a decidir",
+    "deck": "Artigo de opinião discute o risco de delegar cedo demais o esforço que forma o julgamento clínico.",
+    "contentType": "Análise",
+    "sourceName": "JAMA / American Medical Association",
+    "sourceUrl": "https://jamanetwork.com/journals/jama/article-abstract/2855358",
+    "sourceTitle": "Physician Training for the AI Era: Rethinking a Century-Old Wager",
+    "evidenceType": "Artigo de opinião sobre educação médica · não é ensaio de eficácia",
+    "paragraphs": [
+      "Em artigo de opinião publicado em 14 de outubro de 2026 no JAMA, Jesse Burk-Rafel e Robert Wachter discutem como a inteligência artificial desafia pressupostos da formação médica. O problema levantado não é apenas perder uma habilidade já adquirida, mas deixar de desenvolvê-la quando o esforço cognitivo é delegado desde o início.",
+      "O resumo institucional propõe reorganizar prioridades: valorizar capacidades que ganham importância com a IA, desenvolver as que se tornam necessárias e examinar cuidadosamente quais podem receber menor ênfase. Trata-se de uma proposta de debate curricular, não de um ensaio que demonstrou superioridade de determinado curso.",
+      "Uma aplicação pedagógica possível é pedir que o estudante explicite seu raciocínio antes de comparar a resposta de uma ferramenta. Essa sugestão não constitui resultado medido no artigo. O ponto central é preservar oportunidades de construir julgamento, em vez de avaliar apenas a qualidade do texto produzido com assistência digital."
+    ],
+    "implication": "A avaliação precisa distinguir desempenho auxiliado de aprendizagem efetivamente desenvolvida.",
+    "discussionPrompt": "Como verificar o raciocínio que permanece com o aluno quando a ferramenta é retirada?",
+    "sourceDateEvidence": "JAMA: Published Online October 14, 2026; DOI 10.1001/jama.2026.20340.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 147,
+    "date": "2026-10-14",
+    "additionalSources": [
+      {
+        "title": "Resumo oficial AMA do viewpoint",
+        "url": "https://media-prod.ama-assn.org/media-releases/10.1001/jama.2026.20340"
+      }
+    ]
+  },
+  {
+    "id": "formacao-006-r2c2-feedback",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Feedback: compreender a reação vem antes de combinar a mudança",
+    "deck": "Modelo R2C2 organiza a conversa entre preceptor e aprendiz em quatro fases iterativas.",
+    "contentType": "Guia",
+    "sourceName": "Dalhousie University",
+    "sourceUrl": "https://medicine.dal.ca/departments/core-units/cpd/faculty-development/R2C2.html",
+    "sourceTitle": "R2C2 feedback and coaching resources",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "O modelo R2C2, apresentado pela Universidade Dalhousie, estrutura feedback e orientação como conversa, não como entrega unilateral de uma nota. Suas quatro fases envolvem construir a relação, explorar reações, esclarecer o conteúdo e apoiar um plano de mudança.",
+      "O portal oferece guia, exemplos de planos de ação e materiais para reuniões formais ou devolutivas durante o trabalho. Vídeos demonstrativos permitem observar como o preceptor investiga a interpretação do aprendiz antes de transformar uma observação em objetivo de desenvolvimento.",
+      "Em uma reunião de supervisão, a utilidade pedagógica é conferir se ambos entenderam o mesmo problema e qual ação será tentada depois. Esta é uma apresentação de recurso educacional já existente, cuja página não informa data editorial completa. O modelo não elimina diferenças de poder nem comprova, por si só, que uma conversa isolada mudará o desempenho."
+    ],
+    "implication": "Uma devolutiva precisa terminar em entendimento compartilhado e ação viável.",
+    "discussionPrompt": "Qual mudança concreta o aprendiz considera possível após esta conversa?",
+    "sourceDateEvidence": "Página institucional sem data editorial completa; menciona prêmio de 2023, que não foi usado como data de criação do modelo.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 135
+  },
+  {
+    "id": "formacao-006-reflexao-experiencia",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Refletir sobre o estágio não é apenas recontar o atendimento",
+    "deck": "Guia do GMC propõe ligar experiência, significado e próxima ação, sem impor um formato único.",
+    "contentType": "Guia",
+    "sourceName": "General Medical Council",
+    "sourceUrl": "https://www.gmc-uk.org/education/standards-guidance-and-curricula/guidance/reflective-practice/the-reflective-practitioner---supplementary-guidance-for-medical-students/how-can-you-reflect",
+    "sourceTitle": "How can you reflect?",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "O guia do General Medical Council para estudantes diferencia reflexão de simples registro do que aconteceu. Uma estrutura sugerida percorre três perguntas: o que ocorreu, por que isso importa e o que poderá ser feito de outra maneira. O objetivo é transformar experiência em aprendizagem e ação futura.",
+      "O material admite formatos diferentes e recomenda considerar também experiências positivas. Uma consulta que funcionou bem pode revelar escolhas de comunicação que vale repetir. A orientação inclui reflexão em grupo, em ambiente confidencial, e não exige que toda elaboração assuma a forma de uma redação extensa.",
+      "Na prática acadêmica, o estudante pode escolher uma decisão do estágio, examinar o que influenciou sua conduta e formular uma mudança observável. Essa é uma proposta de uso de uma referência preexistente, não notícia de novo requisito brasileiro. O registro reflexivo não substitui discutir problemas assistenciais com a supervisão pelos canais apropriados."
+    ],
+    "implication": "O aprendizado aparece no que a experiência permite compreender e mudar.",
+    "discussionPrompt": "Depois de descrever o episódio, qual decisão futura ficou mais clara?",
+    "sourceDateEvidence": "Capítulo oficial sem data editorial completa visível; apresentado como referência preexistente, não lançamento de 2026.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 146
+  },
+  {
+    "id": "formacao-006-acessibilidade-formacao",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Acessibilidade na formação precisa acompanhar as transições",
+    "deck": "Welcomed and valued orienta apoio individualizado a estudantes e médicos com deficiência.",
+    "contentType": "Guia",
+    "sourceName": "General Medical Council",
+    "sourceUrl": "https://www.gmc-uk.org/education/standards-guidance-and-curricula/guidance/welcomed-and-valued",
+    "sourceTitle": "Welcomed and valued",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "O guia britânico Welcomed and valued reúne orientações para que escolas médicas e serviços de formação apoiem aprendizes com deficiência. Lançado pelo GMC em 14 de maio de 2019, continua disponível como referência educacional; não se trata de uma nova chamada ou política brasileira.",
+      "A proposta inclui conversar com a pessoa sobre suas necessidades, definir contatos de apoio, combinar confidencialidade e planejar adaptações. O portal destaca as transições entre etapas e ambientes de treinamento, quando ajustes úteis podem se perder se a organização não mantiver continuidade.",
+      "Para uma escola, uma pergunta concreta é quem acompanha o apoio quando o aluno muda de campus, enfermaria ou rodízio. Planejar com o estudante evita presumir necessidades apenas pelo diagnóstico. A referência serve à comparação de práticas institucionais; regras e responsabilidades brasileiras devem ser examinadas no contexto local, sem importar automaticamente disposições jurídicas do Reino Unido."
+    ],
+    "implication": "Apoio individualizado precisa continuar quando muda o cenário de aprendizagem.",
+    "discussionPrompt": "Quem garante a continuidade das adaptações entre dois rodízios?",
+    "sourceDateEvidence": "Comunicado oficial GMC registra Published 14 May 2019; portal atual do guia conferido separadamente.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 142,
+    "date": "2019-05-14",
+    "additionalSources": [
+      {
+        "title": "Comunicado original de lançamento, 14 maio 2019",
+        "url": "https://www.gmc-uk.org/news/news-archive/disabled-doctors-to-get-increased-support-thanks-to-new-gmc-guidance"
+      }
+    ]
+  },
+  {
+    "id": "formacao-006-share-escolhas",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Decisão compartilhada pode ser treinada antes da consulta real",
+    "deck": "Currículo SHARE combina opções, riscos e preferências, com módulos flexíveis para equipes.",
+    "contentType": "Guia",
+    "sourceName": "AHRQ",
+    "sourceUrl": "https://www.ahrq.gov/sdm/share-approach/index.html",
+    "sourceTitle": "The SHARE Approach",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "A AHRQ mantém um currículo gratuito para treinar decisão compartilhada com pacientes. A abordagem SHARE organiza o diálogo sobre alternativas de cuidado, benefícios, danos e aquilo que importa à pessoa, em vez de reduzir a consulta à transmissão de uma escolha já feita pelo profissional.",
+      "A versão apresentada no portal reúne três módulos em vídeo: fundamentos, instrumentos de apoio à decisão e barreiras de comunicação. O guia do facilitador permite combinar estudo assíncrono e atividades em grupo, o que ajuda equipes a planejar treinamento dentro de rotinas diferentes.",
+      "Em uma atividade com estudantes, o objetivo pode ser observar se as preferências do paciente realmente alteram a conversa sobre opções. Esta é uma sugestão pedagógica, não comprovação de resultado clínico. A página foi revista em fevereiro de 2026; a abordagem é anterior, e a existência do material não significa oferta atual de turma, crédito ou certificado."
+    ],
+    "implication": "Treinar a conversa exige verificar como as preferências entram na decisão.",
+    "discussionPrompt": "Em que momento a preferência do paciente mudou a comparação entre opções?",
+    "sourceDateEvidence": "Página atual: originalmente criada October 2024, revista February 2026; meses sem dia, portanto data ISO omitida. Abordagem anterior à página.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 145
+  },
+  {
+    "id": "formacao-006-stars-recursos",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Estudantes podem aprender a questionar exames de baixo valor",
+    "deck": "Campanha STARS apoia iniciativas de formação sobre uso responsável de recursos em saúde.",
+    "contentType": "Guia",
+    "sourceName": "Choosing Wisely Canada",
+    "sourceUrl": "https://choosingwiselycanada.org/stars/",
+    "sourceTitle": "Students and Trainees Advocating for Resource Stewardship (STARS)",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "A campanha STARS, da Choosing Wisely Canada, apoia iniciativas lideradas por estudantes para incorporar o uso responsável de recursos à formação clínica. O foco educacional é discutir por que mais exames ou procedimentos não representam, automaticamente, melhor cuidado.",
+      "O portal informa que a iniciativa passou a incluir escolas e estudantes de farmácia em 2025, além de sua atuação na medicina. Essa ampliação cria espaço para discutir escolhas com diferentes perspectivas profissionais. A página descreve uma campanha em andamento, não uma seleção internacional com elegibilidade ou prazo confirmados.",
+      "Uma aplicação na graduação é examinar um pedido de exame e explicitar qual pergunta ele responde, que decisão pode mudar e quais danos podem decorrer de resultados incidentais. Trata-se de proposta de discussão, não autorização para suspender cuidados indicados. A aprendizagem deve combinar evidência, contexto e supervisão, evitando transformar contenção de custos em objetivo isolado."
+    ],
+    "implication": "O valor de um exame depende da decisão que ele ajuda a tomar.",
+    "discussionPrompt": "Que informação deste exame mudaria a conduta e para quem?",
+    "sourceDateEvidence": "Página sem data editorial completa; expansão para farmácia explicitamente datada de 2025, sem mês ou dia.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 142
+  },
+  {
+    "id": "formacao-006-estudante-consentimento",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "O paciente pode recusar a participação do estudante",
+    "deck": "Orientação ética da AMA pede apresentação clara do papel do aprendiz e confirmação de concordância.",
+    "contentType": "Guia",
+    "sourceName": "American Medical Association",
+    "sourceUrl": "https://code-medical-ethics.ama-assn.org/ethics-opinions/medical-student-involvement-patient-care-0",
+    "sourceTitle": "Medical Student Involvement in Patient Care — Opinion 9.2.1",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "A opinião ética 9.2.1 da American Medical Association afirma que a necessidade de formar médicos deve ser equilibrada com a liberdade do paciente de escolher quem participa do seu cuidado. A presença de estudantes precisa ser informada, com oportunidade de recusa.",
+      "O documento pede identificar claramente quem é estudante e seu estágio de formação, evitando termos que confundam o paciente. Também recomenda discutir a participação antes de procedimentos que causem incapacidade temporária e envolver o representante quando a pessoa não pode decidir.",
+      "Na formação, apresentar-se corretamente é parte da relação clínica, não uma formalidade dispensável porque o atendimento ocorre em hospital de ensino. O texto é uma referência ética norte-americana sem data editorial completa visível na página. Sua leitura não substitui normas brasileiras, regras do serviço ou os cuidados específicos exigidos para cada procedimento."
+    ],
+    "implication": "A necessidade de aprender não elimina a escolha do paciente sobre quem participa.",
+    "discussionPrompt": "A apresentação deixou claro que a pessoa diante do paciente ainda é estudante?",
+    "sourceDateEvidence": "Página Opinion 9.2.1 sem data editorial completa; ano de copyright não usado como data de publicação.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 134,
+    "additionalSources": [
+      {
+        "title": "PDF oficial da opinião ética 9.2.1",
+        "url": "https://code-medical-ethics.ama-assn.org/sites/amacoedb/files/2022-10/9.2.1%20(1).pdf"
+      }
+    ]
+  },
+  {
+    "id": "formacao-006-asa-p-valor",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Um p pequeno não informa o tamanho do benefício",
+    "deck": "Declaração da ASA ajuda a separar incompatibilidade estatística, magnitude e relevância clínica.",
+    "contentType": "Guia",
+    "sourceName": "American Statistical Association",
+    "sourceUrl": "https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf",
+    "sourceTitle": "American Statistical Association Releases Statement on Statistical Significance and P-Values",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "A declaração da American Statistical Association sobre valores de p, divulgada em 7 de março de 2016, permanece uma referência para leitura crítica. Ela explica que o indicador informa sobre a incompatibilidade entre os dados e um modelo estatístico especificado; não fornece a probabilidade de a hipótese estudada ser verdadeira.",
+      "Outro princípio é separar significância estatística de tamanho ou importância do efeito. Uma conclusão não deve depender apenas de atravessar um limiar, e a interpretação exige conhecer desenho, análises realizadas e contexto. A transparência também importa quando várias comparações foram exploradas.",
+      "Num clube de revista, vale procurar a estimativa do efeito e sua incerteza antes de destacar o p do resumo. Essa prática não dispensa a análise estatística nem transforma qualquer resultado não significativo em equivalência. O documento é histórico e não anuncia uma nova regra universal para aceitar ou rejeitar tratamentos."
+    ],
+    "implication": "O valor de p não substitui estimativa de efeito, incerteza e contexto.",
+    "discussionPrompt": "Qual efeito foi estimado, e não apenas qual limiar estatístico foi ultrapassado?",
+    "sourceDateEvidence": "PDF oficial da ASA abre com March 7, 2016; seis princípios conferidos.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 142,
+    "date": "2016-03-07"
+  },
+  {
+    "id": "formacao-006-tidier-intervencao",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "TIDieR: o nome da intervenção não explica o que foi feito",
+    "deck": "Doze itens ajudam a descrever materiais, profissionais, intensidade e adaptações do cuidado estudado.",
+    "contentType": "Guia",
+    "sourceName": "Grupo TIDieR / BMJ",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24609605/",
+    "sourceTitle": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "O TIDieR, publicado em 7 de março de 2014, foi criado para enfrentar uma limitação prática dos artigos: intervenções descritas de modo insuficiente para serem compreendidas ou reproduzidas. Seu checklist possui 12 itens e complementa orientações gerais de relato.",
+      "Além do nome e da justificativa, solicita materiais, procedimentos, quem realizou a intervenção, onde, como e com qual frequência ou intensidade. Também diferencia adaptações planejadas, modificações durante o estudo e o quanto a execução correspondeu ao previsto.",
+      "Para quem participa de pesquisa, descrever apenas que houve orientação ou treinamento pode esconder componentes decisivos. Um exercício útil é pedir a outro integrante que reconstrua a atividade a partir do manuscrito. O TIDieR é uma referência metodológica histórica: descrição completa não demonstra eficácia nem garante que a intervenção seja adequada a outro serviço."
+    ],
+    "implication": "Uma intervenção precisa ser descrita em detalhes operacionais, não só nomeada.",
+    "discussionPrompt": "Outra equipe conseguiria reconstruir o que foi realmente oferecido?",
+    "sourceDateEvidence": "PubMed do artigo original: 2014 Mar 7;348:g1687, DOI 10.1136/bmj.g1687.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 130,
+    "date": "2014-03-07",
+    "additionalSources": [
+      {
+        "title": "Artigo original TIDieR no BMJ",
+        "url": "https://www.bmj.com/content/348/bmj.g1687"
+      }
+    ]
+  },
+  {
+    "id": "formacao-006-coreq-qualitativa",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Entrevistas de pesquisa precisam revelar como os temas foram construídos",
+    "deck": "COREQ orienta relatar equipe, contexto e análise em entrevistas e grupos focais.",
+    "contentType": "Guia",
+    "sourceName": "Tong, Sainsbury e Craig / International Journal for Quality in Health Care",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/17872937/",
+    "sourceTitle": "Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "O COREQ reúne 32 itens para o relato de pesquisas qualitativas baseadas em entrevistas aprofundadas e grupos focais. Publicado on-line em 14 de setembro de 2007, organiza a apresentação em três domínios: equipe e reflexividade, desenho do estudo, e análise e relato dos dados.",
+      "O artigo destaca elementos como seleção dos participantes, local e registro da coleta, construção dos temas e citações que sustentam a interpretação. Isso permite ao leitor acompanhar o percurso analítico, em vez de receber apenas frases marcantes retiradas das entrevistas.",
+      "Na iniciação científica, o recurso ajuda a planejar quais decisões metodológicas precisam ser documentadas desde o início. É uma orientação de transparência, não uma escala que certifica automaticamente a qualidade de toda pesquisa qualitativa. Seu escopo específico não deve ser ampliado para qualquer método apenas porque o trabalho utiliza palavras, em vez de números."
+    ],
+    "implication": "A interpretação qualitativa precisa mostrar o caminho entre material coletado e temas apresentados.",
+    "discussionPrompt": "Como os pesquisadores passaram dos registros de entrevista às categorias da análise?",
+    "sourceDateEvidence": "PubMed: Epub 2007 Sep 14; edição impressa December 2007; DOI 10.1093/intqhc/mzm042.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 138,
+    "date": "2007-09-14"
+  },
+  {
+    "id": "formacao-006-cosmin-validade-conteudo",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Antes de usar uma escala, confira se ela mede o que interessa",
+    "deck": "Perspectiva COSMIN separa relevância, abrangência e compreensão do conteúdo de um instrumento.",
+    "contentType": "Guia",
+    "sourceName": "COSMIN / Journal of Clinical Epidemiology",
+    "sourceUrl": "https://biblio.ugent.be/publication/01JYXQ22DYVAPEHJFG03QE9MWE",
+    "sourceTitle": "Content validity: judging the relevance, comprehensiveness, and comprehensibility of an outcome measurement instrument — a COSMIN perspective",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "Uma perspectiva metodológica do grupo COSMIN, publicada on-line em 24 de junho de 2025, explica por que escolher um instrumento exige examinar seu conteúdo. Três perguntas orientam a avaliação: os itens são relevantes, cobrem os aspectos necessários e são compreendidos por quem participa da medida?",
+      "A discussão não se limita a questionários respondidos por pacientes. Abrange medidas feitas por profissionais e testes de desempenho, incluindo instruções e atribuição de escores. O conteúdo precisa corresponder ao desfecho, à população e ao contexto em que será utilizado.",
+      "Para um projeto estudantil, isso significa definir primeiro o que se deseja medir, em vez de escolher uma escala apenas por sua popularidade. O artigo descreve avaliação qualitativa e revisão iterativa do instrumento; não valida uma escala específica nem substitui o exame de suas demais propriedades de medida. Trata-se de referência metodológica, não descoberta clínica nova."
+    ],
+    "implication": "Popularidade de uma escala não assegura adequação ao desfecho e à população do projeto.",
+    "discussionPrompt": "Que aspecto importante do desfecho pode estar ausente dos itens escolhidos?",
+    "sourceDateEvidence": "PDF da versão publicada no repositório UGent: Accepted 19 June 2025; Published online 24 June 2025; DOI 10.1016/j.jclinepi.2025.111879.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 141,
+    "date": "2025-06-24",
+    "additionalSources": [
+      {
+        "title": "Versão publicada em acesso aberto",
+        "url": "https://biblio.ugent.be/publication/01JYXQ22DYVAPEHJFG03QE9MWE/file/01K2YQ9KNK0TMAETQ0XASYXE6F.pdf"
+      }
+    ]
+  },
+  {
+    "id": "formacao-006-dagitty-ajuste",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Ajustar por mais variáveis nem sempre reduz o viés",
+    "deck": "Manual do DAGitty ensina a explicitar pressupostos causais antes de escolher covariáveis.",
+    "contentType": "Guia",
+    "sourceName": "Johannes Textor / DAGitty",
+    "sourceUrl": "https://www.dagitty.net/manual-3.x.pdf",
+    "sourceTitle": "Drawing and Analyzing Causal DAGs with DAGitty",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "O manual do DAGitty, datado de 18 de julho de 2023, apresenta diagramas causais como instrumentos para examinar caminhos de associação e escolhas de ajuste. A ferramenta permite identificar conjuntos de variáveis compatíveis com a estimação de um efeito, desde que os pressupostos representados no diagrama sejam adequados.",
+      "Essa condição é central: acrescentar covariáveis indiscriminadamente pode bloquear parte do efeito de interesse ou abrir caminhos de viés. O desenho precisa distinguir exposição, desfecho e relações propostas, em vez de ser construído apenas para justificar uma regressão já escolhida.",
+      "Em uma atividade de epidemiologia, dois grupos podem desenhar hipóteses diferentes para o mesmo problema e discutir por que recomendam ajustes distintos. O software calcula consequências do modelo informado; não descobre sozinho a estrutura causal verdadeira. Esta apresentação é um guia de aprendizagem, não anúncio de nova versão nem garantia de causalidade em dados observacionais."
+    ],
+    "implication": "Escolher covariáveis requer uma hipótese causal explícita, não somente disponibilidade de dados.",
+    "discussionPrompt": "Que relação assumida no diagrama mais altera a escolha do ajuste?",
+    "sourceDateEvidence": "Capa do manual oficial Drawing and Analyzing Causal DAGs with DAGitty: July 18, 2023.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 143,
+    "date": "2023-07-18"
+  },
+  {
+    "id": "formacao-006-nih-dms-2026",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "NIH simplifica o plano de compartilhamento de dados em 2026",
+    "deck": "Formato exige explicitar disponibilidade, prazos, restrições e proteção dos participantes.",
+    "contentType": "Análise",
+    "sourceName": "National Institutes of Health",
+    "sourceUrl": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-046.html",
+    "sourceTitle": "Updated Elements of an NIH Data Management and Sharing Plan",
+    "evidenceType": "Orientação de financiador para pesquisa · fonte primária",
+    "paragraphs": [
+      "O NIH anunciou em 25 de fevereiro de 2026 uma atualização dos elementos do plano de gestão e compartilhamento de dados. O aviso prevê o formato simplificado para candidaturas com vencimentos a partir de 25 de maio de 2026; a página de formulários confirma que a transição já ocorreu.",
+      "O plano combina perguntas objetivas sobre compartilhamento e prazos com justificativas para limitações éticas, legais ou técnicas. Também pede proteção de privacidade e uma tabela com tipos de dados e repositórios previstos. Simplificar o formulário não elimina a necessidade de planejar essas decisões.",
+      "Para estudantes em equipes financiadas pelo NIH, a leitura ajuda a reconhecer que organizar dados é tarefa do projeto desde o início. A política não autoriza divulgar informações identificáveis nem se aplica automaticamente a todo trabalho brasileiro. Deve-se conferir o enquadramento do financiamento e as exigências específicas antes de reutilizar um modelo antigo."
+    ],
+    "implication": "Um formulário menor não reduz a responsabilidade pelo destino dos dados.",
+    "discussionPrompt": "O projeto sabe quais dados poderá compartilhar, em que prazo e sob quais restrições?",
+    "sourceDateEvidence": "NOT-OD-26-046: Release Date February 25, 2026; aplicação para due dates on/after May 25, 2026. Página oficial de formato confirma transição.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 145,
+    "date": "2026-02-25",
+    "additionalSources": [
+      {
+        "title": "Página oficial do formato DMS 2026",
+        "url": "https://www.grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page"
+      }
+    ]
+  },
+  {
+    "id": "formacao-006-escolha-periodico",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Convite para publicar não dispensa verificar o periódico",
+    "deck": "Think. Check. Submit. oferece perguntas sobre revisão, identidade editorial, taxas e preservação.",
+    "contentType": "Guia",
+    "sourceName": "Think. Check. Submit.",
+    "sourceUrl": "https://thinkchecksubmit.org/journals/",
+    "sourceTitle": "Journals — Think. Check. Submit.",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "O checklist Think. Check. Submit. ajuda autores a examinar se um periódico é adequado e confiável antes de enviar um manuscrito. A versão em inglês consultada informa atualização em março de 2023, com alterações adicionais em junho daquele ano.",
+      "As perguntas abrangem identidade e contato da editora, clareza sobre revisão por pares, indexação, preservação digital, licenças e taxas. Promessa de aceitação ou de revisão extremamente rápida merece atenção. O roteiro também convida a conferir informações do periódico em fontes independentes, em vez de aceitar apenas o material promocional.",
+      "Para quem prepara a primeira publicação, o exercício útil é preencher essas respostas antes de discutir somente prazo ou prestígio. Cobrar uma taxa, isoladamente, não determina a confiabilidade de uma revista; interessa a transparência do conjunto. O checklist é apoio à decisão e não certifica automaticamente cada artigo publicado nem garante aceitação do manuscrito."
+    ],
+    "implication": "Escolher onde publicar faz parte do trabalho científico, antes da submissão.",
+    "discussionPrompt": "As informações sobre revisão, custos e preservação podem ser verificadas fora do convite recebido?",
+    "sourceDateEvidence": "Página informa atualização em March 2023 e further amendments in June 2023; dia não informado, data ISO omitida.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 142
+  },
+  {
+    "id": "formacao-006-autenticacao-reagentes",
+    "section": "formacao",
+    "category": "Formação",
+    "title": "Recurso essencial comprado também precisa de autenticação",
+    "deck": "Orientação do NIH distingue o plano de autenticação de recursos essenciais do simples registro de sua origem.",
+    "contentType": "Guia",
+    "sourceName": "NIH / AHRQ",
+    "sourceUrl": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-068.html",
+    "sourceTitle": "Reminder: Authentication of Key Biological and/or Chemical Resources",
+    "evidenceType": "Recurso educacional ou metodológico · fonte primária",
+    "paragraphs": [
+      "Um aviso do NIH e da AHRQ, publicado em 31 de maio de 2017, explica a necessidade de planejar a autenticação de recursos biológicos ou químicos essenciais à pesquisa. Linhagens celulares, anticorpos e substâncias especiais podem variar entre laboratórios ou ao longo do tempo.",
+      "O documento ressalta que obter o material de um fornecedor externo, mesmo com autenticação prévia informada, não dispensa descrever como sua identidade ou qualidade será verificada no projeto. Para linhagens celulares, cita métodos de identificação e investigação de contaminação como exemplos, não um protocolo universal.",
+      "Na iniciação em laboratório, a lição é perguntar qual característica do material sustenta a interpretação do experimento e como ela será confirmada. O aviso é uma referência histórica de financiamento norte-americano, não uma descoberta atual. Autenticar um insumo não resolve todas as fontes de irreprodutibilidade, mas evita tratar o rótulo como prova suficiente."
+    ],
+    "implication": "A procedência do material não substitui verificar a propriedade que importa ao experimento.",
+    "discussionPrompt": "Como o laboratório sabe que o recurso usado corresponde ao que o protocolo pressupõe?",
+    "sourceDateEvidence": "Aviso NOT-OD-17-068: Release Date May 31, 2017.",
+    "verifiedAt": "2026-10-28",
+    "wordCount": 142,
+    "date": "2017-05-31"
+  }
+]
